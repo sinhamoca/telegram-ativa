@@ -1,0 +1,1068 @@
+03/12/2025 17:44:48: [Payment] Erro ao consultar pagamento: timeout of 15000ms exceeded
+03/12/2025 17:44:53: [Payment] Erro ao consultar pagamento: timeout of 15000ms exceeded
+03/12/2025 17:44:58: [Payment] Erro ao consultar pagamento: timeout of 15000ms exceeded
+03/12/2025 17:45:03: [Payment] Erro ao consultar pagamento: timeout of 15000ms exceeded
+03/12/2025 17:55:49: [Master] Erro: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+03/12/2025 21:24:22: [BOB Player] Erro no login: timeout of 15000ms exceeded
+04/12/2025 21:28:08: [Master] Erro: db.bots.listarPorUsuario is not a function
+04/12/2025 21:33:23: Error: Bot is not running!
+04/12/2025 21:33:23:     at Telegraf.stop (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/telegraf.js:218:19)
+04/12/2025 21:33:23:     at shutdown (/home/ubuntu/ativacao-saas/src/index.js:191:15)
+04/12/2025 21:33:23:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+04/12/2025 21:33:36: [Master] Erro: no such column: b.nome
+04/12/2025 22:34:47: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:34:47:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:34:47:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:34:47:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:34:47:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:34:54: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:34:54:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:34:54:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:34:54:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:34:54:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:35:00: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:35:00:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:35:00:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:35:00:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:35:00:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:35:07: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:35:07:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:35:07:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:35:07:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:35:07:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:35:13: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:35:13:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:35:13:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:35:13:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:35:13:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:35:20: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:35:20:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:35:20:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:35:20:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:35:20:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:35:26: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:35:26:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:35:26:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:35:26:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:35:26:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:35:33: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:35:33:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:35:33:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:35:33:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:35:33:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:35:39: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:35:39:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:35:39:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:35:39:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:35:39:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:35:46: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:35:46:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:35:46:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:35:46:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:35:46:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:35:52: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:35:52:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:35:52:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:35:52:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:35:52:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:35:59: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:35:59:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:35:59:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:35:59:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:35:59:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:36:06: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:36:06:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:36:06:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:36:06:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:36:06:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:36:12: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:36:12:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:36:12:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:36:12:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:36:12:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:36:19: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:36:19:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:36:19:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:36:19:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:36:19:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:36:25: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:36:25:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:36:25:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:36:25:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:36:25:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:36:32: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:36:32:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:36:32:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:36:32:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:36:32:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:36:38: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:36:38:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:36:38:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:36:38:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:36:38:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:36:44: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:36:44:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:36:44:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:36:44:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:36:44:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:36:51: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:36:51:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:36:51:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:36:51:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:36:51:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:36:58: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:36:58:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:36:58:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:36:58:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:36:58:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:37:04: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:37:04:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:37:04:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:37:04:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:37:04:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:37:11: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:37:11:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:37:11:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:37:11:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:37:11:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:37:17: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:37:17:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:37:17:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:37:17:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:37:17:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:37:24: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:37:24:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:37:24:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:37:24:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:37:24:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:37:30: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:37:30:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:37:30:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:37:30:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:37:30:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:37:37: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:37:37:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:37:37:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:37:37:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:37:37:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:37:43: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:37:43:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:37:43:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:37:43:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:37:43:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:37:50: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:37:50:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:37:50:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:37:50:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:37:50:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:37:56: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:37:56:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:37:56:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:37:56:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:37:56:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:38:03: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:38:03:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:38:03:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:38:03:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:38:03:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:38:09: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:38:09:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:38:09:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:38:09:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:38:09:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:38:16: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:38:16:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:38:16:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:38:16:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:38:16:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:38:22: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:38:22:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:38:22:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:38:22:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:38:22:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:38:29: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:38:29:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:38:29:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:38:29:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:38:29:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:38:35: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:38:35:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:38:35:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:38:35:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:38:35:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:38:42: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:38:42:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:38:42:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:38:42:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:38:42:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:38:48: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:38:48:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:38:48:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:38:48:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:38:48:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:38:55: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:38:55:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:38:55:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:38:55:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:38:55:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:39:02: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:39:02:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:39:02:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:39:02:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:39:02:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:39:08: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:39:08:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:39:08:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:39:08:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:39:08:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:39:14: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:39:14:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:39:14:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:39:14:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:39:14:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:39:21: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:39:21:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:39:21:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:39:21:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:39:21:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:39:27: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:39:27:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:39:27:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:39:27:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:39:27:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:39:34: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:39:34:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:39:34:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:39:34:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:39:34:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:39:41: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:39:41:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:39:41:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:39:41:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:39:41:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:39:47: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:39:47:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:39:47:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:39:47:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:39:47:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:39:54: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:39:54:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:39:54:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:39:54:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:39:54:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:40:00: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:40:00:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:40:00:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:40:00:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:40:00:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:40:06: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:40:06:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:40:06:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:40:06:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:40:06:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:40:13: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:40:13:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:40:13:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:40:13:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:40:13:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:40:19: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:40:19:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:40:19:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:40:19:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:40:19:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:40:26: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:40:26:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:40:26:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:40:26:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:40:26:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:40:32: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:40:32:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:40:32:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:40:32:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:40:32:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:40:39: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:40:39:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:40:39:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:40:39:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:40:39:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:40:46: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:40:46:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:40:46:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:40:46:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:40:46:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:40:52: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:40:52:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:40:52:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:40:52:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:40:52:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:40:58: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:40:58:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:40:58:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:40:58:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:40:58:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:41:05: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:41:05:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:41:05:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:41:05:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:41:05:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:41:11: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:41:11:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:41:11:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:41:11:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:41:11:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:41:18: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:41:18:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:41:18:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:41:18:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:41:18:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:41:24: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:41:24:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:41:24:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:41:24:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:41:24:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:41:31: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:41:31:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:41:31:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:41:31:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:41:31:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:41:37: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:41:37:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:41:37:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:41:37:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:41:37:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:41:44: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:41:44:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:41:44:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:41:44:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:41:44:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:41:50: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:41:50:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:41:50:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:41:50:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:41:50:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:41:56: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:41:56:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:41:56:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:41:56:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:41:56:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:42:03: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:42:03:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:42:03:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:42:03:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:42:03:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:42:09: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:42:09:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:42:09:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:42:09:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:42:09:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:42:16: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:42:16:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:42:16:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:42:16:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:42:16:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:42:23: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:42:23:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:42:23:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:42:23:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:42:23:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:42:29: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:42:29:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:42:29:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:42:29:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:42:29:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:42:35: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:42:35:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:42:35:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:42:35:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:42:35:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:42:42: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:42:42:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:42:42:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:42:42:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:42:42:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:42:48: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:42:48:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:42:48:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:42:48:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:42:48:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:42:55: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:42:55:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:42:55:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:42:55:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:42:55:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:43:01: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:43:01:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:43:01:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:43:01:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:43:01:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:43:07: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:43:07:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:43:07:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:43:07:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:43:07:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:43:14: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:43:14:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:43:14:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:43:14:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:43:14:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:43:20: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:43:20:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:43:20:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:43:20:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:43:20:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:43:27: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:43:27:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:43:27:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:43:27:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:43:27:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:43:33: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:43:33:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:43:33:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:43:33:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:43:33:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:43:40: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:43:40:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:43:40:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:43:40:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:43:40:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:43:46: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:43:46:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:43:46:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:43:46:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:43:46:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:43:52: Error: Cannot find module './services/botManager'
+04/12/2025 22:43:52: Require stack:
+04/12/2025 22:43:52: - /home/ubuntu/ativacao-saas/src/index.js
+04/12/2025 22:43:52:     at Function._resolveFilename (node:internal/modules/cjs/loader:1401:15)
+04/12/2025 22:43:52:     at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+04/12/2025 22:43:52:     at require (node:internal/modules/helpers:135:16)
+04/12/2025 22:43:52:     at Object.<anonymous> (/home/ubuntu/ativacao-saas/src/index.js:16:20)
+04/12/2025 22:43:52:     at Module._compile (node:internal/modules/cjs/loader:1730:14)
+04/12/2025 22:43:52:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+04/12/2025 22:43:52:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+04/12/2025 22:43:52:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+04/12/2025 22:43:52:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+04/12/2025 22:43:52:     at Module._compile (node:internal/modules/cjs/loader:1730:14) {
+04/12/2025 22:43:52:   code: 'MODULE_NOT_FOUND',
+04/12/2025 22:43:52:   requireStack: [ '/home/ubuntu/ativacao-saas/src/index.js' ]
+04/12/2025 22:43:52: }
+04/12/2025 22:43:58: Error: Cannot find module './services/botManager'
+04/12/2025 22:43:58: Require stack:
+04/12/2025 22:43:58: - /home/ubuntu/ativacao-saas/src/index.js
+04/12/2025 22:43:58:     at Function._resolveFilename (node:internal/modules/cjs/loader:1401:15)
+04/12/2025 22:43:58:     at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+04/12/2025 22:43:58:     at require (node:internal/modules/helpers:135:16)
+04/12/2025 22:43:58:     at Object.<anonymous> (/home/ubuntu/ativacao-saas/src/index.js:16:20)
+04/12/2025 22:43:58:     at Module._compile (node:internal/modules/cjs/loader:1730:14)
+04/12/2025 22:43:58:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+04/12/2025 22:43:58:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+04/12/2025 22:43:58:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+04/12/2025 22:43:58:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+04/12/2025 22:43:58:     at Module._compile (node:internal/modules/cjs/loader:1730:14) {
+04/12/2025 22:43:58:   code: 'MODULE_NOT_FOUND',
+04/12/2025 22:43:58:   requireStack: [ '/home/ubuntu/ativacao-saas/src/index.js' ]
+04/12/2025 22:43:58: }
+04/12/2025 22:44:03: Error: Cannot find module './services/botManager'
+04/12/2025 22:44:03: Require stack:
+04/12/2025 22:44:03: - /home/ubuntu/ativacao-saas/src/index.js
+04/12/2025 22:44:03:     at Function._resolveFilename (node:internal/modules/cjs/loader:1401:15)
+04/12/2025 22:44:03:     at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+04/12/2025 22:44:03:     at require (node:internal/modules/helpers:135:16)
+04/12/2025 22:44:03:     at Object.<anonymous> (/home/ubuntu/ativacao-saas/src/index.js:16:20)
+04/12/2025 22:44:03:     at Module._compile (node:internal/modules/cjs/loader:1730:14)
+04/12/2025 22:44:03:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+04/12/2025 22:44:03:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+04/12/2025 22:44:03:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+04/12/2025 22:44:03:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+04/12/2025 22:44:03:     at Module._compile (node:internal/modules/cjs/loader:1730:14) {
+04/12/2025 22:44:03:   code: 'MODULE_NOT_FOUND',
+04/12/2025 22:44:03:   requireStack: [ '/home/ubuntu/ativacao-saas/src/index.js' ]
+04/12/2025 22:44:03: }
+04/12/2025 22:44:09: Error: Cannot find module './services/botManager'
+04/12/2025 22:44:09: Require stack:
+04/12/2025 22:44:09: - /home/ubuntu/ativacao-saas/src/index.js
+04/12/2025 22:44:09:     at Function._resolveFilename (node:internal/modules/cjs/loader:1401:15)
+04/12/2025 22:44:09:     at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+04/12/2025 22:44:09:     at require (node:internal/modules/helpers:135:16)
+04/12/2025 22:44:09:     at Object.<anonymous> (/home/ubuntu/ativacao-saas/src/index.js:16:20)
+04/12/2025 22:44:09:     at Module._compile (node:internal/modules/cjs/loader:1730:14)
+04/12/2025 22:44:09:     at Object..js (node:internal/modules/cjs/loader:1895:10)
+04/12/2025 22:44:09:     at Module.load (node:internal/modules/cjs/loader:1465:32)
+04/12/2025 22:44:09:     at Function._load (node:internal/modules/cjs/loader:1282:12)
+04/12/2025 22:44:09:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+04/12/2025 22:44:09:     at Module._compile (node:internal/modules/cjs/loader:1730:14) {
+04/12/2025 22:44:09:   code: 'MODULE_NOT_FOUND',
+04/12/2025 22:44:09:   requireStack: [ '/home/ubuntu/ativacao-saas/src/index.js' ]
+04/12/2025 22:44:09: }
+04/12/2025 22:44:15: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:44:15:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:44:15:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:44:15:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:44:15:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:44:21: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:44:21:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:44:21:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:44:21:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:44:21:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:44:28: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:44:28:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:44:28:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:44:28:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:44:28:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:44:34: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:44:34:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:44:34:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:44:34:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:44:34:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:44:41: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:44:41:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:44:41:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:44:41:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:44:41:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:44:47: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:44:47:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:44:47:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:44:47:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:44:47:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:44:54: ❌ Erro fatal: Error: no such column: codigo_afiliado
+04/12/2025 22:44:54:     at e.handleError (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:90:371)
+04/12/2025 22:44:54:     at e.run (/home/ubuntu/ativacao-saas/node_modules/sql.js/dist/sql-wasm.js:87:404)
+04/12/2025 22:44:54:     at Object.initDb (/home/ubuntu/ativacao-saas/src/database/index.js:37:6)
+04/12/2025 22:44:54:     at async start (/home/ubuntu/ativacao-saas/src/index.js:30:3)
+04/12/2025 22:52:46: [IBO Player] Erro no login: Request failed with status code 401
+05/12/2025 02:07:53: [BotManager] Erro no polling de estacao2bot_bot: 401: Unauthorized
+05/12/2025 02:17:33: [Master] Erro: undefined
+05/12/2025 02:25:22: [Master] Erro: undefined
+05/12/2025 02:25:30: [Master] Erro: undefined
+05/12/2025 02:25:41: [Master] Erro: undefined
+05/12/2025 02:25:47: [Master] Erro: undefined
+05/12/2025 02:28:23: [Master] Erro: undefined
+05/12/2025 02:28:30: [Master] Erro: undefined
+05/12/2025 02:29:04: [Master] Erro: undefined
+05/12/2025 02:33:07: [Master] Erro: undefined
+05/12/2025 02:33:37: [Master] Erro: undefined
+05/12/2025 02:41:08: [Master] Erro: undefined
+05/12/2025 02:45:53: [Cadastro] Erro ao criar conta: undefined
+05/12/2025 02:45:53: [Cadastro] Stack: undefined
+05/12/2025 02:53:13: [Cadastro] Erro ao criar conta: Wrong API use : tried to bind a value of an unknown type (undefined).
+05/12/2025 02:53:13: [Cadastro] Tipo do erro: string
+05/12/2025 02:53:13: [Cadastro] Message: undefined
+05/12/2025 02:53:13: [Cadastro] Stack: undefined
+05/12/2025 02:59:06: [Cadastro] Erro ao criar conta: Wrong API use : tried to bind a value of an unknown type (undefined).
+05/12/2025 02:59:06: [Cadastro] Tipo do erro: string
+05/12/2025 02:59:06: [Cadastro] Message: undefined
+05/12/2025 02:59:06: [Cadastro] Stack: undefined
+05/12/2025 02:59:53: [Cadastro] Erro ao criar conta: Wrong API use : tried to bind a value of an unknown type (undefined).
+05/12/2025 02:59:53: [Cadastro] Tipo do erro: string
+05/12/2025 02:59:53: [Cadastro] Message: undefined
+05/12/2025 02:59:53: [Cadastro] Stack: undefined
+05/12/2025 03:00:54: [Cadastro] Erro ao criar conta: Wrong API use : tried to bind a value of an unknown type (undefined).
+05/12/2025 03:00:54: [Cadastro] Tipo do erro: string
+05/12/2025 03:00:54: [Cadastro] Message: undefined
+05/12/2025 03:00:54: [Cadastro] Stack: undefined
+05/12/2025 03:01:26: [Cadastro] Erro ao criar conta: Wrong API use : tried to bind a value of an unknown type (undefined).
+05/12/2025 03:01:26: [Cadastro] Tipo do erro: string
+05/12/2025 03:01:26: [Cadastro] Message: undefined
+05/12/2025 03:01:26: [Cadastro] Stack: undefined
+05/12/2025 03:20:58: [Master] Erro completo: TelegramError: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 03:20:58:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 03:20:58:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 03:20:58:     at async handleProdutos (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:297:3)
+05/12/2025 03:20:58:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 03:20:58:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 03:20:58:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 03:20:58:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 03:20:58:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 03:20:58:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 03:20:58:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17) {
+05/12/2025 03:20:58:   response: {
+05/12/2025 03:20:58:     ok: false,
+05/12/2025 03:20:58:     error_code: 400,
+05/12/2025 03:20:58:     description: 'Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message'
+05/12/2025 03:20:58:   },
+05/12/2025 03:20:58:   on: {
+05/12/2025 03:20:58:     method: 'editMessageText',
+05/12/2025 03:20:58:     payload: {
+05/12/2025 03:20:58:       chat_id: 7832943510,
+05/12/2025 03:20:58:       message_id: 11275,
+05/12/2025 03:20:58:       inline_message_id: undefined,
+05/12/2025 03:20:58:       parse_mode: 'Markdown',
+05/12/2025 03:20:58:       reply_markup: [Object],
+05/12/2025 03:20:58:       text: '📱 *Meus Produtos*\n' +
+05/12/2025 03:20:58:         '\n' +
+05/12/2025 03:20:58:         '🟢 *BOB Player Anual* - R$12.00\n' +
+05/12/2025 03:20:58:         '🟢 *BOB Player Vitalício* - R$12.00\n' +
+05/12/2025 03:20:58:         '🟢 *BOB Premium Vitalício* - R$12.00\n' +
+05/12/2025 03:20:58:         '🟢 *BOB Pro Anual* - R$12.00\n' +
+05/12/2025 03:20:58:         '🟢 *BOB Pro Vitalício* - R$12.00\n' +
+05/12/2025 03:20:58:         '🟢 *Duplex 24 Anual* - R$12.00\n' +
+05/12/2025 03:20:58:         '🟢 *Duplex 24 Anual* - R$12.00\n' +
+05/12/2025 03:20:58:         '🟢 *Duplex 24 Vitalício* - R$24.00\n' +
+05/12/2025 03:20:58:         '🟢 *IBO Player Anual* - R$12.00\n' +
+05/12/2025 03:20:58:         '🟢 *IBO Player Vitalício* - R$24.00\n' +
+05/12/2025 03:20:58:         '🟢 *IBO Pro Anual* - R$12.00\n' +
+05/12/2025 03:20:58:         '🟢 *IBO Pro Vitalício* - R$24.00\n' +
+05/12/2025 03:20:58:         '🟢 *King 4K Player Anual* - R$12.00\n' +
+05/12/2025 03:20:58:         '🟢 *King 4K Player Vitalício* - R$12.00\n' +
+05/12/2025 03:20:58:         '🟢 *MAC Player Anual* - R$12.00\n' +
+05/12/2025 03:20:58:         '🟢 *MAC Player Vitalício* - R$24.00\n' +
+05/12/2025 03:20:58:         '🟢 *SmartOne Pro Anual* - R$12.00\n' +
+05/12/2025 03:20:58:         '🟢 *SmartOne Pro Vitalício* - R$24.00\n'
+05/12/2025 03:20:58:     }
+05/12/2025 03:20:58:   }
+05/12/2025 03:20:58: }
+05/12/2025 03:20:58: [Master] Tipo: object
+05/12/2025 03:20:58: [Master] Message: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 03:20:58: [Master] Stack: Error: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 03:20:58:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 03:20:58:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 03:20:58:     at async handleProdutos (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:297:3)
+05/12/2025 03:20:58:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 03:20:58:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 03:20:58:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 03:20:58:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 03:20:58:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 03:20:58:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 03:20:58:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 03:31:12: [IBO Pro] Erro no login: Request failed with status code 401
+05/12/2025 03:31:37: [IBO Pro] Erro no login: Request failed with status code 401
+05/12/2025 03:32:21: [IBO Pro] Erro no login: Request failed with status code 401
+05/12/2025 03:59:06: [Master] Erro completo: TelegramError: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 03:59:06:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 03:59:06:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 03:59:06:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 03:59:06:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 03:59:06:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 03:59:06:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 03:59:06:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 03:59:06:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 03:59:06:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 03:59:06:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17) {
+05/12/2025 03:59:06:   response: {
+05/12/2025 03:59:06:     ok: false,
+05/12/2025 03:59:06:     error_code: 400,
+05/12/2025 03:59:06:     description: 'Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message'
+05/12/2025 03:59:06:   },
+05/12/2025 03:59:06:   on: {
+05/12/2025 03:59:06:     method: 'editMessageText',
+05/12/2025 03:59:06:     payload: {
+05/12/2025 03:59:06:       chat_id: 7832943510,
+05/12/2025 03:59:06:       message_id: 11454,
+05/12/2025 03:59:06:       inline_message_id: undefined,
+05/12/2025 03:59:06:       parse_mode: 'HTML',
+05/12/2025 03:59:06:       reply_markup: [Object],
+05/12/2025 03:59:06:       text: '👥 <b>Saldos dos Clientes</b>\n' +
+05/12/2025 03:59:06:         '\n' +
+05/12/2025 03:59:06:         '<b>Total:</b> 1 cliente(s) com saldo\n' +
+05/12/2025 03:59:06:         '\n' +
+05/12/2025 03:59:06:         '👤 ID: <code>7832943510</code>\n' +
+05/12/2025 03:59:06:         '💰 Saldo: R$12.00\n' +
+05/12/2025 03:59:06:         '\n' +
+05/12/2025 03:59:06:         '📊 <b>Total em saldos:</b> R$12.00'
+05/12/2025 03:59:06:     }
+05/12/2025 03:59:06:   }
+05/12/2025 03:59:06: }
+05/12/2025 03:59:06: [Master] Tipo: object
+05/12/2025 03:59:06: [Master] Message: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 03:59:06: [Master] Stack: Error: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 03:59:06:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 03:59:06:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 03:59:06:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 03:59:06:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 03:59:06:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 03:59:06:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 03:59:06:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 03:59:06:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 03:59:06:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 03:59:06:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 12:25:49: [Master] Erro completo: TelegramError: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 12:25:49:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 12:25:49:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 12:25:49:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 12:25:49:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 12:25:49:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 12:25:49:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 12:25:49:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 12:25:49:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 12:25:49:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 12:25:49:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17) {
+05/12/2025 12:25:49:   response: {
+05/12/2025 12:25:49:     ok: false,
+05/12/2025 12:25:49:     error_code: 400,
+05/12/2025 12:25:49:     description: 'Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message'
+05/12/2025 12:25:49:   },
+05/12/2025 12:25:49:   on: {
+05/12/2025 12:25:49:     method: 'editMessageText',
+05/12/2025 12:25:49:     payload: {
+05/12/2025 12:25:49:       chat_id: 7832943510,
+05/12/2025 12:25:49:       message_id: 11464,
+05/12/2025 12:25:49:       inline_message_id: undefined,
+05/12/2025 12:25:49:       parse_mode: 'HTML',
+05/12/2025 12:25:49:       reply_markup: [Object],
+05/12/2025 12:25:49:       text: '👥 <b>Saldos dos Clientes</b>\n' +
+05/12/2025 12:25:49:         '\n' +
+05/12/2025 12:25:49:         '<i>Nenhum cliente com saldo encontrado.</i>'
+05/12/2025 12:25:49:     }
+05/12/2025 12:25:49:   }
+05/12/2025 12:25:49: }
+05/12/2025 12:25:49: [Master] Tipo: object
+05/12/2025 12:25:49: [Master] Message: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 12:25:49: [Master] Stack: Error: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 12:25:49:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 12:25:49:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 12:25:49:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 12:25:49:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 12:25:49:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 12:25:49:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 12:25:49:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 12:25:49:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 12:25:49:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 12:25:49:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 12:41:05: [Master] Erro completo: TelegramError: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 12:41:05:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 12:41:05:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 12:41:05:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 12:41:05:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 12:41:05:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 12:41:05:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 12:41:05:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 12:41:05:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 12:41:05:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 12:41:05:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17) {
+05/12/2025 12:41:05:   response: {
+05/12/2025 12:41:05:     ok: false,
+05/12/2025 12:41:05:     error_code: 400,
+05/12/2025 12:41:05:     description: 'Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message'
+05/12/2025 12:41:05:   },
+05/12/2025 12:41:05:   on: {
+05/12/2025 12:41:05:     method: 'editMessageText',
+05/12/2025 12:41:05:     payload: {
+05/12/2025 12:41:05:       chat_id: 7832943510,
+05/12/2025 12:41:05:       message_id: 11473,
+05/12/2025 12:41:05:       inline_message_id: undefined,
+05/12/2025 12:41:05:       parse_mode: 'HTML',
+05/12/2025 12:41:05:       reply_markup: [Object],
+05/12/2025 12:41:05:       text: '👥 <b>Saldos dos Clientes</b>\n' +
+05/12/2025 12:41:05:         '\n' +
+05/12/2025 12:41:05:         '<b>Total:</b> 1 cliente(s) com saldo\n' +
+05/12/2025 12:41:05:         '\n' +
+05/12/2025 12:41:05:         '👤 ID: <code>7832943510</code>\n' +
+05/12/2025 12:41:05:         '💰 Saldo: R$28.00\n' +
+05/12/2025 12:41:05:         '\n' +
+05/12/2025 12:41:05:         '📊 <b>Total em saldos:</b> R$28.00'
+05/12/2025 12:41:05:     }
+05/12/2025 12:41:05:   }
+05/12/2025 12:41:05: }
+05/12/2025 12:41:05: [Master] Tipo: object
+05/12/2025 12:41:05: [Master] Message: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 12:41:05: [Master] Stack: Error: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 12:41:05:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 12:41:05:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 12:41:05:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 12:41:05:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 12:41:05:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 12:41:05:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 12:41:05:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 12:41:05:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 12:41:05:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 12:41:05:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:37:18: [Master] Erro completo: TelegramError: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:37:18:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 13:37:18:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 13:37:18:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 13:37:18:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:37:18:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:37:18:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:37:18:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:37:18:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:37:18:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:37:18:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17) {
+05/12/2025 13:37:18:   response: {
+05/12/2025 13:37:18:     ok: false,
+05/12/2025 13:37:18:     error_code: 400,
+05/12/2025 13:37:18:     description: 'Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message'
+05/12/2025 13:37:18:   },
+05/12/2025 13:37:18:   on: {
+05/12/2025 13:37:18:     method: 'editMessageText',
+05/12/2025 13:37:18:     payload: {
+05/12/2025 13:37:18:       chat_id: 7832943510,
+05/12/2025 13:37:18:       message_id: 11489,
+05/12/2025 13:37:18:       inline_message_id: undefined,
+05/12/2025 13:37:18:       parse_mode: 'HTML',
+05/12/2025 13:37:18:       reply_markup: [Object],
+05/12/2025 13:37:18:       text: '👥 <b>Saldos dos Clientes</b>\n' +
+05/12/2025 13:37:18:         '\n' +
+05/12/2025 13:37:18:         '<b>Total:</b> 1 cliente(s) com saldo\n' +
+05/12/2025 13:37:18:         '\n' +
+05/12/2025 13:37:18:         '👤 ID: <code>7832943510</code>\n' +
+05/12/2025 13:37:18:         '💰 Saldo: R$28.00\n' +
+05/12/2025 13:37:18:         '\n' +
+05/12/2025 13:37:18:         '📊 <b>Total em saldos:</b> R$28.00'
+05/12/2025 13:37:18:     }
+05/12/2025 13:37:18:   }
+05/12/2025 13:37:18: }
+05/12/2025 13:37:18: [Master] Tipo: object
+05/12/2025 13:37:18: [Master] Message: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:37:18: [Master] Stack: Error: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:37:18:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 13:37:18:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 13:37:18:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 13:37:18:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:37:18:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:37:18:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:37:18:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:37:18:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:37:18:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:37:18:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:53:11: [Master] Erro completo: TelegramError: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:53:11:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 13:53:11:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 13:53:11:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 13:53:11:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:53:11:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:53:11:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:53:11:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:53:11:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:53:11:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:53:11:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17) {
+05/12/2025 13:53:11:   response: {
+05/12/2025 13:53:11:     ok: false,
+05/12/2025 13:53:11:     error_code: 400,
+05/12/2025 13:53:11:     description: 'Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message'
+05/12/2025 13:53:11:   },
+05/12/2025 13:53:11:   on: {
+05/12/2025 13:53:11:     method: 'editMessageText',
+05/12/2025 13:53:11:     payload: {
+05/12/2025 13:53:11:       chat_id: 7832943510,
+05/12/2025 13:53:11:       message_id: 11492,
+05/12/2025 13:53:11:       inline_message_id: undefined,
+05/12/2025 13:53:11:       parse_mode: 'HTML',
+05/12/2025 13:53:11:       reply_markup: [Object],
+05/12/2025 13:53:11:       text: '👥 <b>Saldos dos Clientes</b>\n' +
+05/12/2025 13:53:11:         '\n' +
+05/12/2025 13:53:11:         '<b>Total:</b> 1 cliente(s) com saldo\n' +
+05/12/2025 13:53:11:         '\n' +
+05/12/2025 13:53:11:         '👤 ID: <code>7832943510</code>\n' +
+05/12/2025 13:53:11:         '💰 Saldo: R$28.00\n' +
+05/12/2025 13:53:11:         '\n' +
+05/12/2025 13:53:11:         '📊 <b>Total em saldos:</b> R$28.00'
+05/12/2025 13:53:11:     }
+05/12/2025 13:53:11:   }
+05/12/2025 13:53:11: }
+05/12/2025 13:53:11: [Master] Tipo: object
+05/12/2025 13:53:11: [Master] Message: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:53:11: [Master] Stack: Error: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:53:11:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 13:53:11:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 13:53:11:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 13:53:11:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:53:11:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:53:11:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:53:11:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:53:11:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:53:11:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:53:11:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:55:22: [Master] Erro completo: TelegramError: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:55:22:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 13:55:22:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 13:55:22:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 13:55:22:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:55:22:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:55:22:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:55:22:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:55:22:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:55:22:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:55:22:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17) {
+05/12/2025 13:55:22:   response: {
+05/12/2025 13:55:22:     ok: false,
+05/12/2025 13:55:22:     error_code: 400,
+05/12/2025 13:55:22:     description: 'Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message'
+05/12/2025 13:55:22:   },
+05/12/2025 13:55:22:   on: {
+05/12/2025 13:55:22:     method: 'editMessageText',
+05/12/2025 13:55:22:     payload: {
+05/12/2025 13:55:22:       chat_id: 7832943510,
+05/12/2025 13:55:22:       message_id: 11500,
+05/12/2025 13:55:22:       inline_message_id: undefined,
+05/12/2025 13:55:22:       parse_mode: 'HTML',
+05/12/2025 13:55:22:       reply_markup: [Object],
+05/12/2025 13:55:22:       text: '👥 <b>Saldos dos Clientes</b>\n' +
+05/12/2025 13:55:22:         '\n' +
+05/12/2025 13:55:22:         '<b>Total:</b> 2 cliente(s) com saldo\n' +
+05/12/2025 13:55:22:         '\n' +
+05/12/2025 13:55:22:         '👤 ID: <code>1969095539</code>\n' +
+05/12/2025 13:55:22:         '💰 Saldo: R$1000.00\n' +
+05/12/2025 13:55:22:         '\n' +
+05/12/2025 13:55:22:         '👤 ID: <code>7832943510</code>\n' +
+05/12/2025 13:55:22:         '💰 Saldo: R$28.00\n' +
+05/12/2025 13:55:22:         '\n' +
+05/12/2025 13:55:22:         '📊 <b>Total em saldos:</b> R$1028.00'
+05/12/2025 13:55:22:     }
+05/12/2025 13:55:22:   }
+05/12/2025 13:55:22: }
+05/12/2025 13:55:22: [Master] Tipo: object
+05/12/2025 13:55:22: [Master] Message: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:55:22: [Master] Stack: Error: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:55:22:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 13:55:22:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 13:55:22:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 13:55:22:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:55:22:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:55:22:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:55:22:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:55:22:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:55:22:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:55:22:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:55:25: [Master] Erro completo: TelegramError: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:55:25:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 13:55:25:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 13:55:25:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 13:55:25:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:55:25:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:55:25:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:55:25:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:55:25:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:55:25:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:55:25:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17) {
+05/12/2025 13:55:25:   response: {
+05/12/2025 13:55:25:     ok: false,
+05/12/2025 13:55:25:     error_code: 400,
+05/12/2025 13:55:25:     description: 'Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message'
+05/12/2025 13:55:25:   },
+05/12/2025 13:55:25:   on: {
+05/12/2025 13:55:25:     method: 'editMessageText',
+05/12/2025 13:55:25:     payload: {
+05/12/2025 13:55:25:       chat_id: 7832943510,
+05/12/2025 13:55:25:       message_id: 11500,
+05/12/2025 13:55:25:       inline_message_id: undefined,
+05/12/2025 13:55:25:       parse_mode: 'HTML',
+05/12/2025 13:55:25:       reply_markup: [Object],
+05/12/2025 13:55:25:       text: '👥 <b>Saldos dos Clientes</b>\n' +
+05/12/2025 13:55:25:         '\n' +
+05/12/2025 13:55:25:         '<b>Total:</b> 2 cliente(s) com saldo\n' +
+05/12/2025 13:55:25:         '\n' +
+05/12/2025 13:55:25:         '👤 ID: <code>1969095539</code>\n' +
+05/12/2025 13:55:25:         '💰 Saldo: R$1000.00\n' +
+05/12/2025 13:55:25:         '\n' +
+05/12/2025 13:55:25:         '👤 ID: <code>7832943510</code>\n' +
+05/12/2025 13:55:25:         '💰 Saldo: R$28.00\n' +
+05/12/2025 13:55:25:         '\n' +
+05/12/2025 13:55:25:         '📊 <b>Total em saldos:</b> R$1028.00'
+05/12/2025 13:55:25:     }
+05/12/2025 13:55:25:   }
+05/12/2025 13:55:25: }
+05/12/2025 13:55:25: [Master] Tipo: object
+05/12/2025 13:55:25: [Master] Message: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:55:25: [Master] Stack: Error: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:55:25:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 13:55:25:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 13:55:25:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 13:55:25:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:55:25:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:55:25:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:55:25:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:55:25:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:55:25:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:55:25:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:57:09: [Master] Erro completo: TelegramError: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:57:09:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 13:57:09:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 13:57:09:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 13:57:09:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:57:09:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:57:09:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:57:09:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:57:09:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:57:09:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:57:09:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17) {
+05/12/2025 13:57:09:   response: {
+05/12/2025 13:57:09:     ok: false,
+05/12/2025 13:57:09:     error_code: 400,
+05/12/2025 13:57:09:     description: 'Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message'
+05/12/2025 13:57:09:   },
+05/12/2025 13:57:09:   on: {
+05/12/2025 13:57:09:     method: 'editMessageText',
+05/12/2025 13:57:09:     payload: {
+05/12/2025 13:57:09:       chat_id: 7832943510,
+05/12/2025 13:57:09:       message_id: 11500,
+05/12/2025 13:57:09:       inline_message_id: undefined,
+05/12/2025 13:57:09:       parse_mode: 'HTML',
+05/12/2025 13:57:09:       reply_markup: [Object],
+05/12/2025 13:57:09:       text: '👥 <b>Saldos dos Clientes</b>\n' +
+05/12/2025 13:57:09:         '\n' +
+05/12/2025 13:57:09:         '<b>Total:</b> 2 cliente(s) com saldo\n' +
+05/12/2025 13:57:09:         '\n' +
+05/12/2025 13:57:09:         '👤 ID: <code>1969095539</code>\n' +
+05/12/2025 13:57:09:         '💰 Saldo: R$1000.00\n' +
+05/12/2025 13:57:09:         '\n' +
+05/12/2025 13:57:09:         '👤 ID: <code>7832943510</code>\n' +
+05/12/2025 13:57:09:         '💰 Saldo: R$28.00\n' +
+05/12/2025 13:57:09:         '\n' +
+05/12/2025 13:57:09:         '📊 <b>Total em saldos:</b> R$1028.00'
+05/12/2025 13:57:09:     }
+05/12/2025 13:57:09:   }
+05/12/2025 13:57:09: }
+05/12/2025 13:57:09: [Master] Tipo: object
+05/12/2025 13:57:09: [Master] Message: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:57:09: [Master] Stack: Error: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:57:09:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 13:57:09:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 13:57:09:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 13:57:09:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:57:09:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:57:09:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:57:09:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:57:09:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:57:09:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:57:09:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:57:23: [Master] Erro completo: TelegramError: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:57:23:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 13:57:23:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 13:57:23:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 13:57:23:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:57:23:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:57:23:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:57:23:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:57:23:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:57:23:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:57:23:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17) {
+05/12/2025 13:57:23:   response: {
+05/12/2025 13:57:23:     ok: false,
+05/12/2025 13:57:23:     error_code: 400,
+05/12/2025 13:57:23:     description: 'Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message'
+05/12/2025 13:57:23:   },
+05/12/2025 13:57:23:   on: {
+05/12/2025 13:57:23:     method: 'editMessageText',
+05/12/2025 13:57:23:     payload: {
+05/12/2025 13:57:23:       chat_id: 7832943510,
+05/12/2025 13:57:23:       message_id: 11500,
+05/12/2025 13:57:23:       inline_message_id: undefined,
+05/12/2025 13:57:23:       parse_mode: 'HTML',
+05/12/2025 13:57:23:       reply_markup: [Object],
+05/12/2025 13:57:23:       text: '👥 <b>Saldos dos Clientes</b>\n' +
+05/12/2025 13:57:23:         '\n' +
+05/12/2025 13:57:23:         '<b>Total:</b> 2 cliente(s) com saldo\n' +
+05/12/2025 13:57:23:         '\n' +
+05/12/2025 13:57:23:         '👤 ID: <code>1969095539</code>\n' +
+05/12/2025 13:57:23:         '💰 Saldo: R$1000.00\n' +
+05/12/2025 13:57:23:         '\n' +
+05/12/2025 13:57:23:         '👤 ID: <code>7832943510</code>\n' +
+05/12/2025 13:57:23:         '💰 Saldo: R$28.00\n' +
+05/12/2025 13:57:23:         '\n' +
+05/12/2025 13:57:23:         '📊 <b>Total em saldos:</b> R$1028.00'
+05/12/2025 13:57:23:     }
+05/12/2025 13:57:23:   }
+05/12/2025 13:57:23: }
+05/12/2025 13:57:23: [Master] Tipo: object
+05/12/2025 13:57:23: [Master] Message: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:57:23: [Master] Stack: Error: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+05/12/2025 13:57:23:     at Telegram.callApi (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/core/network/client.js:315:19)
+05/12/2025 13:57:23:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+05/12/2025 13:57:23:     at async handleSaldosClientes (/home/ubuntu/ativacao-saas/src/handlers/reseller.js:761:3)
+05/12/2025 13:57:23:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:57:23:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:57:23:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:57:23:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:57:23:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)
+05/12/2025 13:57:23:     at async /home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:519:21
+05/12/2025 13:57:23:     at async execute (/home/ubuntu/ativacao-saas/node_modules/telegraf/lib/composer.js:518:17)

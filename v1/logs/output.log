@@ -1,0 +1,2878 @@
+03/12/2025 16:24:38: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+03/12/2025 16:24:38: 🚀 Iniciando Sistema de Ativação SaaS...
+03/12/2025 16:24:38: 
+03/12/2025 16:24:38: [DB] Banco de dados carregado
+03/12/2025 16:24:38: [DB] Schema aplicado com sucesso
+03/12/2025 16:24:38: ✅ Banco de dados inicializado
+03/12/2025 16:24:38: [BotManager] Encontrados 1 bots para auto-iniciar...
+03/12/2025 16:24:38: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+03/12/2025 16:24:38: [BotManager] Removendo webhook de estacao2bot_bot...
+03/12/2025 16:24:39: [Customer] Configurando handlers para bot estacao2bot_bot
+03/12/2025 16:24:39: [BotManager] Lançando bot estacao2bot_bot...
+03/12/2025 16:24:41: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+03/12/2025 16:24:41: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+03/12/2025 16:24:41: [Cron] Inicializando tarefas agendadas...
+03/12/2025 16:24:41: [Cron] ✅ Lembrete de vencimento agendado para 7h
+03/12/2025 16:24:41: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+03/12/2025 16:24:41: [Cron] Todas as tarefas agendadas com sucesso
+03/12/2025 16:24:42: [Master] message de 6897145702
+03/12/2025 16:24:54: [Master] callback_query de 6897145702
+03/12/2025 16:24:59: [Master] callback_query de 6897145702
+03/12/2025 16:40:02: 
+03/12/2025 16:40:02: SIGINT recebido. Encerrando...
+03/12/2025 16:40:02: [BotManager] Parando 1 bots...
+03/12/2025 16:40:02: [BotManager] Todos os bots parados
+03/12/2025 16:40:02: ✅ Sistema encerrado com sucesso.
+03/12/2025 16:40:02: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+03/12/2025 16:40:03: 🚀 Iniciando Sistema de Ativação SaaS...
+03/12/2025 16:40:03: 
+03/12/2025 16:40:03: [DB] Banco de dados carregado
+03/12/2025 16:40:03: [DB] Schema aplicado com sucesso
+03/12/2025 16:40:03: ✅ Banco de dados inicializado
+03/12/2025 16:40:03: [BotManager] Encontrados 1 bots para auto-iniciar...
+03/12/2025 16:40:03: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+03/12/2025 16:40:03: [BotManager] Removendo webhook de estacao2bot_bot...
+03/12/2025 16:40:04: [Customer] Configurando handlers para bot estacao2bot_bot
+03/12/2025 16:40:04: [BotManager] Lançando bot estacao2bot_bot...
+03/12/2025 16:40:06: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+03/12/2025 16:40:06: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+03/12/2025 16:40:06: [Cron] Inicializando tarefas agendadas...
+03/12/2025 16:40:06: [Cron] ✅ Lembrete de vencimento agendado para 7h
+03/12/2025 16:40:06: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+03/12/2025 16:40:06: [Cron] Todas as tarefas agendadas com sucesso
+03/12/2025 16:40:15: [Master] message de 6897145702
+03/12/2025 16:40:17: [Master] callback_query de 6897145702
+03/12/2025 16:40:17: [IBO Pro] Fazendo login...
+03/12/2025 16:40:18: [IBO Pro] Login realizado com sucesso
+03/12/2025 16:40:18: [IBO Pro] Buscando saldo...
+03/12/2025 16:40:19: [IBO Pro] Resposta do saldo: {
+03/12/2025 16:40:19:   username: 'isaacdopanta@gmail.com',
+03/12/2025 16:40:19:   role: 'RESELLER',
+03/12/2025 16:40:19:   credits: 97,
+03/12/2025 16:40:19:   active: true,
+03/12/2025 16:40:19:   platforms: '',
+03/12/2025 16:40:19:   isSupport: false,
+03/12/2025 16:40:19:   enableAPD: false
+03/12/2025 16:40:19: }
+03/12/2025 16:40:25: [Master] callback_query de 6897145702
+03/12/2025 17:00:00: [Cron] Executando: Verificação de usuários vencidos
+03/12/2025 17:41:14: 
+03/12/2025 17:41:14: SIGINT recebido. Encerrando...
+03/12/2025 17:41:14: [BotManager] Parando 1 bots...
+03/12/2025 17:41:14: [BotManager] Todos os bots parados
+03/12/2025 17:41:14: ✅ Sistema encerrado com sucesso.
+03/12/2025 17:41:15: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+03/12/2025 17:41:15: 🚀 Iniciando Sistema de Ativação SaaS...
+03/12/2025 17:41:15: 
+03/12/2025 17:41:15: [DB] Banco de dados carregado
+03/12/2025 17:41:15: [DB] Schema aplicado com sucesso
+03/12/2025 17:41:15: ✅ Banco de dados inicializado
+03/12/2025 17:41:15: [BotManager] Encontrados 1 bots para auto-iniciar...
+03/12/2025 17:41:15: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+03/12/2025 17:41:15: [BotManager] Removendo webhook de estacao2bot_bot...
+03/12/2025 17:41:16: [Customer] Configurando handlers para bot estacao2bot_bot
+03/12/2025 17:41:16: [BotManager] Lançando bot estacao2bot_bot...
+03/12/2025 17:41:18: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+03/12/2025 17:41:19: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+03/12/2025 17:41:19: [Cron] Inicializando tarefas agendadas...
+03/12/2025 17:41:19: [Cron] ✅ Lembrete de vencimento agendado para 7h
+03/12/2025 17:41:19: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+03/12/2025 17:41:19: [Cron] Todas as tarefas agendadas com sucesso
+03/12/2025 17:41:42: [Master] message de 6897145702
+03/12/2025 17:41:55: [Master] callback_query de 6897145702
+03/12/2025 17:41:56: [IBO Pro] Fazendo login...
+03/12/2025 17:41:56: [IBO Pro] Login realizado com sucesso
+03/12/2025 17:41:56: [IBO Pro] Buscando saldo...
+03/12/2025 17:41:57: [IBO Pro] Resposta do saldo: {
+03/12/2025 17:41:57:   username: 'isaacdopanta@gmail.com',
+03/12/2025 17:41:57:   role: 'RESELLER',
+03/12/2025 17:41:57:   credits: 95,
+03/12/2025 17:41:57:   active: true,
+03/12/2025 17:41:57:   platforms: '',
+03/12/2025 17:41:57:   isSupport: false,
+03/12/2025 17:41:57:   enableAPD: false
+03/12/2025 17:41:57: }
+03/12/2025 17:42:02: [Master] callback_query de 6897145702
+03/12/2025 17:42:04: [Master] callback_query de 6897145702
+03/12/2025 17:42:10: [Master] callback_query de 6897145702
+03/12/2025 17:42:35: [Master] message de 6897145702
+03/12/2025 17:42:45: [Master] message de 6897145702
+03/12/2025 17:42:45: [IBO Player] Fazendo login...
+03/12/2025 17:42:47: [IBO Player] Login OK - Créditos: 92
+03/12/2025 17:42:50: [Master] callback_query de 6897145702
+03/12/2025 17:42:51: [IBO Pro] Fazendo login...
+03/12/2025 17:42:52: [IBO Pro] Login realizado com sucesso
+03/12/2025 17:42:52: [IBO Pro] Buscando saldo...
+03/12/2025 17:42:52: [IBO Pro] Resposta do saldo: {
+03/12/2025 17:42:52:   username: 'isaacdopanta@gmail.com',
+03/12/2025 17:42:52:   role: 'RESELLER',
+03/12/2025 17:42:52:   credits: 95,
+03/12/2025 17:42:52:   active: true,
+03/12/2025 17:42:52:   platforms: '',
+03/12/2025 17:42:52:   isSupport: false,
+03/12/2025 17:42:52:   enableAPD: false
+03/12/2025 17:42:52: }
+03/12/2025 17:42:52: [IBO Player] Fazendo login...
+03/12/2025 17:42:53: [IBO Player] Login OK - Créditos: 92
+03/12/2025 17:42:56: [Master] callback_query de 6897145702
+03/12/2025 17:43:06: [Master] callback_query de 6897145702
+03/12/2025 17:43:08: [Master] callback_query de 6897145702
+03/12/2025 17:43:10: [Master] callback_query de 6897145702
+03/12/2025 17:43:12: [Master] callback_query de 6897145702
+03/12/2025 17:43:18: [Master] callback_query de 6897145702
+03/12/2025 17:43:33: [Master] message de 6897145702
+03/12/2025 17:43:36: [Master] callback_query de 6897145702
+03/12/2025 17:43:39: [Master] callback_query de 6897145702
+03/12/2025 17:43:44: [Master] callback_query de 6897145702
+03/12/2025 17:43:47: [Master] message de 6897145702
+03/12/2025 17:43:50: [Master] callback_query de 6897145702
+03/12/2025 17:43:52: [Master] callback_query de 6897145702
+03/12/2025 17:44:00: [Master] callback_query de 6897145702
+03/12/2025 17:44:04: [Master] message de 6897145702
+03/12/2025 17:44:09: [Master] callback_query de 6897145702
+03/12/2025 17:44:11: [Master] callback_query de 6897145702
+03/12/2025 17:44:16: [Master] callback_query de 6897145702
+03/12/2025 17:44:20: [Master] message de 6897145702
+03/12/2025 17:44:25: [Payment] Criando PIX: R$11 - IBO Pro Anual
+03/12/2025 17:45:02: [Saldo] Cliente 6897145702 pagou R$11, saldo agora: R$11
+03/12/2025 17:45:06: [Saldo] Cliente 6897145702 pagou R$11, saldo agora: R$22
+03/12/2025 17:45:23: [Activation] Processando pedido PEDMIQAQXNT - MAC: 19:24:55:11:55:33
+03/12/2025 17:45:23: [Activation] Módulo: ibo_pro, Tier: YEAR
+03/12/2025 17:45:23: [IBO Pro] MAC extraído: 19:24:55:11:55:33
+03/12/2025 17:45:23: [IBO Pro] Fazendo login...
+03/12/2025 17:45:24: [IBO Pro] Login realizado com sucesso
+03/12/2025 17:45:24: [IBO Pro] Ativando MAC 19:24:55:11:55:33 com tier YEAR...
+03/12/2025 17:45:24: [IBO Pro] Payload de ativação: {
+03/12/2025 17:45:24:   mac_address: '19:24:55:11:55:33',
+03/12/2025 17:45:24:   tier: 'YEAR',
+03/12/2025 17:45:24:   name: '',
+03/12/2025 17:45:24:   note: 'Ativado via Telegram - 2025-12-03T17:45:24.012Z'
+03/12/2025 17:45:24: }
+03/12/2025 17:45:24: [IBO Pro] Resposta da ativação: 200 { status: false, message: 'Not found the mac adddress!' }
+03/12/2025 17:45:24: [Activation] ❌ Pedido PEDMIQAQXNT falhou: Not found the mac adddress!
+03/12/2025 17:45:24: [Saldo] Cliente 6897145702 ativação FALHOU, saldo mantido: R$22
+03/12/2025 17:46:25: [BOB Player] Buscando MAC em: "0e:8c:28:02:ce:29"
+03/12/2025 17:46:25: [BOB Player] MAC encontrado: 0e:8c:28:02:ce:29
+03/12/2025 17:46:26: [Activation] Processando pedido PEDMIQATIQG - MAC: 0e:8c:28:02:ce:29
+03/12/2025 17:46:26: [Activation] Módulo: bob_player, Tier: YEAR
+03/12/2025 17:46:26: [BOB Player] Iniciando ativação...
+03/12/2025 17:46:26: [BOB Player] MAC: 0e:8c:28:02:ce:29, Tier: YEAR
+03/12/2025 17:46:26: [BOB Player] Buscando MAC em: "0e:8c:28:02:ce:29"
+03/12/2025 17:46:26: [BOB Player] MAC encontrado: 0e:8c:28:02:ce:29
+03/12/2025 17:46:26: [BOB Player] Fazendo login...
+03/12/2025 17:46:27: [BOB Player] Login OK - Créditos: 92
+03/12/2025 17:46:27: [BOB Player] Ativando com 1 crédito(s)...
+03/12/2025 17:46:27: [BOB Player] Payload: {"modules":["BOBPLAYER"],"requestData":{"is_trial":3,"macAddress":"0e:8c:28:02:ce:29","appType":"multi-app","email":"","creditPoints":1,"isConfirmed":true,"comment":"Ativação via Telegram - 2025-12-03T17:46:27.203Z","app_ids":[3]}}
+03/12/2025 17:46:28: [BOB Player] Resposta: 200 {
+03/12/2025 17:46:28:   status: true,
+03/12/2025 17:46:28:   msg: 'Successfully activated 1 out of 1 applications',
+03/12/2025 17:46:28:   successful_count: 1,
+03/12/2025 17:46:28:   failed_activations: [],
+03/12/2025 17:46:28:   activated_devices: [
+03/12/2025 17:46:28:     {
+03/12/2025 17:46:28:       module: 'BOBPLAYER',
+03/12/2025 17:46:28:       mac_address: '0e:8c:28:02:ce:29',
+03/12/2025 17:46:28:       expire_date: '2026-12-05 00:00:00'
+03/12/2025 17:46:28:     }
+03/12/2025 17:46:28:   ]
+03/12/2025 17:46:28: }
+03/12/2025 17:46:28: [Activation] ✅ Pedido PEDMIQATIQG ativado com sucesso
+03/12/2025 17:46:28: [Saldo] Cliente 6897145702 ativação OK, descontou R$2, saldo restante: R$20
+03/12/2025 17:55:17: 
+03/12/2025 17:55:17: SIGINT recebido. Encerrando...
+03/12/2025 17:55:17: [BotManager] Parando 1 bots...
+03/12/2025 17:55:17: [BotManager] Todos os bots parados
+03/12/2025 17:55:17: ✅ Sistema encerrado com sucesso.
+03/12/2025 17:55:18: [dotenv@17.2.3] injecting env (2) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+03/12/2025 17:55:18: 🚀 Iniciando Sistema de Ativação SaaS...
+03/12/2025 17:55:18: 
+03/12/2025 17:55:18: [DB] Banco de dados carregado
+03/12/2025 17:55:19: [DB] Schema aplicado com sucesso
+03/12/2025 17:55:19: ✅ Banco de dados inicializado
+03/12/2025 17:55:19: [BotManager] Encontrados 1 bots para auto-iniciar...
+03/12/2025 17:55:19: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+03/12/2025 17:55:19: [BotManager] Removendo webhook de estacao2bot_bot...
+03/12/2025 17:55:20: [Customer] Configurando handlers para bot estacao2bot_bot
+03/12/2025 17:55:20: [BotManager] Lançando bot estacao2bot_bot...
+03/12/2025 17:55:22: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+03/12/2025 17:55:22: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+03/12/2025 17:55:22: [Cron] Inicializando tarefas agendadas...
+03/12/2025 17:55:22: [Cron] ✅ Lembrete de vencimento agendado para 7h
+03/12/2025 17:55:22: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+03/12/2025 17:55:22: [Cron] Todas as tarefas agendadas com sucesso
+03/12/2025 17:55:41: [Master] message de 6897145702
+03/12/2025 17:55:44: [Master] callback_query de 6897145702
+03/12/2025 17:55:48: [Master] callback_query de 6897145702
+03/12/2025 17:55:52: [Master] callback_query de 6897145702
+03/12/2025 17:56:03: [Master] message de 6897145702
+03/12/2025 17:56:06: [Master] callback_query de 6897145702
+03/12/2025 17:56:08: [Master] callback_query de 6897145702
+03/12/2025 17:56:08: [Saldo] Revendedor 1 zerou saldo do cliente 6897145702 (era R$20)
+03/12/2025 17:56:18: [Payment] Criando PIX: R$2 - BOB Player Anual
+03/12/2025 17:56:44: [Payment] Criando PIX: R$1 - IBO Pro Vitalício
+03/12/2025 17:57:01: [Saldo] Cliente 6897145702 pagou R$1, saldo agora: R$1
+03/12/2025 17:57:36: [Master] callback_query de 6897145702
+03/12/2025 17:57:38: [Master] callback_query de 6897145702
+03/12/2025 17:57:43: [Master] callback_query de 6897145702
+03/12/2025 17:57:46: [Master] callback_query de 6897145702
+03/12/2025 17:57:49: [Master] callback_query de 6897145702
+03/12/2025 17:57:55: [Master] callback_query de 6897145702
+03/12/2025 17:57:59: [Master] callback_query de 6897145702
+03/12/2025 17:58:01: [Master] callback_query de 6897145702
+03/12/2025 18:00:00: [Cron] Executando: Verificação de usuários vencidos
+03/12/2025 18:02:24: 
+03/12/2025 18:02:24: SIGINT recebido. Encerrando...
+03/12/2025 18:02:24: [BotManager] Parando 1 bots...
+03/12/2025 18:02:24: [BotManager] Todos os bots parados
+03/12/2025 18:02:24: ✅ Sistema encerrado com sucesso.
+03/12/2025 18:02:25: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+03/12/2025 18:02:25: 🚀 Iniciando Sistema de Ativação SaaS...
+03/12/2025 18:02:25: 
+03/12/2025 18:02:25: [DB] Banco de dados carregado
+03/12/2025 18:02:26: [DB] Schema aplicado com sucesso
+03/12/2025 18:02:26: ✅ Banco de dados inicializado
+03/12/2025 18:02:26: [BotManager] Encontrados 1 bots para auto-iniciar...
+03/12/2025 18:02:26: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+03/12/2025 18:02:26: [BotManager] Removendo webhook de estacao2bot_bot...
+03/12/2025 18:02:27: [Customer] Configurando handlers para bot estacao2bot_bot
+03/12/2025 18:02:27: [BotManager] Lançando bot estacao2bot_bot...
+03/12/2025 18:02:28: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+03/12/2025 18:02:29: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+03/12/2025 18:02:29: [Cron] Inicializando tarefas agendadas...
+03/12/2025 18:02:29: [Cron] ✅ Lembrete de vencimento agendado para 7h
+03/12/2025 18:02:29: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+03/12/2025 18:02:29: [Cron] Todas as tarefas agendadas com sucesso
+03/12/2025 18:02:40: [Master] message de 6897145702
+03/12/2025 18:02:46: [Master] callback_query de 6897145702
+03/12/2025 18:02:50: [Master] callback_query de 6897145702
+03/12/2025 18:02:52: [Master] message de 6897145702
+03/12/2025 18:02:57: [Master] callback_query de 6897145702
+03/12/2025 18:03:02: [Master] message de 6897145702
+03/12/2025 18:03:17: [Payment] Criando PIX: R$1 - IBO Pro Anual
+03/12/2025 18:03:36: [Saldo] Cliente 6897145702 pagou R$1, saldo agora: R$2
+03/12/2025 18:03:42: [Activation] Processando pedido PEDMIQBF6WA - MAC: 2d:df:88:29:f6:ab
+03/12/2025 18:03:42: [Activation] Módulo: ibo_pro, Tier: YEAR
+03/12/2025 18:03:42: [IBO Pro] MAC extraído: 2d:df:88:29:f6:ab
+03/12/2025 18:03:42: [IBO Pro] Fazendo login...
+03/12/2025 18:03:43: [IBO Pro] Login realizado com sucesso
+03/12/2025 18:03:43: [IBO Pro] Ativando MAC 2d:df:88:29:f6:ab com tier YEAR...
+03/12/2025 18:03:43: [IBO Pro] Payload de ativação: {
+03/12/2025 18:03:43:   mac_address: '2d:df:88:29:f6:ab',
+03/12/2025 18:03:43:   tier: 'YEAR',
+03/12/2025 18:03:43:   name: '',
+03/12/2025 18:03:43:   note: 'Ativado via Telegram - 2025-12-03T18:03:43.253Z'
+03/12/2025 18:03:43: }
+03/12/2025 18:03:43: [IBO Pro] Resposta da ativação: 200 {
+03/12/2025 18:03:43:   status: true,
+03/12/2025 18:03:43:   message: 'Activated successfully!',
+03/12/2025 18:03:43:   mac_address: '2d:df:88:29:f6:ab',
+03/12/2025 18:03:43:   tier: 'YEAR',
+03/12/2025 18:03:43:   expire_date: '2026-12-10 15:41:56'
+03/12/2025 18:03:43: }
+03/12/2025 18:03:43: [Activation] ✅ Pedido PEDMIQBF6WA ativado com sucesso
+03/12/2025 18:03:43: [Saldo] Cliente 6897145702 ativação OK, descontou R$2, saldo restante: R$0
+03/12/2025 18:13:54: [Payment] Criando PIX: R$1 - IBO Player Anual
+03/12/2025 18:14:13: [Saldo] Cliente 6897145702 pagou R$1, saldo agora: R$1
+03/12/2025 18:14:18: [IBO Player] Buscando MAC em: "27:a0:c5:35:29:7b"
+03/12/2025 18:14:18: [IBO Player] MAC encontrado: 27:a0:c5:35:29:7b
+03/12/2025 18:14:18: [Activation] Processando pedido PEDMIQBSUN8 - MAC: 27:a0:c5:35:29:7b
+03/12/2025 18:14:18: [Activation] Módulo: ibo_player, Tier: YEAR
+03/12/2025 18:14:18: [IBO Player] Iniciando ativação...
+03/12/2025 18:14:18: [IBO Player] MAC: 27:a0:c5:35:29:7b, Tier: YEAR
+03/12/2025 18:14:18: [IBO Player] Buscando MAC em: "27:a0:c5:35:29:7b"
+03/12/2025 18:14:18: [IBO Player] MAC encontrado: 27:a0:c5:35:29:7b
+03/12/2025 18:14:18: [IBO Player] Fazendo login...
+03/12/2025 18:14:19: [IBO Player] Login OK - Créditos: 91
+03/12/2025 18:14:19: [IBO Player] Ativando com 1 crédito(s)...
+03/12/2025 18:14:19: [IBO Player] Payload: {"modules":["IBOPLAYER"],"requestData":{"is_trial":3,"macAddress":"27:a0:c5:35:29:7b","appType":"multi-app","email":"","creditPoints":1,"isConfirmed":true,"comment":"Ativação via Telegram - 2025-12-03T18:14:19.785Z","app_ids":[1]}}
+03/12/2025 18:14:20: [IBO Player] Resposta: 200 {
+03/12/2025 18:14:20:   status: true,
+03/12/2025 18:14:20:   msg: 'Successfully activated 1 out of 1 applications',
+03/12/2025 18:14:20:   successful_count: 1,
+03/12/2025 18:14:20:   failed_activations: [],
+03/12/2025 18:14:20:   activated_devices: [
+03/12/2025 18:14:20:     {
+03/12/2025 18:14:20:       module: 'IBOPLAYER',
+03/12/2025 18:14:20:       mac_address: '27:a0:c5:35:29:7b',
+03/12/2025 18:14:20:       expire_date: '2026-12-03 18:14:20'
+03/12/2025 18:14:20:     }
+03/12/2025 18:14:20:   ]
+03/12/2025 18:14:20: }
+03/12/2025 18:14:20: [Activation] ✅ Pedido PEDMIQBSUN8 ativado com sucesso
+03/12/2025 18:14:20: [Saldo] Cliente 6897145702 ativação OK, descontou R$1, saldo restante: R$0
+03/12/2025 19:00:00: [Cron] Executando: Verificação de usuários vencidos
+03/12/2025 19:37:48: 
+03/12/2025 19:37:48: SIGINT recebido. Encerrando...
+03/12/2025 19:37:48: [BotManager] Parando 1 bots...
+03/12/2025 19:37:48: [BotManager] Todos os bots parados
+03/12/2025 19:37:48: ✅ Sistema encerrado com sucesso.
+03/12/2025 19:37:48: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+03/12/2025 19:37:49: 🚀 Iniciando Sistema de Ativação SaaS...
+03/12/2025 19:37:49: 
+03/12/2025 19:37:49: [DB] Banco de dados carregado
+03/12/2025 19:37:49: [DB] Schema aplicado com sucesso
+03/12/2025 19:37:49: ✅ Banco de dados inicializado
+03/12/2025 19:37:49: [BotManager] Encontrados 1 bots para auto-iniciar...
+03/12/2025 19:37:49: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+03/12/2025 19:37:49: [BotManager] Removendo webhook de estacao2bot_bot...
+03/12/2025 19:37:50: [Customer] Configurando handlers para bot estacao2bot_bot
+03/12/2025 19:37:50: [BotManager] Lançando bot estacao2bot_bot...
+03/12/2025 19:37:52: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+03/12/2025 19:37:52: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+03/12/2025 19:37:52: [Cron] Inicializando tarefas agendadas...
+03/12/2025 19:37:52: [Cron] ✅ Lembrete de vencimento agendado para 7h
+03/12/2025 19:37:52: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+03/12/2025 19:37:52: [Cron] Todas as tarefas agendadas com sucesso
+03/12/2025 19:54:56: 
+03/12/2025 19:54:56: SIGINT recebido. Encerrando...
+03/12/2025 19:54:56: [BotManager] Parando 1 bots...
+03/12/2025 19:54:56: [BotManager] Todos os bots parados
+03/12/2025 19:54:56: ✅ Sistema encerrado com sucesso.
+03/12/2025 19:54:57: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+03/12/2025 19:54:57: 🚀 Iniciando Sistema de Ativação SaaS...
+03/12/2025 19:54:57: 
+03/12/2025 19:54:57: [DB] Banco de dados carregado
+03/12/2025 19:54:57: [DB] Schema aplicado com sucesso
+03/12/2025 19:54:57: ✅ Banco de dados inicializado
+03/12/2025 19:54:58: [BotManager] Encontrados 1 bots para auto-iniciar...
+03/12/2025 19:54:58: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+03/12/2025 19:54:58: [BotManager] Removendo webhook de estacao2bot_bot...
+03/12/2025 19:54:59: [Customer] Configurando handlers para bot estacao2bot_bot
+03/12/2025 19:54:59: [BotManager] Lançando bot estacao2bot_bot...
+03/12/2025 19:55:00: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+03/12/2025 19:55:01: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+03/12/2025 19:55:01: [Cron] Inicializando tarefas agendadas...
+03/12/2025 19:55:01: [Cron] ✅ Lembrete de vencimento agendado para 7h
+03/12/2025 19:55:01: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+03/12/2025 19:55:01: [Cron] Todas as tarefas agendadas com sucesso
+03/12/2025 19:55:21: [Master] message de 6897145702
+03/12/2025 19:55:23: [Master] callback_query de 6897145702
+03/12/2025 19:55:24: [IBO Pro] Fazendo login...
+03/12/2025 19:55:25: [IBO Pro] Login realizado com sucesso
+03/12/2025 19:55:25: [IBO Pro] Buscando saldo...
+03/12/2025 19:55:25: [IBO Pro] Resposta do saldo: {
+03/12/2025 19:55:25:   username: 'isaacdopanta@gmail.com',
+03/12/2025 19:55:25:   role: 'RESELLER',
+03/12/2025 19:55:25:   credits: 89,
+03/12/2025 19:55:25:   active: true,
+03/12/2025 19:55:25:   platforms: '',
+03/12/2025 19:55:25:   isSupport: false,
+03/12/2025 19:55:25:   enableAPD: false
+03/12/2025 19:55:25: }
+03/12/2025 19:55:25: [IBO Player] Fazendo login...
+03/12/2025 19:55:26: [IBO Player] Login OK - Créditos: 86
+03/12/2025 19:55:30: [Master] callback_query de 6897145702
+03/12/2025 19:55:32: [Master] callback_query de 6897145702
+03/12/2025 19:55:35: [Master] callback_query de 6897145702
+03/12/2025 19:55:56: [Master] message de 6897145702
+03/12/2025 19:55:59: [Master] message de 6897145702
+03/12/2025 19:56:00: [VU Player Pro] Fazendo login...
+03/12/2025 19:56:03: [VU Player Pro] Resposta login: 302
+03/12/2025 19:56:03: [VU Player Pro] Login OK
+03/12/2025 19:56:03: [VU Player Pro] Buscando saldo...
+03/12/2025 19:56:03: [VU Player Pro] Saldo: 35
+03/12/2025 19:56:19: [Master] callback_query de 6897145702
+03/12/2025 19:56:22: [Master] callback_query de 6897145702
+03/12/2025 19:56:25: [Master] callback_query de 6897145702
+03/12/2025 19:56:28: [Master] message de 6897145702
+03/12/2025 20:00:00: [Cron] Executando: Verificação de usuários vencidos
+03/12/2025 21:00:00: [Cron] Executando: Verificação de usuários vencidos
+03/12/2025 21:17:49: [Payment] Criando PIX: R$1 - IBO Player Anual
+03/12/2025 21:18:13: [Saldo] Cliente 6897145702 pagou R$1, saldo agora: R$1
+03/12/2025 21:18:21: [IBO Player] Buscando MAC em: "68:27:37:77:32:09"
+03/12/2025 21:18:21: [IBO Player] MAC encontrado: 68:27:37:77:32:09
+03/12/2025 21:18:21: [Activation] Processando pedido PEDMIQIDDBR - MAC: 68:27:37:77:32:09
+03/12/2025 21:18:21: [Activation] Módulo: ibo_player, Tier: YEAR
+03/12/2025 21:18:21: [IBO Player] Iniciando ativação...
+03/12/2025 21:18:21: [IBO Player] MAC: 68:27:37:77:32:09, Tier: YEAR
+03/12/2025 21:18:21: [IBO Player] Buscando MAC em: "68:27:37:77:32:09"
+03/12/2025 21:18:21: [IBO Player] MAC encontrado: 68:27:37:77:32:09
+03/12/2025 21:18:21: [IBO Player] Fazendo login...
+03/12/2025 21:18:25: [IBO Player] Login OK - Créditos: 84
+03/12/2025 21:18:25: [IBO Player] Ativando com 1 crédito(s)...
+03/12/2025 21:18:25: [IBO Player] Payload: {"modules":["IBOPLAYER"],"requestData":{"is_trial":3,"macAddress":"68:27:37:77:32:09","appType":"multi-app","email":"","creditPoints":1,"isConfirmed":true,"comment":"Ativação via Telegram - 2025-12-03T21:18:25.436Z","app_ids":[1]}}
+03/12/2025 21:18:27: [IBO Player] Resposta: 200 {
+03/12/2025 21:18:27:   status: true,
+03/12/2025 21:18:27:   msg: 'Successfully activated 1 out of 1 applications',
+03/12/2025 21:18:27:   successful_count: 1,
+03/12/2025 21:18:27:   failed_activations: [],
+03/12/2025 21:18:27:   activated_devices: [
+03/12/2025 21:18:27:     {
+03/12/2025 21:18:27:       module: 'IBOPLAYER',
+03/12/2025 21:18:27:       mac_address: '68:27:37:77:32:09',
+03/12/2025 21:18:27:       expire_date: '2026-12-03 21:18:27'
+03/12/2025 21:18:27:     }
+03/12/2025 21:18:27:   ]
+03/12/2025 21:18:27: }
+03/12/2025 21:18:27: [Activation] ✅ Pedido PEDMIQIDDBR ativado com sucesso
+03/12/2025 21:18:27: [Saldo] Cliente 6897145702 ativação OK, descontou R$1, saldo restante: R$0
+03/12/2025 21:23:02: [Master] callback_query de 6897145702
+03/12/2025 21:23:18: [Master] callback_query de 6897145702
+03/12/2025 21:23:25: [Master] callback_query de 6897145702
+03/12/2025 21:23:28: [Master] message de 6897145702
+03/12/2025 21:23:42: [Payment] Criando PIX: R$1 - BOB Player Vitalício
+03/12/2025 21:24:00: [Saldo] Cliente 6897145702 pagou R$1, saldo agora: R$1
+03/12/2025 21:24:06: [BOB Player] Buscando MAC em: "20:15:de:ae:2a:5f"
+03/12/2025 21:24:06: [BOB Player] MAC encontrado: 20:15:de:ae:2a:5f
+03/12/2025 21:24:07: [Activation] Processando pedido PEDMIQIKX01 - MAC: 20:15:de:ae:2a:5f
+03/12/2025 21:24:07: [Activation] Módulo: bob_player, Tier: LIFETIME
+03/12/2025 21:24:07: [BOB Player] Iniciando ativação...
+03/12/2025 21:24:07: [BOB Player] MAC: 20:15:de:ae:2a:5f, Tier: LIFETIME
+03/12/2025 21:24:07: [BOB Player] Buscando MAC em: "20:15:de:ae:2a:5f"
+03/12/2025 21:24:07: [BOB Player] MAC encontrado: 20:15:de:ae:2a:5f
+03/12/2025 21:24:07: [BOB Player] Fazendo login...
+03/12/2025 21:24:22: [Activation] ❌ Pedido PEDMIQIKX01 falhou: Falha no login: timeout of 15000ms exceeded
+03/12/2025 21:24:22: [Saldo] Cliente 6897145702 ativação FALHOU, saldo mantido: R$1
+03/12/2025 21:26:01: [BOB Player] Buscando MAC em: "20:15:de:ae:2a:5f"
+03/12/2025 21:26:01: [BOB Player] MAC encontrado: 20:15:de:ae:2a:5f
+03/12/2025 21:26:01: [Activation] Processando pedido PEDMIQINX61 - MAC: 20:15:de:ae:2a:5f
+03/12/2025 21:26:01: [Activation] Módulo: bob_player, Tier: LIFETIME
+03/12/2025 21:26:01: [BOB Player] Iniciando ativação...
+03/12/2025 21:26:01: [BOB Player] MAC: 20:15:de:ae:2a:5f, Tier: LIFETIME
+03/12/2025 21:26:01: [BOB Player] Buscando MAC em: "20:15:de:ae:2a:5f"
+03/12/2025 21:26:01: [BOB Player] MAC encontrado: 20:15:de:ae:2a:5f
+03/12/2025 21:26:01: [BOB Player] Fazendo login...
+03/12/2025 21:26:12: [BOB Player] Login OK - Créditos: 83
+03/12/2025 21:26:12: [BOB Player] Ativando com 2 crédito(s)...
+03/12/2025 21:26:12: [BOB Player] Payload: {"modules":["BOBPLAYER"],"requestData":{"is_trial":3,"macAddress":"20:15:de:ae:2a:5f","appType":"multi-app","email":"","creditPoints":2,"isConfirmed":true,"comment":"Ativação via Telegram - 2025-12-03T21:26:12.035Z","app_ids":[3]}}
+03/12/2025 21:26:14: [BOB Player] Resposta: 200 {
+03/12/2025 21:26:14:   status: true,
+03/12/2025 21:26:14:   msg: 'Successfully activated 1 out of 1 applications',
+03/12/2025 21:26:14:   successful_count: 1,
+03/12/2025 21:26:14:   failed_activations: [],
+03/12/2025 21:26:14:   activated_devices: [
+03/12/2025 21:26:14:     {
+03/12/2025 21:26:14:       module: 'BOBPLAYER',
+03/12/2025 21:26:14:       mac_address: '20:15:de:ae:2a:5f',
+03/12/2025 21:26:14:       expire_date: '2026-12-03 21:26:14'
+03/12/2025 21:26:14:     }
+03/12/2025 21:26:14:   ]
+03/12/2025 21:26:14: }
+03/12/2025 21:26:14: [Activation] ✅ Pedido PEDMIQINX61 ativado com sucesso
+03/12/2025 21:26:14: [Saldo] Cliente 6897145702 ativação OK, descontou R$1, saldo restante: R$0
+03/12/2025 21:59:05: [Master] message de 6897145702
+03/12/2025 21:59:13: [Payment] Criando PIX: R$1 - IBO Pro Vitalício
+03/12/2025 21:59:36: [Saldo] Cliente 6897145702 pagou R$1, saldo agora: R$1
+03/12/2025 21:59:39: [Activation] Processando pedido PEDMIQJULNJ - MAC: 0f:9c:75:83:d1:d1
+03/12/2025 21:59:39: [Activation] Módulo: ibo_pro, Tier: LIFETIME
+03/12/2025 21:59:39: [IBO Pro] MAC extraído: 0f:9c:75:83:d1:d1
+03/12/2025 21:59:39: [IBO Pro] Fazendo login...
+03/12/2025 21:59:39: [IBO Pro] Login realizado com sucesso
+03/12/2025 21:59:39: [IBO Pro] Ativando MAC 0f:9c:75:83:d1:d1 com tier LIFETIME...
+03/12/2025 21:59:39: [IBO Pro] Payload de ativação: {
+03/12/2025 21:59:39:   mac_address: '0f:9c:75:83:d1:d1',
+03/12/2025 21:59:39:   tier: 'LIFETIME',
+03/12/2025 21:59:39:   name: '',
+03/12/2025 21:59:39:   note: 'Ativado via Telegram - 2025-12-03T21:59:39.568Z'
+03/12/2025 21:59:39: }
+03/12/2025 21:59:41: [IBO Pro] Resposta da ativação: 200 {
+03/12/2025 21:59:41:   status: true,
+03/12/2025 21:59:41:   message: 'Activated successfully!',
+03/12/2025 21:59:41:   mac_address: '0f:9c:75:83:d1:d1',
+03/12/2025 21:59:41:   tier: 'LIFETIME',
+03/12/2025 21:59:41:   expire_date: '2100-12-31 23:59:59'
+03/12/2025 21:59:41: }
+03/12/2025 21:59:41: [Activation] ✅ Pedido PEDMIQJULNJ ativado com sucesso
+03/12/2025 21:59:41: [Saldo] Cliente 6897145702 ativação OK, descontou R$1, saldo restante: R$0
+03/12/2025 22:00:00: [Cron] Executando: Verificação de usuários vencidos
+03/12/2025 22:03:21: 
+03/12/2025 22:03:21: SIGINT recebido. Encerrando...
+03/12/2025 22:03:21: [BotManager] Parando 1 bots...
+03/12/2025 22:03:21: [BotManager] Todos os bots parados
+03/12/2025 22:03:21: ✅ Sistema encerrado com sucesso.
+03/12/2025 22:03:22: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  override existing env vars with { override: true }
+03/12/2025 22:03:22: 🚀 Iniciando Sistema de Ativação SaaS...
+03/12/2025 22:03:22: 
+03/12/2025 22:03:22: [DB] Banco de dados carregado
+03/12/2025 22:03:22: [DB] Schema aplicado com sucesso
+03/12/2025 22:03:22: ✅ Banco de dados inicializado
+03/12/2025 22:03:23: [BotManager] Encontrados 1 bots para auto-iniciar...
+03/12/2025 22:03:23: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+03/12/2025 22:03:23: [BotManager] Removendo webhook de estacao2bot_bot...
+03/12/2025 22:03:24: [Customer] Configurando handlers para bot estacao2bot_bot
+03/12/2025 22:03:24: [BotManager] Lançando bot estacao2bot_bot...
+03/12/2025 22:03:25: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+03/12/2025 22:03:26: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+03/12/2025 22:03:26: [Cron] Inicializando tarefas agendadas...
+03/12/2025 22:03:26: [Cron] ✅ Lembrete de vencimento agendado para 7h
+03/12/2025 22:03:26: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+03/12/2025 22:03:26: [Cron] Todas as tarefas agendadas com sucesso
+03/12/2025 22:03:46: [Payment] Criando PIX: R$1 - IBO Player Vitalício
+03/12/2025 22:04:04: [Saldo] Cliente 6897145702 pagou R$1, saldo agora: R$1
+03/12/2025 22:04:06: [IBO Player] Buscando MAC em: "4b:c1:84:9f:36:a7"
+03/12/2025 22:04:06: [IBO Player] MAC encontrado: 4b:c1:84:9f:36:a7
+03/12/2025 22:04:07: [Activation] Processando pedido PEDMIQK0FXC - MAC: 4b:c1:84:9f:36:a7
+03/12/2025 22:04:07: [Activation] Módulo: ibo_player, Tier: LIFETIME
+03/12/2025 22:04:07: [IBO Player] Iniciando ativação...
+03/12/2025 22:04:07: [IBO Player] MAC: 4b:c1:84:9f:36:a7, Tier: LIFETIME
+03/12/2025 22:04:07: [IBO Player] Buscando MAC em: "4b:c1:84:9f:36:a7"
+03/12/2025 22:04:07: [IBO Player] MAC encontrado: 4b:c1:84:9f:36:a7
+03/12/2025 22:04:07: [IBO Player] Fazendo login...
+03/12/2025 22:04:10: [IBO Player] Login OK - Créditos: 77
+03/12/2025 22:04:10: [IBO Player] Ativando com 2 crédito(s), is_trial: 2...
+03/12/2025 22:04:10: [IBO Player] Payload: {"modules":["IBOPLAYER"],"requestData":{"is_trial":2,"macAddress":"4b:c1:84:9f:36:a7","appType":"multi-app","email":"","creditPoints":2,"isConfirmed":true,"comment":"Ativação via Telegram - 2025-12-03T22:04:10.845Z","app_ids":[1]}}
+03/12/2025 22:04:13: [IBO Player] Resposta: 200 {
+03/12/2025 22:04:13:   status: true,
+03/12/2025 22:04:13:   msg: 'Successfully activated 1 out of 1 applications',
+03/12/2025 22:04:13:   successful_count: 1,
+03/12/2025 22:04:13:   failed_activations: [],
+03/12/2025 22:04:13:   activated_devices: [
+03/12/2025 22:04:13:     {
+03/12/2025 22:04:13:       module: 'IBOPLAYER',
+03/12/2025 22:04:13:       mac_address: '4b:c1:84:9f:36:a7',
+03/12/2025 22:04:13:       expire_date: '2095-12-03 22:04:12'
+03/12/2025 22:04:13:     }
+03/12/2025 22:04:13:   ]
+03/12/2025 22:04:13: }
+03/12/2025 22:04:13: [Activation] ✅ Pedido PEDMIQK0FXC ativado com sucesso
+03/12/2025 22:04:13: [Saldo] Cliente 6897145702 ativação OK, descontou R$1, saldo restante: R$0
+03/12/2025 23:00:00: [Cron] Executando: Verificação de usuários vencidos
+03/12/2025 23:49:01: [Payment] Criando PIX: R$2 - BOB Player Anual
+03/12/2025 23:49:24: [Saldo] Cliente 6897145702 pagou R$2, saldo agora: R$2
+03/12/2025 23:49:29: [BOB Player] Buscando MAC em: "04:b9:e3:ff:db:ab"
+03/12/2025 23:49:29: [BOB Player] MAC encontrado: 04:b9:e3:ff:db:ab
+03/12/2025 23:49:29: [Activation] Processando pedido PEDMIQNRSX0 - MAC: 04:b9:e3:ff:db:ab
+03/12/2025 23:49:29: [Activation] Módulo: bob_player, Tier: YEAR
+03/12/2025 23:49:29: [BOB Player] Iniciando ativação...
+03/12/2025 23:49:29: [BOB Player] MAC: 04:b9:e3:ff:db:ab, Tier: YEAR
+03/12/2025 23:49:29: [BOB Player] Buscando MAC em: "04:b9:e3:ff:db:ab"
+03/12/2025 23:49:29: [BOB Player] MAC encontrado: 04:b9:e3:ff:db:ab
+03/12/2025 23:49:29: [BOB Player] Fazendo login...
+03/12/2025 23:49:32: [BOB Player] Login OK - Créditos: 67
+03/12/2025 23:49:32: [BOB Player] Ativando com 1 crédito(s), is_trial: 3...
+03/12/2025 23:49:32: [BOB Player] Payload: {"modules":["BOBPLAYER"],"requestData":{"is_trial":3,"macAddress":"04:b9:e3:ff:db:ab","appType":"multi-app","email":"","creditPoints":1,"isConfirmed":true,"comment":"Ativação via Telegram - 2025-12-03T23:49:32.292Z","app_ids":[3]}}
+03/12/2025 23:49:34: [BOB Player] Resposta: 200 {
+03/12/2025 23:49:34:   status: true,
+03/12/2025 23:49:34:   msg: 'Successfully activated 1 out of 1 applications',
+03/12/2025 23:49:34:   successful_count: 1,
+03/12/2025 23:49:34:   failed_activations: [],
+03/12/2025 23:49:34:   activated_devices: [
+03/12/2025 23:49:34:     {
+03/12/2025 23:49:34:       module: 'BOBPLAYER',
+03/12/2025 23:49:34:       mac_address: '04:b9:e3:ff:db:ab',
+03/12/2025 23:49:34:       expire_date: '2026-12-03 23:49:33'
+03/12/2025 23:49:34:     }
+03/12/2025 23:49:34:   ]
+03/12/2025 23:49:34: }
+03/12/2025 23:49:34: [Activation] ✅ Pedido PEDMIQNRSX0 ativado com sucesso
+03/12/2025 23:49:34: [Saldo] Cliente 6897145702 ativação OK, descontou R$2, saldo restante: R$0
+04/12/2025 00:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 01:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 01:02:48: [Payment] Criando PIX: R$2 - BOB Player Anual
+04/12/2025 01:03:11: [Saldo] Cliente 6897145702 pagou R$2, saldo agora: R$2
+04/12/2025 01:03:27: [BOB Player] Buscando MAC em: "cc:6e:a4:b6:e1:88"
+04/12/2025 01:03:27: [BOB Player] MAC encontrado: cc:6e:a4:b6:e1:88
+04/12/2025 01:03:27: [Activation] Processando pedido PEDMIQQFJBU - MAC: cc:6e:a4:b6:e1:88
+04/12/2025 01:03:27: [Activation] Módulo: bob_player, Tier: YEAR
+04/12/2025 01:03:27: [BOB Player] Iniciando ativação...
+04/12/2025 01:03:27: [BOB Player] MAC: cc:6e:a4:b6:e1:88, Tier: YEAR
+04/12/2025 01:03:27: [BOB Player] Buscando MAC em: "cc:6e:a4:b6:e1:88"
+04/12/2025 01:03:27: [BOB Player] MAC encontrado: cc:6e:a4:b6:e1:88
+04/12/2025 01:03:27: [BOB Player] Fazendo login...
+04/12/2025 01:03:28: [BOB Player] Login OK - Créditos: 57
+04/12/2025 01:03:28: [BOB Player] Ativando com 1 crédito(s), is_trial: 3...
+04/12/2025 01:03:28: [BOB Player] Payload: {"modules":["BOBPLAYER"],"requestData":{"is_trial":3,"macAddress":"cc:6e:a4:b6:e1:88","appType":"multi-app","email":"","creditPoints":1,"isConfirmed":true,"comment":"Ativação via Telegram - 2025-12-04T01:03:28.870Z","app_ids":[3]}}
+04/12/2025 01:03:29: [BOB Player] Resposta: 200 {
+04/12/2025 01:03:29:   status: true,
+04/12/2025 01:03:29:   msg: 'Successfully activated 1 out of 1 applications',
+04/12/2025 01:03:29:   successful_count: 1,
+04/12/2025 01:03:29:   failed_activations: [],
+04/12/2025 01:03:29:   activated_devices: [
+04/12/2025 01:03:29:     {
+04/12/2025 01:03:29:       module: 'BOBPLAYER',
+04/12/2025 01:03:29:       mac_address: 'cc:6e:a4:b6:e1:88',
+04/12/2025 01:03:29:       expire_date: '2026-12-04 01:03:29'
+04/12/2025 01:03:29:     }
+04/12/2025 01:03:29:   ]
+04/12/2025 01:03:29: }
+04/12/2025 01:03:29: [Activation] ✅ Pedido PEDMIQQFJBU ativado com sucesso
+04/12/2025 01:03:29: [Saldo] Cliente 6897145702 ativação OK, descontou R$2, saldo restante: R$0
+04/12/2025 02:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 03:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 03:19:10: [Master] callback_query de 6897145702
+04/12/2025 03:19:10: [IBO Pro] Fazendo login...
+04/12/2025 03:19:11: [IBO Pro] Login realizado com sucesso
+04/12/2025 03:19:11: [IBO Pro] Buscando saldo...
+04/12/2025 03:19:11: [IBO Pro] Resposta do saldo: {
+04/12/2025 03:19:11:   username: 'isaacdopanta@gmail.com',
+04/12/2025 03:19:11:   role: 'RESELLER',
+04/12/2025 03:19:11:   credits: 74,
+04/12/2025 03:19:11:   active: true,
+04/12/2025 03:19:11:   platforms: '',
+04/12/2025 03:19:11:   isSupport: false,
+04/12/2025 03:19:11:   enableAPD: false
+04/12/2025 03:19:11: }
+04/12/2025 03:19:11: [IBO Player] Fazendo login...
+04/12/2025 03:19:13: [IBO Player] Login OK - Créditos: 53
+04/12/2025 03:19:13: [VU Player Pro] Fazendo login...
+04/12/2025 03:19:16: [VU Player Pro] Resposta login: 302
+04/12/2025 03:19:16: [VU Player Pro] Login OK
+04/12/2025 03:19:16: [VU Player Pro] Buscando saldo...
+04/12/2025 03:19:17: [VU Player Pro] Saldo: 31
+04/12/2025 04:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 05:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 06:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 07:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 08:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 09:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 10:00:00: [Cron] Executando: Lembretes de vencimento
+04/12/2025 10:00:00: [Notification] Verificando usuários próximos de vencer...
+04/12/2025 10:00:00: [Notification] Encontrados 0 usuários
+04/12/2025 10:00:00: [Cron] Lembretes enviados: 0
+04/12/2025 10:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 11:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 12:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 13:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 14:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 14:03:33: [Payment] Criando PIX: R$1 - VU Player Pro Anual
+04/12/2025 14:03:51: [Saldo] Cliente 6897145702 pagou R$1, saldo agora: R$1
+04/12/2025 14:04:00: [Activation] Processando pedido PEDMIRIAQN2 - MAC: 4c:f2:57:63:33:6c
+04/12/2025 14:04:00: [Activation] Módulo: vu_player_pro, Tier: YEAR
+04/12/2025 14:04:00: [VU Player Pro] Iniciando ativação...
+04/12/2025 14:04:00: [VU Player Pro] MAC: 4c:f2:57:63:33:6c, Tier: YEAR
+04/12/2025 14:04:00: [VU Player Pro] Fazendo login...
+04/12/2025 14:04:03: [VU Player Pro] Resposta login: 302
+04/12/2025 14:04:03: [VU Player Pro] Login OK
+04/12/2025 14:04:03: [VU Player Pro] Ativando com 1 crédito(s)...
+04/12/2025 14:04:03: [VU Player Pro] Payload: mac_address=4c%3Af2%3A57%3A63%3A33%3A6c&note=Ativado+via+Telegram+-+2025-12-04T14%3A04%3A03.342Z&credit_count=1
+04/12/2025 14:04:04: [VU Player Pro] Resposta: 200 {
+04/12/2025 14:04:04:   status: 'success',
+04/12/2025 14:04:04:   msg: 'Device activated successfully',
+04/12/2025 14:04:04:   remain_count: 28,
+04/12/2025 14:04:04:   used_count: 1281
+04/12/2025 14:04:04: }
+04/12/2025 14:04:04: [Activation] ✅ Pedido PEDMIRIAQN2 ativado com sucesso
+04/12/2025 14:04:04: [Saldo] Cliente 6897145702 ativação OK, descontou R$1, saldo restante: R$0
+04/12/2025 14:12:53: [Master] callback_query de 6897145702
+04/12/2025 14:12:56: [Master] callback_query de 6897145702
+04/12/2025 14:12:58: [Master] callback_query de 6897145702
+04/12/2025 14:13:00: [Master] callback_query de 6897145702
+04/12/2025 14:13:00: [IBO Pro] Fazendo login...
+04/12/2025 14:13:01: [IBO Pro] Login realizado com sucesso
+04/12/2025 14:13:01: [IBO Pro] Buscando saldo...
+04/12/2025 14:13:01: [IBO Pro] Resposta do saldo: {
+04/12/2025 14:13:01:   username: 'isaacdopanta@gmail.com',
+04/12/2025 14:13:01:   role: 'RESELLER',
+04/12/2025 14:13:01:   credits: 71,
+04/12/2025 14:13:01:   active: true,
+04/12/2025 14:13:01:   platforms: '',
+04/12/2025 14:13:01:   isSupport: false,
+04/12/2025 14:13:01:   enableAPD: false
+04/12/2025 14:13:01: }
+04/12/2025 14:13:01: [IBO Player] Fazendo login...
+04/12/2025 14:13:03: [IBO Player] Login OK - Créditos: 48
+04/12/2025 14:13:03: [VU Player Pro] Fazendo login...
+04/12/2025 14:13:05: [VU Player Pro] Resposta login: 302
+04/12/2025 14:13:05: [VU Player Pro] Login OK
+04/12/2025 14:13:05: [VU Player Pro] Buscando saldo...
+04/12/2025 14:13:06: [VU Player Pro] Saldo: 28
+04/12/2025 14:13:10: [Master] callback_query de 6897145702
+04/12/2025 14:13:12: [Master] callback_query de 6897145702
+04/12/2025 14:35:26: [Master] callback_query de 6897145702
+04/12/2025 15:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 16:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 17:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 18:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 19:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 20:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 20:24:56: 
+04/12/2025 20:24:56: SIGINT recebido. Encerrando...
+04/12/2025 20:24:56: [BotManager] Parando 1 bots...
+04/12/2025 20:24:56: [BotManager] Todos os bots parados
+04/12/2025 20:24:56: ✅ Sistema encerrado com sucesso.
+04/12/2025 20:24:57: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+04/12/2025 20:24:58: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 20:24:58: 
+04/12/2025 20:24:58: [DB] Banco de dados carregado
+04/12/2025 20:24:58: [DB] Schema aplicado com sucesso
+04/12/2025 20:24:58: ✅ Banco de dados inicializado
+04/12/2025 20:24:58: [BotManager] Encontrados 1 bots para auto-iniciar...
+04/12/2025 20:24:58: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+04/12/2025 20:24:58: [BotManager] Removendo webhook de estacao2bot_bot...
+04/12/2025 20:24:59: [Customer] Configurando handlers para bot estacao2bot_bot
+04/12/2025 20:24:59: [BotManager] Lançando bot estacao2bot_bot...
+04/12/2025 20:25:01: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+04/12/2025 20:25:01: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+04/12/2025 20:25:01: [Cron] Inicializando tarefas agendadas...
+04/12/2025 20:25:01: [Cron] ✅ Lembrete de vencimento agendado para 7h
+04/12/2025 20:25:01: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+04/12/2025 20:25:01: [Cron] Todas as tarefas agendadas com sucesso
+04/12/2025 21:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 21:27:37: 
+04/12/2025 21:27:37: SIGINT recebido. Encerrando...
+04/12/2025 21:27:37: [BotManager] Parando 1 bots...
+04/12/2025 21:27:37: [BotManager] Todos os bots parados
+04/12/2025 21:27:37: ✅ Sistema encerrado com sucesso.
+04/12/2025 21:27:38: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+04/12/2025 21:27:39: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 21:27:39: 
+04/12/2025 21:27:39: [DB] Banco de dados carregado
+04/12/2025 21:27:39: [DB] Schema aplicado com sucesso
+04/12/2025 21:27:39: ✅ Banco de dados inicializado
+04/12/2025 21:27:40: [BotManager] Encontrados 1 bots para auto-iniciar...
+04/12/2025 21:27:40: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+04/12/2025 21:27:40: [BotManager] Removendo webhook de estacao2bot_bot...
+04/12/2025 21:27:41: [Customer] Configurando handlers para bot estacao2bot_bot
+04/12/2025 21:27:41: [BotManager] Lançando bot estacao2bot_bot...
+04/12/2025 21:27:42: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+04/12/2025 21:27:43: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+04/12/2025 21:27:43: [Cron] Inicializando tarefas agendadas...
+04/12/2025 21:27:43: [Cron] ✅ Lembrete de vencimento agendado para 7h
+04/12/2025 21:27:43: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+04/12/2025 21:27:43: [Cron] Todas as tarefas agendadas com sucesso
+04/12/2025 21:27:59: [Master] message de 6897145702
+04/12/2025 21:28:04: [Master] callback_query de 6897145702
+04/12/2025 21:28:06: [Master] callback_query de 6897145702
+04/12/2025 21:28:08: [Master] callback_query de 6897145702
+04/12/2025 21:33:21: 
+04/12/2025 21:33:21: SIGINT recebido. Encerrando...
+04/12/2025 21:33:21: [BotManager] Parando 1 bots...
+04/12/2025 21:33:21: [BotManager] Todos os bots parados
+04/12/2025 21:33:21: ✅ Sistema encerrado com sucesso.
+04/12/2025 21:33:22: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+04/12/2025 21:33:22: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 21:33:22: 
+04/12/2025 21:33:22: [DB] Banco de dados carregado
+04/12/2025 21:33:22: [DB] Schema aplicado com sucesso
+04/12/2025 21:33:22: ✅ Banco de dados inicializado
+04/12/2025 21:33:22: [BotManager] Encontrados 1 bots para auto-iniciar...
+04/12/2025 21:33:22: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+04/12/2025 21:33:22: [BotManager] Removendo webhook de estacao2bot_bot...
+04/12/2025 21:33:23: 
+04/12/2025 21:33:23: SIGINT recebido. Encerrando...
+04/12/2025 21:33:23: [BotManager] Parando 0 bots...
+04/12/2025 21:33:23: [BotManager] Todos os bots parados
+04/12/2025 21:33:23: [Customer] Configurando handlers para bot estacao2bot_bot
+04/12/2025 21:33:23: [BotManager] Lançando bot estacao2bot_bot...
+04/12/2025 21:33:25: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+04/12/2025 21:33:26: [dotenv@17.2.3] injecting env (2) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+04/12/2025 21:33:27: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 21:33:27: 
+04/12/2025 21:33:27: [DB] Banco de dados carregado
+04/12/2025 21:33:27: [DB] Schema aplicado com sucesso
+04/12/2025 21:33:27: ✅ Banco de dados inicializado
+04/12/2025 21:33:27: [BotManager] Encontrados 1 bots para auto-iniciar...
+04/12/2025 21:33:27: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+04/12/2025 21:33:27: [BotManager] Removendo webhook de estacao2bot_bot...
+04/12/2025 21:33:28: [Customer] Configurando handlers para bot estacao2bot_bot
+04/12/2025 21:33:28: [BotManager] Lançando bot estacao2bot_bot...
+04/12/2025 21:33:29: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+04/12/2025 21:33:30: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+04/12/2025 21:33:30: [Cron] Inicializando tarefas agendadas...
+04/12/2025 21:33:30: [Cron] ✅ Lembrete de vencimento agendado para 7h
+04/12/2025 21:33:30: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+04/12/2025 21:33:30: [Cron] Todas as tarefas agendadas com sucesso
+04/12/2025 21:33:34: [Master] message de 6897145702
+04/12/2025 21:33:36: [Master] callback_query de 6897145702
+04/12/2025 21:38:03: 
+04/12/2025 21:38:03: SIGINT recebido. Encerrando...
+04/12/2025 21:38:03: [BotManager] Parando 1 bots...
+04/12/2025 21:38:03: [BotManager] Todos os bots parados
+04/12/2025 21:38:03: ✅ Sistema encerrado com sucesso.
+04/12/2025 21:38:04: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+04/12/2025 21:38:05: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 21:38:05: 
+04/12/2025 21:38:05: [DB] Banco de dados carregado
+04/12/2025 21:38:05: [DB] Schema aplicado com sucesso
+04/12/2025 21:38:05: ✅ Banco de dados inicializado
+04/12/2025 21:38:05: [BotManager] Encontrados 1 bots para auto-iniciar...
+04/12/2025 21:38:05: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+04/12/2025 21:38:05: [BotManager] Removendo webhook de estacao2bot_bot...
+04/12/2025 21:38:06: [Customer] Configurando handlers para bot estacao2bot_bot
+04/12/2025 21:38:06: [BotManager] Lançando bot estacao2bot_bot...
+04/12/2025 21:38:08: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+04/12/2025 21:38:08: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+04/12/2025 21:38:08: [Cron] Inicializando tarefas agendadas...
+04/12/2025 21:38:08: [Cron] ✅ Lembrete de vencimento agendado para 7h
+04/12/2025 21:38:08: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+04/12/2025 21:38:08: [Cron] Todas as tarefas agendadas com sucesso
+04/12/2025 21:38:11: [Master] callback_query de 6897145702
+04/12/2025 21:38:27: [Master] callback_query de 6897145702
+04/12/2025 21:40:08: [Master] callback_query de 6897145702
+04/12/2025 21:54:21: 
+04/12/2025 21:54:21: SIGINT recebido. Encerrando...
+04/12/2025 21:54:21: [BotManager] Parando 1 bots...
+04/12/2025 21:54:21: [BotManager] Todos os bots parados
+04/12/2025 21:54:21: ✅ Sistema encerrado com sucesso.
+04/12/2025 21:54:22: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+04/12/2025 21:54:22: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 21:54:22: 
+04/12/2025 21:54:23: [DB] Banco de dados carregado
+04/12/2025 21:54:23: [DB] Schema aplicado com sucesso
+04/12/2025 21:54:23: ✅ Banco de dados inicializado
+04/12/2025 21:54:23: [BotManager] Encontrados 1 bots para auto-iniciar...
+04/12/2025 21:54:23: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+04/12/2025 21:54:23: [BotManager] Removendo webhook de estacao2bot_bot...
+04/12/2025 21:54:24: [Customer] Configurando handlers para bot estacao2bot_bot
+04/12/2025 21:54:24: [BotManager] Lançando bot estacao2bot_bot...
+04/12/2025 21:54:25: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+04/12/2025 21:54:26: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+04/12/2025 21:54:26: [Cron] Inicializando tarefas agendadas...
+04/12/2025 21:54:26: [Cron] ✅ Lembrete de vencimento agendado para 7h
+04/12/2025 21:54:26: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+04/12/2025 21:54:26: [Cron] Todas as tarefas agendadas com sucesso
+04/12/2025 22:00:00: [Cron] Executando: Verificação de usuários vencidos
+04/12/2025 22:34:46: 
+04/12/2025 22:34:46: SIGINT recebido. Encerrando...
+04/12/2025 22:34:46: [BotManager] Parando 1 bots...
+04/12/2025 22:34:46: [BotManager] Todos os bots parados
+04/12/2025 22:34:46: ✅ Sistema encerrado com sucesso.
+04/12/2025 22:34:47: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+04/12/2025 22:34:47: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:34:47: 
+04/12/2025 22:34:47: [DB] Banco de dados carregado
+04/12/2025 22:34:53: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  override existing env vars with { override: true }
+04/12/2025 22:34:54: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:34:54: 
+04/12/2025 22:34:54: [DB] Banco de dados carregado
+04/12/2025 22:35:00: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+04/12/2025 22:35:00: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:35:00: 
+04/12/2025 22:35:00: [DB] Banco de dados carregado
+04/12/2025 22:35:06: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+04/12/2025 22:35:07: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:35:07: 
+04/12/2025 22:35:07: [DB] Banco de dados carregado
+04/12/2025 22:35:13: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+04/12/2025 22:35:13: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:35:13: 
+04/12/2025 22:35:13: [DB] Banco de dados carregado
+04/12/2025 22:35:19: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+04/12/2025 22:35:20: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:35:20: 
+04/12/2025 22:35:20: [DB] Banco de dados carregado
+04/12/2025 22:35:26: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+04/12/2025 22:35:26: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:35:26: 
+04/12/2025 22:35:26: [DB] Banco de dados carregado
+04/12/2025 22:35:32: [dotenv@17.2.3] injecting env (2) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+04/12/2025 22:35:33: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:35:33: 
+04/12/2025 22:35:33: [DB] Banco de dados carregado
+04/12/2025 22:35:39: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+04/12/2025 22:35:39: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:35:39: 
+04/12/2025 22:35:39: [DB] Banco de dados carregado
+04/12/2025 22:35:45: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+04/12/2025 22:35:45: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:35:45: 
+04/12/2025 22:35:46: [DB] Banco de dados carregado
+04/12/2025 22:35:52: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+04/12/2025 22:35:52: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:35:52: 
+04/12/2025 22:35:52: [DB] Banco de dados carregado
+04/12/2025 22:35:58: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+04/12/2025 22:35:59: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:35:59: 
+04/12/2025 22:35:59: [DB] Banco de dados carregado
+04/12/2025 22:36:05: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+04/12/2025 22:36:05: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:36:05: 
+04/12/2025 22:36:05: [DB] Banco de dados carregado
+04/12/2025 22:36:11: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+04/12/2025 22:36:12: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:36:12: 
+04/12/2025 22:36:12: [DB] Banco de dados carregado
+04/12/2025 22:36:18: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+04/12/2025 22:36:18: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:36:18: 
+04/12/2025 22:36:18: [DB] Banco de dados carregado
+04/12/2025 22:36:24: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+04/12/2025 22:36:25: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:36:25: 
+04/12/2025 22:36:25: [DB] Banco de dados carregado
+04/12/2025 22:36:31: [dotenv@17.2.3] injecting env (2) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+04/12/2025 22:36:31: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:36:31: 
+04/12/2025 22:36:31: [DB] Banco de dados carregado
+04/12/2025 22:36:37: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+04/12/2025 22:36:38: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:36:38: 
+04/12/2025 22:36:38: [DB] Banco de dados carregado
+04/12/2025 22:36:44: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+04/12/2025 22:36:44: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:36:44: 
+04/12/2025 22:36:44: [DB] Banco de dados carregado
+04/12/2025 22:36:50: [dotenv@17.2.3] injecting env (2) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+04/12/2025 22:36:51: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:36:51: 
+04/12/2025 22:36:51: [DB] Banco de dados carregado
+04/12/2025 22:36:57: [dotenv@17.2.3] injecting env (2) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+04/12/2025 22:36:57: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:36:57: 
+04/12/2025 22:36:57: [DB] Banco de dados carregado
+04/12/2025 22:37:03: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+04/12/2025 22:37:04: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:37:04: 
+04/12/2025 22:37:04: [DB] Banco de dados carregado
+04/12/2025 22:37:10: [dotenv@17.2.3] injecting env (2) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+04/12/2025 22:37:11: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:37:11: 
+04/12/2025 22:37:11: [DB] Banco de dados carregado
+04/12/2025 22:37:17: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  override existing env vars with { override: true }
+04/12/2025 22:37:17: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:37:17: 
+04/12/2025 22:37:17: [DB] Banco de dados carregado
+04/12/2025 22:37:23: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+04/12/2025 22:37:24: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:37:24: 
+04/12/2025 22:37:24: [DB] Banco de dados carregado
+04/12/2025 22:37:30: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+04/12/2025 22:37:30: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:37:30: 
+04/12/2025 22:37:30: [DB] Banco de dados carregado
+04/12/2025 22:37:36: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+04/12/2025 22:37:37: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:37:37: 
+04/12/2025 22:37:37: [DB] Banco de dados carregado
+04/12/2025 22:37:43: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+04/12/2025 22:37:43: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:37:43: 
+04/12/2025 22:37:43: [DB] Banco de dados carregado
+04/12/2025 22:37:49: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  override existing env vars with { override: true }
+04/12/2025 22:37:50: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:37:50: 
+04/12/2025 22:37:50: [DB] Banco de dados carregado
+04/12/2025 22:37:56: [dotenv@17.2.3] injecting env (2) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+04/12/2025 22:37:56: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:37:56: 
+04/12/2025 22:37:56: [DB] Banco de dados carregado
+04/12/2025 22:38:02: [dotenv@17.2.3] injecting env (2) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+04/12/2025 22:38:03: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:38:03: 
+04/12/2025 22:38:03: [DB] Banco de dados carregado
+04/12/2025 22:38:09: [dotenv@17.2.3] injecting env (2) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+04/12/2025 22:38:09: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:38:09: 
+04/12/2025 22:38:09: [DB] Banco de dados carregado
+04/12/2025 22:38:15: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+04/12/2025 22:38:16: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:38:16: 
+04/12/2025 22:38:16: [DB] Banco de dados carregado
+04/12/2025 22:38:22: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+04/12/2025 22:38:22: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:38:22: 
+04/12/2025 22:38:22: [DB] Banco de dados carregado
+04/12/2025 22:38:28: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+04/12/2025 22:38:29: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:38:29: 
+04/12/2025 22:38:29: [DB] Banco de dados carregado
+04/12/2025 22:38:35: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+04/12/2025 22:38:35: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:38:35: 
+04/12/2025 22:38:35: [DB] Banco de dados carregado
+04/12/2025 22:38:41: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+04/12/2025 22:38:42: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:38:42: 
+04/12/2025 22:38:42: [DB] Banco de dados carregado
+04/12/2025 22:38:48: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+04/12/2025 22:38:48: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:38:48: 
+04/12/2025 22:38:48: [DB] Banco de dados carregado
+04/12/2025 22:38:54: [dotenv@17.2.3] injecting env (2) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+04/12/2025 22:38:55: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:38:55: 
+04/12/2025 22:38:55: [DB] Banco de dados carregado
+04/12/2025 22:39:01: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+04/12/2025 22:39:01: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:39:01: 
+04/12/2025 22:39:01: [DB] Banco de dados carregado
+04/12/2025 22:39:07: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+04/12/2025 22:39:08: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:39:08: 
+04/12/2025 22:39:08: [DB] Banco de dados carregado
+04/12/2025 22:39:14: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+04/12/2025 22:39:14: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:39:14: 
+04/12/2025 22:39:14: [DB] Banco de dados carregado
+04/12/2025 22:39:20: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+04/12/2025 22:39:21: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:39:21: 
+04/12/2025 22:39:21: [DB] Banco de dados carregado
+04/12/2025 22:39:27: [dotenv@17.2.3] injecting env (2) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+04/12/2025 22:39:27: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:39:27: 
+04/12/2025 22:39:27: [DB] Banco de dados carregado
+04/12/2025 22:39:33: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+04/12/2025 22:39:34: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:39:34: 
+04/12/2025 22:39:34: [DB] Banco de dados carregado
+04/12/2025 22:39:40: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+04/12/2025 22:39:40: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:39:40: 
+04/12/2025 22:39:40: [DB] Banco de dados carregado
+04/12/2025 22:39:46: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+04/12/2025 22:39:47: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:39:47: 
+04/12/2025 22:39:47: [DB] Banco de dados carregado
+04/12/2025 22:39:53: [dotenv@17.2.3] injecting env (2) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+04/12/2025 22:39:53: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:39:53: 
+04/12/2025 22:39:53: [DB] Banco de dados carregado
+04/12/2025 22:39:59: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+04/12/2025 22:40:00: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:40:00: 
+04/12/2025 22:40:00: [DB] Banco de dados carregado
+04/12/2025 22:40:06: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+04/12/2025 22:40:06: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:40:06: 
+04/12/2025 22:40:06: [DB] Banco de dados carregado
+04/12/2025 22:40:12: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+04/12/2025 22:40:13: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:40:13: 
+04/12/2025 22:40:13: [DB] Banco de dados carregado
+04/12/2025 22:40:19: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+04/12/2025 22:40:19: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:40:19: 
+04/12/2025 22:40:19: [DB] Banco de dados carregado
+04/12/2025 22:40:25: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+04/12/2025 22:40:26: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:40:26: 
+04/12/2025 22:40:26: [DB] Banco de dados carregado
+04/12/2025 22:40:32: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+04/12/2025 22:40:32: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:40:32: 
+04/12/2025 22:40:32: [DB] Banco de dados carregado
+04/12/2025 22:40:38: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+04/12/2025 22:40:39: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:40:39: 
+04/12/2025 22:40:39: [DB] Banco de dados carregado
+04/12/2025 22:40:45: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+04/12/2025 22:40:45: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:40:45: 
+04/12/2025 22:40:45: [DB] Banco de dados carregado
+04/12/2025 22:40:51: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+04/12/2025 22:40:52: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:40:52: 
+04/12/2025 22:40:52: [DB] Banco de dados carregado
+04/12/2025 22:40:58: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+04/12/2025 22:40:58: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:40:58: 
+04/12/2025 22:40:58: [DB] Banco de dados carregado
+04/12/2025 22:41:04: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+04/12/2025 22:41:05: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:41:05: 
+04/12/2025 22:41:05: [DB] Banco de dados carregado
+04/12/2025 22:41:11: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+04/12/2025 22:41:11: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:41:11: 
+04/12/2025 22:41:11: [DB] Banco de dados carregado
+04/12/2025 22:41:17: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+04/12/2025 22:41:17: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:41:17: 
+04/12/2025 22:41:18: [DB] Banco de dados carregado
+04/12/2025 22:41:24: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+04/12/2025 22:41:24: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:41:24: 
+04/12/2025 22:41:24: [DB] Banco de dados carregado
+04/12/2025 22:41:30: [dotenv@17.2.3] injecting env (2) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+04/12/2025 22:41:30: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:41:30: 
+04/12/2025 22:41:30: [DB] Banco de dados carregado
+04/12/2025 22:41:36: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+04/12/2025 22:41:37: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:41:37: 
+04/12/2025 22:41:37: [DB] Banco de dados carregado
+04/12/2025 22:41:43: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+04/12/2025 22:41:43: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:41:43: 
+04/12/2025 22:41:43: [DB] Banco de dados carregado
+04/12/2025 22:41:49: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+04/12/2025 22:41:50: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:41:50: 
+04/12/2025 22:41:50: [DB] Banco de dados carregado
+04/12/2025 22:41:56: [dotenv@17.2.3] injecting env (2) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+04/12/2025 22:41:56: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:41:56: 
+04/12/2025 22:41:56: [DB] Banco de dados carregado
+04/12/2025 22:42:02: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  override existing env vars with { override: true }
+04/12/2025 22:42:03: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:42:03: 
+04/12/2025 22:42:03: [DB] Banco de dados carregado
+04/12/2025 22:42:09: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+04/12/2025 22:42:09: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:42:09: 
+04/12/2025 22:42:09: [DB] Banco de dados carregado
+04/12/2025 22:42:15: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+04/12/2025 22:42:16: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:42:16: 
+04/12/2025 22:42:16: [DB] Banco de dados carregado
+04/12/2025 22:42:22: [dotenv@17.2.3] injecting env (2) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+04/12/2025 22:42:22: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:42:22: 
+04/12/2025 22:42:22: [DB] Banco de dados carregado
+04/12/2025 22:42:28: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+04/12/2025 22:42:29: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:42:29: 
+04/12/2025 22:42:29: [DB] Banco de dados carregado
+04/12/2025 22:42:35: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+04/12/2025 22:42:35: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:42:35: 
+04/12/2025 22:42:35: [DB] Banco de dados carregado
+04/12/2025 22:42:41: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+04/12/2025 22:42:41: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:42:41: 
+04/12/2025 22:42:41: [DB] Banco de dados carregado
+04/12/2025 22:42:47: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+04/12/2025 22:42:48: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:42:48: 
+04/12/2025 22:42:48: [DB] Banco de dados carregado
+04/12/2025 22:42:54: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+04/12/2025 22:42:54: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:42:54: 
+04/12/2025 22:42:54: [DB] Banco de dados carregado
+04/12/2025 22:43:00: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+04/12/2025 22:43:01: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:43:01: 
+04/12/2025 22:43:01: [DB] Banco de dados carregado
+04/12/2025 22:43:07: [dotenv@17.2.3] injecting env (2) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+04/12/2025 22:43:07: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:43:07: 
+04/12/2025 22:43:07: [DB] Banco de dados carregado
+04/12/2025 22:43:13: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+04/12/2025 22:43:14: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:43:14: 
+04/12/2025 22:43:14: [DB] Banco de dados carregado
+04/12/2025 22:43:20: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+04/12/2025 22:43:20: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:43:20: 
+04/12/2025 22:43:20: [DB] Banco de dados carregado
+04/12/2025 22:43:26: [dotenv@17.2.3] injecting env (2) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+04/12/2025 22:43:26: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:43:26: 
+04/12/2025 22:43:27: [DB] Banco de dados carregado
+04/12/2025 22:43:33: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+04/12/2025 22:43:33: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:43:33: 
+04/12/2025 22:43:33: [DB] Banco de dados carregado
+04/12/2025 22:43:39: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+04/12/2025 22:43:39: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:43:39: 
+04/12/2025 22:43:40: [DB] Banco de dados carregado
+04/12/2025 22:43:46: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+04/12/2025 22:43:46: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:43:46: 
+04/12/2025 22:43:46: [DB] Banco de dados carregado
+04/12/2025 22:43:52: [dotenv@17.2.3] injecting env (2) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+04/12/2025 22:43:58: [dotenv@17.2.3] injecting env (2) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+04/12/2025 22:44:03: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+04/12/2025 22:44:09: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+04/12/2025 22:44:14: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+04/12/2025 22:44:15: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:44:15: 
+04/12/2025 22:44:15: [DB] Banco de dados carregado
+04/12/2025 22:44:21: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+04/12/2025 22:44:21: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:44:21: 
+04/12/2025 22:44:21: [DB] Banco de dados carregado
+04/12/2025 22:44:27: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+04/12/2025 22:44:27: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:44:27: 
+04/12/2025 22:44:28: [DB] Banco de dados carregado
+04/12/2025 22:44:34: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+04/12/2025 22:44:34: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:44:34: 
+04/12/2025 22:44:34: [DB] Banco de dados carregado
+04/12/2025 22:44:40: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+04/12/2025 22:44:40: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:44:40: 
+04/12/2025 22:44:41: [DB] Banco de dados carregado
+04/12/2025 22:44:47: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+04/12/2025 22:44:47: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:44:47: 
+04/12/2025 22:44:47: [DB] Banco de dados carregado
+04/12/2025 22:44:53: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+04/12/2025 22:44:53: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:44:53: 
+04/12/2025 22:44:53: [DB] Banco de dados carregado
+04/12/2025 22:44:59: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+04/12/2025 22:45:00: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:45:00: 
+04/12/2025 22:45:00: [DB] Novo banco de dados criado
+04/12/2025 22:45:00: [DB] Schema aplicado com sucesso
+04/12/2025 22:45:00: ✅ Banco de dados inicializado
+04/12/2025 22:45:00: [BotManager] Encontrados 0 bots para auto-iniciar...
+04/12/2025 22:45:00: [BotManager] Auto-início concluído. Iniciados: 0, Pulados: 0
+04/12/2025 22:45:00: [Cron] Inicializando tarefas agendadas...
+04/12/2025 22:45:00: [Cron] ✅ Lembrete de vencimento agendado para 7h
+04/12/2025 22:45:00: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+04/12/2025 22:45:00: [Cron] Todas as tarefas agendadas com sucesso
+04/12/2025 22:45:07: 
+04/12/2025 22:45:07: SIGINT recebido. Encerrando...
+04/12/2025 22:45:07: [BotManager] Parando 0 bots...
+04/12/2025 22:45:07: [BotManager] Todos os bots parados
+04/12/2025 22:45:07: ✅ Sistema encerrado com sucesso.
+04/12/2025 22:45:07: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+04/12/2025 22:45:08: 🚀 Iniciando Sistema de Ativação SaaS...
+04/12/2025 22:45:08: 
+04/12/2025 22:45:08: [DB] Banco de dados carregado
+04/12/2025 22:45:08: [DB] Schema aplicado com sucesso
+04/12/2025 22:45:08: ✅ Banco de dados inicializado
+04/12/2025 22:45:08: [BotManager] Encontrados 0 bots para auto-iniciar...
+04/12/2025 22:45:08: [BotManager] Auto-início concluído. Iniciados: 0, Pulados: 0
+04/12/2025 22:45:08: [Cron] Inicializando tarefas agendadas...
+04/12/2025 22:45:08: [Cron] ✅ Lembrete de vencimento agendado para 7h
+04/12/2025 22:45:08: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+04/12/2025 22:45:08: [Cron] Todas as tarefas agendadas com sucesso
+04/12/2025 22:45:31: [Master] message de 6897145702
+04/12/2025 22:45:45: [Master] message de 1875737830
+04/12/2025 22:45:48: [Master] callback_query de 1875737830
+04/12/2025 22:45:59: [Master] callback_query de 1875737830
+04/12/2025 22:47:30: [Master] message de 1875737830
+04/12/2025 22:47:50: [Master] callback_query de 1875737830
+04/12/2025 22:47:52: [Master] callback_query de 1875737830
+04/12/2025 22:47:58: [Master] callback_query de 1875737830
+04/12/2025 22:48:00: [Master] callback_query de 1875737830
+04/12/2025 22:48:03: [Master] callback_query de 1875737830
+04/12/2025 22:48:05: [Master] callback_query de 1875737830
+04/12/2025 22:48:25: [Master] callback_query de 1875737830
+04/12/2025 22:48:28: [Master] callback_query de 1875737830
+04/12/2025 22:48:30: [Master] callback_query de 1875737830
+04/12/2025 22:48:32: [Master] callback_query de 1875737830
+04/12/2025 22:48:39: [Master] callback_query de 6897145702
+04/12/2025 22:48:44: [Master] message de 6897145702
+04/12/2025 22:48:54: [Master] message de 6897145702
+04/12/2025 22:49:03: [Master] callback_query de 6897145702
+04/12/2025 22:49:07: [Master] callback_query de 6897145702
+04/12/2025 22:49:10: [Master] callback_query de 6897145702
+04/12/2025 22:49:15: [Master] callback_query de 6897145702
+04/12/2025 22:49:23: [Master] callback_query de 6897145702
+04/12/2025 22:49:26: [Master] callback_query de 6897145702
+04/12/2025 22:49:30: [Master] message de 6897145702
+04/12/2025 22:49:39: [Master] callback_query de 6897145702
+04/12/2025 22:52:00: [Master] callback_query de 6897145702
+04/12/2025 22:52:02: [Master] message de 6897145702
+04/12/2025 22:52:05: [Master] message de 6897145702
+04/12/2025 22:52:05: [IBO Pro] Fazendo login...
+04/12/2025 22:52:06: [IBO Pro] Login realizado com sucesso
+04/12/2025 22:52:11: [Master] callback_query de 6897145702
+04/12/2025 22:52:14: [Master] callback_query de 6897145702
+04/12/2025 22:52:16: [Master] callback_query de 6897145702
+04/12/2025 22:52:16: [IBO Pro] Fazendo login...
+04/12/2025 22:52:17: [IBO Pro] Login realizado com sucesso
+04/12/2025 22:52:17: [IBO Pro] Buscando saldo...
+04/12/2025 22:52:17: [IBO Pro] Resposta do saldo: {
+04/12/2025 22:52:17:   username: 'isaacdopanta@gmail.com',
+04/12/2025 22:52:17:   role: 'RESELLER',
+04/12/2025 22:52:17:   credits: 62,
+04/12/2025 22:52:17:   active: true,
+04/12/2025 22:52:17:   platforms: '',
+04/12/2025 22:52:17:   isSupport: false,
+04/12/2025 22:52:17:   enableAPD: false
+04/12/2025 22:52:17: }
+04/12/2025 22:52:19: [Master] callback_query de 6897145702
+04/12/2025 22:52:21: [Master] callback_query de 6897145702
+04/12/2025 22:52:23: [Master] callback_query de 6897145702
+04/12/2025 22:52:26: [Master] message de 6897145702
+04/12/2025 22:52:28: [Master] message de 6897145702
+04/12/2025 22:52:28: [VU Player Pro] Fazendo login...
+04/12/2025 22:52:31: [VU Player Pro] Resposta login: 302
+04/12/2025 22:52:31: [VU Player Pro] Login OK
+04/12/2025 22:52:31: [VU Player Pro] Buscando saldo...
+04/12/2025 22:52:32: [VU Player Pro] Saldo: 25
+04/12/2025 22:52:34: [Master] callback_query de 6897145702
+04/12/2025 22:52:37: [Master] callback_query de 6897145702
+04/12/2025 22:52:41: [Master] message de 6897145702
+04/12/2025 22:52:45: [Master] message de 6897145702
+04/12/2025 22:52:45: [IBO Player] Fazendo login...
+04/12/2025 22:52:49: [Master] callback_query de 6897145702
+04/12/2025 22:52:53: [Master] message de 6897145702
+04/12/2025 22:53:00: [Master] message de 6897145702
+04/12/2025 22:53:01: [IBO Player] Fazendo login...
+04/12/2025 22:53:02: [IBO Player] Login OK - Créditos: 36
+04/12/2025 22:53:09: [Master] callback_query de 6897145702
+04/12/2025 22:53:10: [IBO Pro] Fazendo login...
+04/12/2025 22:53:10: [IBO Pro] Login realizado com sucesso
+04/12/2025 22:53:10: [IBO Pro] Buscando saldo...
+04/12/2025 22:53:11: [IBO Pro] Resposta do saldo: {
+04/12/2025 22:53:11:   username: 'isaacdopanta@gmail.com',
+04/12/2025 22:53:11:   role: 'RESELLER',
+04/12/2025 22:53:11:   credits: 62,
+04/12/2025 22:53:11:   active: true,
+04/12/2025 22:53:11:   platforms: '',
+04/12/2025 22:53:11:   isSupport: false,
+04/12/2025 22:53:11:   enableAPD: false
+04/12/2025 22:53:11: }
+04/12/2025 22:53:11: [IBO Player] Fazendo login...
+04/12/2025 22:53:12: [IBO Player] Login OK - Créditos: 35
+04/12/2025 22:53:12: [VU Player Pro] Fazendo login...
+04/12/2025 22:53:15: [VU Player Pro] Resposta login: 302
+04/12/2025 22:53:15: [VU Player Pro] Login OK
+04/12/2025 22:53:15: [VU Player Pro] Buscando saldo...
+04/12/2025 22:53:16: [VU Player Pro] Saldo: 25
+04/12/2025 23:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 00:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 00:19:17: [Master] callback_query de 6897145702
+05/12/2025 00:19:18: [Master] callback_query de 6897145702
+05/12/2025 00:19:21: [Master] callback_query de 6897145702
+05/12/2025 00:19:32: [Master] message de 6897145702
+05/12/2025 00:19:32: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+05/12/2025 00:19:32: [BotManager] Removendo webhook de estacao2bot_bot...
+05/12/2025 00:19:33: [Customer] Configurando handlers para bot estacao2bot_bot
+05/12/2025 00:19:33: [BotManager] Lançando bot estacao2bot_bot...
+05/12/2025 00:19:34: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+05/12/2025 00:19:39: [Master] callback_query de 6897145702
+05/12/2025 00:19:41: [Master] callback_query de 6897145702
+05/12/2025 00:19:45: [Master] callback_query de 6897145702
+05/12/2025 00:19:48: [Master] message de 6897145702
+05/12/2025 00:19:53: [Payment] Criando PIX: R$1 - IBO Player Anual
+05/12/2025 00:20:13: [Saldo] Cliente 6897145702 pagou R$1, saldo agora: R$1
+05/12/2025 00:20:30: [IBO Player] Buscando MAC em: "e4:7d:bd:f6:ff:e2"
+05/12/2025 00:20:30: [IBO Player] MAC encontrado: e4:7d:bd:f6:ff:e2
+05/12/2025 00:20:30: [Activation] Processando pedido PEDMIS4BCX9 - MAC: e4:7d:bd:f6:ff:e2
+05/12/2025 00:20:30: [Activation] Módulo: ibo_player, Tier: YEAR
+05/12/2025 00:20:30: [IBO Player] Iniciando ativação...
+05/12/2025 00:20:30: [IBO Player] MAC: e4:7d:bd:f6:ff:e2, Tier: YEAR
+05/12/2025 00:20:30: [IBO Player] Buscando MAC em: "e4:7d:bd:f6:ff:e2"
+05/12/2025 00:20:30: [IBO Player] MAC encontrado: e4:7d:bd:f6:ff:e2
+05/12/2025 00:20:30: [IBO Player] Fazendo login...
+05/12/2025 00:20:31: [IBO Player] Login OK - Créditos: 130
+05/12/2025 00:20:31: [IBO Player] Ativando com 1 crédito(s), is_trial: 3...
+05/12/2025 00:20:31: [IBO Player] Payload: {"modules":["IBOPLAYER"],"requestData":{"is_trial":3,"macAddress":"e4:7d:bd:f6:ff:e2","appType":"multi-app","email":"","creditPoints":1,"isConfirmed":true,"comment":"Ativação via Telegram - 2025-12-05T00:20:31.696Z","app_ids":[1]}}
+05/12/2025 00:20:32: [IBO Player] Resposta: 200 {
+05/12/2025 00:20:32:   status: true,
+05/12/2025 00:20:32:   msg: 'Successfully activated 1 out of 1 applications',
+05/12/2025 00:20:32:   successful_count: 1,
+05/12/2025 00:20:32:   failed_activations: [],
+05/12/2025 00:20:32:   activated_devices: [
+05/12/2025 00:20:32:     {
+05/12/2025 00:20:32:       module: 'IBOPLAYER',
+05/12/2025 00:20:32:       mac_address: 'e4:7d:bd:f6:ff:e2',
+05/12/2025 00:20:32:       expire_date: '2026-12-05 00:20:32'
+05/12/2025 00:20:32:     }
+05/12/2025 00:20:32:   ]
+05/12/2025 00:20:32: }
+05/12/2025 00:20:32: [Activation] ✅ Pedido PEDMIS4BCX9 ativado com sucesso
+05/12/2025 00:20:32: [Saldo] Cliente 6897145702 ativação OK, descontou R$1, saldo restante: R$0
+05/12/2025 00:20:52: [Master] callback_query de 6897145702
+05/12/2025 00:20:54: [Master] callback_query de 6897145702
+05/12/2025 00:20:58: [Master] callback_query de 6897145702
+05/12/2025 00:21:00: [Master] message de 6897145702
+05/12/2025 00:21:09: [Payment] Criando PIX: R$1 - IBO Pro Anual
+05/12/2025 00:21:23: [Saldo] Cliente 6897145702 pagou R$1, saldo agora: R$1
+05/12/2025 00:21:45: [Activation] Processando pedido PEDMIS4CZBY - MAC: 6f:ae:c7:40:52:b3
+05/12/2025 00:21:45: [Activation] Módulo: ibo_pro, Tier: YEAR
+05/12/2025 00:21:45: [IBO Pro] MAC extraído: 6f:ae:c7:40:52:b3
+05/12/2025 00:21:45: [IBO Pro] Fazendo login...
+05/12/2025 00:21:45: [IBO Pro] Login realizado com sucesso
+05/12/2025 00:21:45: [IBO Pro] Ativando MAC 6f:ae:c7:40:52:b3 com tier YEAR...
+05/12/2025 00:21:45: [IBO Pro] Payload de ativação: {
+05/12/2025 00:21:45:   mac_address: '6f:ae:c7:40:52:b3',
+05/12/2025 00:21:45:   tier: 'YEAR',
+05/12/2025 00:21:45:   name: '',
+05/12/2025 00:21:45:   note: 'Ativado via Telegram - 2025-12-05T00:21:45.956Z'
+05/12/2025 00:21:45: }
+05/12/2025 00:21:46: [IBO Pro] Resposta da ativação: 200 {
+05/12/2025 00:21:46:   status: true,
+05/12/2025 00:21:46:   message: 'Activated successfully!',
+05/12/2025 00:21:46:   mac_address: '6f:ae:c7:40:52:b3',
+05/12/2025 00:21:46:   tier: 'YEAR',
+05/12/2025 00:21:46:   expire_date: '2026-12-05 00:21:46'
+05/12/2025 00:21:46: }
+05/12/2025 00:21:46: [Activation] ✅ Pedido PEDMIS4CZBY ativado com sucesso
+05/12/2025 00:21:46: [Saldo] Cliente 6897145702 ativação OK, descontou R$1, saldo restante: R$0
+05/12/2025 01:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 01:44:18: [Master] callback_query de 6897145702
+05/12/2025 01:44:21: [Master] callback_query de 6897145702
+05/12/2025 01:44:28: [Master] callback_query de 6897145702
+05/12/2025 01:44:34: [Master] callback_query de 6897145702
+05/12/2025 01:44:38: [Master] callback_query de 6897145702
+05/12/2025 01:44:48: [Master] message de 6897145702
+05/12/2025 01:44:48: [Afiliado] Deep link detectado: CHICOPROCOPIO905
+05/12/2025 01:44:54: [Master] callback_query de 6897145702
+05/12/2025 01:45:02: [Master] callback_query de 6897145702
+05/12/2025 01:45:07: [Master] callback_query de 6897145702
+05/12/2025 01:45:10: [Master] callback_query de 6897145702
+05/12/2025 01:45:13: [Master] callback_query de 6897145702
+05/12/2025 01:45:16: [Master] callback_query de 6897145702
+05/12/2025 01:45:18: [Master] callback_query de 6897145702
+05/12/2025 01:46:19: [Master] message de 1875737830
+05/12/2025 01:46:19: [Afiliado] Deep link detectado: CHICOPROCOPIO905
+05/12/2025 02:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 02:03:28: [Master] message de 6897145702
+05/12/2025 02:03:31: [Master] callback_query de 6897145702
+05/12/2025 02:03:36: [Master] callback_query de 6897145702
+05/12/2025 02:03:38: [Master] callback_query de 6897145702
+05/12/2025 02:03:39: [BotManager] Bot 1 parado
+05/12/2025 02:03:42: [Master] callback_query de 6897145702
+05/12/2025 02:03:44: [Master] callback_query de 6897145702
+05/12/2025 02:04:03: [Master] message de 6897145702
+05/12/2025 02:04:04: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+05/12/2025 02:04:04: [BotManager] Removendo webhook de estacao2bot_bot...
+05/12/2025 02:04:04: [Customer] Configurando handlers para bot estacao2bot_bot
+05/12/2025 02:04:04: [BotManager] Lançando bot estacao2bot_bot...
+05/12/2025 02:04:05: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+05/12/2025 02:04:14: [Master] callback_query de 6897145702
+05/12/2025 02:04:18: [Master] callback_query de 6897145702
+05/12/2025 02:04:43: [Master] callback_query de 6897145702
+05/12/2025 02:04:48: [Master] callback_query de 6897145702
+05/12/2025 02:04:56: [Master] callback_query de 6897145702
+05/12/2025 02:04:59: [Master] callback_query de 6897145702
+05/12/2025 02:05:06: [Master] callback_query de 6897145702
+05/12/2025 02:05:09: [Master] callback_query de 6897145702
+05/12/2025 02:05:09: [IBO Pro] Fazendo login...
+05/12/2025 02:05:10: [IBO Pro] Login realizado com sucesso
+05/12/2025 02:05:10: [IBO Pro] Buscando saldo...
+05/12/2025 02:05:10: [IBO Pro] Resposta do saldo: {
+05/12/2025 02:05:10:   username: 'isaacdopanta@gmail.com',
+05/12/2025 02:05:10:   role: 'RESELLER',
+05/12/2025 02:05:10:   credits: 106,
+05/12/2025 02:05:10:   active: true,
+05/12/2025 02:05:10:   platforms: '',
+05/12/2025 02:05:10:   isSupport: false,
+05/12/2025 02:05:10:   enableAPD: false
+05/12/2025 02:05:10: }
+05/12/2025 02:05:10: [IBO Player] Fazendo login...
+05/12/2025 02:05:11: [IBO Player] Login OK - Créditos: 126
+05/12/2025 02:05:11: [VU Player Pro] Fazendo login...
+05/12/2025 02:05:14: [VU Player Pro] Resposta login: 302
+05/12/2025 02:05:14: [VU Player Pro] Login OK
+05/12/2025 02:05:14: [VU Player Pro] Buscando saldo...
+05/12/2025 02:05:15: [VU Player Pro] Saldo: 33
+05/12/2025 02:05:22: [Master] callback_query de 6897145702
+05/12/2025 02:05:28: [Master] callback_query de 6897145702
+05/12/2025 02:05:30: [Master] callback_query de 6897145702
+05/12/2025 02:05:33: [Master] callback_query de 6897145702
+05/12/2025 02:05:37: [Master] callback_query de 6897145702
+05/12/2025 02:05:40: [Master] callback_query de 6897145702
+05/12/2025 02:05:59: [Master] callback_query de 6897145702
+05/12/2025 02:06:02: [Master] callback_query de 6897145702
+05/12/2025 02:06:04: [Master] callback_query de 6897145702
+05/12/2025 02:06:09: [Master] callback_query de 6897145702
+05/12/2025 02:06:11: [Master] callback_query de 6897145702
+05/12/2025 02:06:51: [Payment] Criando PIX: R$1 - IBO Player Anual
+05/12/2025 02:08:04: [Master] callback_query de 6897145702
+05/12/2025 02:08:06: [Master] callback_query de 6897145702
+05/12/2025 02:08:09: [Master] callback_query de 6897145702
+05/12/2025 02:08:09: [BotManager] Bot 1 parado
+05/12/2025 02:08:11: [Master] callback_query de 6897145702
+05/12/2025 02:08:13: [Master] callback_query de 6897145702
+05/12/2025 02:08:14: [Master] message de 6897145702
+05/12/2025 02:08:16: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+05/12/2025 02:08:16: [BotManager] Removendo webhook de estacao2bot_bot...
+05/12/2025 02:08:16: [Customer] Configurando handlers para bot estacao2bot_bot
+05/12/2025 02:08:16: [BotManager] Lançando bot estacao2bot_bot...
+05/12/2025 02:08:18: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+05/12/2025 02:08:55: [Master] callback_query de 1875737830
+05/12/2025 02:08:58: [Master] callback_query de 1875737830
+05/12/2025 02:09:00: [Master] callback_query de 1875737830
+05/12/2025 02:09:07: [Master] callback_query de 1875737830
+05/12/2025 02:09:10: [Master] callback_query de 1875737830
+05/12/2025 02:09:15: [Master] callback_query de 1875737830
+05/12/2025 02:09:20: [Master] callback_query de 1875737830
+05/12/2025 02:09:21: [Master] callback_query de 1875737830
+05/12/2025 02:09:29: [Master] message de 1875737830
+05/12/2025 02:09:31: [Master] callback_query de 1875737830
+05/12/2025 02:10:00: [Master] callback_query de 6897145702
+05/12/2025 02:17:16: [Master] message de 7832943510
+05/12/2025 02:17:21: [Master] callback_query de 7832943510
+05/12/2025 02:17:27: [Master] message de 7832943510
+05/12/2025 02:17:33: [Master] message de 7832943510
+05/12/2025 02:24:44: [Master] callback_query de 7832943510
+05/12/2025 02:25:09: [Master] callback_query de 7832943510
+05/12/2025 02:25:10: [Master] callback_query de 7832943510
+05/12/2025 02:25:16: [Master] message de 7832943510
+05/12/2025 02:25:22: [Master] message de 7832943510
+05/12/2025 02:25:30: [Master] message de 7832943510
+05/12/2025 02:25:41: [Master] message de 7832943510
+05/12/2025 02:25:47: [Master] message de 7832943510
+05/12/2025 02:27:50: [Master] message de 7832943510
+05/12/2025 02:27:52: [Master] callback_query de 7832943510
+05/12/2025 02:28:04: [Master] callback_query de 7832943510
+05/12/2025 02:28:12: [Master] message de 7832943510
+05/12/2025 02:28:23: [Master] message de 7832943510
+05/12/2025 02:28:30: [Master] message de 7832943510
+05/12/2025 02:28:49: [Master] callback_query de 7832943510
+05/12/2025 02:28:57: [Master] message de 7832943510
+05/12/2025 02:29:04: [Master] message de 7832943510
+05/12/2025 02:33:07: [Master] message de 7832943510
+05/12/2025 02:33:37: [Master] message de 7832943510
+05/12/2025 02:40:02: [Master] callback_query de 1875737830
+05/12/2025 02:40:06: [Master] callback_query de 1875737830
+05/12/2025 02:40:10: [Master] callback_query de 1875737830
+05/12/2025 02:40:12: [Master] callback_query de 1875737830
+05/12/2025 02:40:19: 
+05/12/2025 02:40:19: SIGINT recebido. Encerrando...
+05/12/2025 02:40:19: [BotManager] Parando 1 bots...
+05/12/2025 02:40:19: [BotManager] Todos os bots parados
+05/12/2025 02:40:19: ✅ Sistema encerrado com sucesso.
+05/12/2025 02:40:20: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  override existing env vars with { override: true }
+05/12/2025 02:40:21: 🚀 Iniciando Sistema de Ativação SaaS...
+05/12/2025 02:40:21: 
+05/12/2025 02:40:21: [DB] Banco de dados carregado
+05/12/2025 02:40:21: [DB] Schema aplicado com sucesso
+05/12/2025 02:40:21: ✅ Banco de dados inicializado
+05/12/2025 02:40:22: [BotManager] Encontrados 1 bots para auto-iniciar...
+05/12/2025 02:40:22: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+05/12/2025 02:40:22: [BotManager] Removendo webhook de estacao2bot_bot...
+05/12/2025 02:40:23: [Customer] Configurando handlers para bot estacao2bot_bot
+05/12/2025 02:40:23: [BotManager] Lançando bot estacao2bot_bot...
+05/12/2025 02:40:24: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+05/12/2025 02:40:25: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+05/12/2025 02:40:25: [Cron] Inicializando tarefas agendadas...
+05/12/2025 02:40:25: [Cron] ✅ Lembrete de vencimento agendado para 7h
+05/12/2025 02:40:25: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+05/12/2025 02:40:25: [Cron] Todas as tarefas agendadas com sucesso
+05/12/2025 02:40:49: [Master] message de 7832943510
+05/12/2025 02:40:50: [Master] callback_query de 7832943510
+05/12/2025 02:40:59: [Master] message de 7832943510
+05/12/2025 02:41:08: [Master] message de 7832943510
+05/12/2025 02:45:18: 
+05/12/2025 02:45:18: SIGINT recebido. Encerrando...
+05/12/2025 02:45:18: [BotManager] Parando 1 bots...
+05/12/2025 02:45:18: [BotManager] Todos os bots parados
+05/12/2025 02:45:18: ✅ Sistema encerrado com sucesso.
+05/12/2025 02:45:19: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  override existing env vars with { override: true }
+05/12/2025 02:45:19: 🚀 Iniciando Sistema de Ativação SaaS...
+05/12/2025 02:45:19: 
+05/12/2025 02:45:20: [DB] Banco de dados carregado
+05/12/2025 02:45:20: [DB] Migração de afiliados verificada
+05/12/2025 02:45:20: [DB] Schema aplicado com sucesso
+05/12/2025 02:45:20: ✅ Banco de dados inicializado
+05/12/2025 02:45:20: [BotManager] Encontrados 1 bots para auto-iniciar...
+05/12/2025 02:45:20: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+05/12/2025 02:45:20: [BotManager] Removendo webhook de estacao2bot_bot...
+05/12/2025 02:45:21: [Customer] Configurando handlers para bot estacao2bot_bot
+05/12/2025 02:45:21: [BotManager] Lançando bot estacao2bot_bot...
+05/12/2025 02:45:23: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+05/12/2025 02:45:23: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+05/12/2025 02:45:23: [Cron] Inicializando tarefas agendadas...
+05/12/2025 02:45:23: [Cron] ✅ Lembrete de vencimento agendado para 7h
+05/12/2025 02:45:23: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+05/12/2025 02:45:23: [Cron] Todas as tarefas agendadas com sucesso
+05/12/2025 02:45:38: [Master] callback_query de 7832943510
+05/12/2025 02:45:43: [Master] message de 7832943510
+05/12/2025 02:45:53: [Master] message de 7832943510
+05/12/2025 02:48:53: 
+05/12/2025 02:48:53: SIGINT recebido. Encerrando...
+05/12/2025 02:48:53: [BotManager] Parando 1 bots...
+05/12/2025 02:48:53: [BotManager] Todos os bots parados
+05/12/2025 02:48:53: ✅ Sistema encerrado com sucesso.
+05/12/2025 02:48:54: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+05/12/2025 02:48:55: 🚀 Iniciando Sistema de Ativação SaaS...
+05/12/2025 02:48:55: 
+05/12/2025 02:48:55: [DB] Banco de dados carregado
+05/12/2025 02:48:55: [DB] Migração de afiliados verificada
+05/12/2025 02:48:55: [DB] Schema aplicado com sucesso
+05/12/2025 02:48:55: ✅ Banco de dados inicializado
+05/12/2025 02:48:55: [BotManager] Encontrados 1 bots para auto-iniciar...
+05/12/2025 02:48:55: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+05/12/2025 02:48:55: [BotManager] Removendo webhook de estacao2bot_bot...
+05/12/2025 02:48:56: [Customer] Configurando handlers para bot estacao2bot_bot
+05/12/2025 02:48:56: [BotManager] Lançando bot estacao2bot_bot...
+05/12/2025 02:48:58: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+05/12/2025 02:48:58: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+05/12/2025 02:48:58: [Cron] Inicializando tarefas agendadas...
+05/12/2025 02:48:58: [Cron] ✅ Lembrete de vencimento agendado para 7h
+05/12/2025 02:48:58: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+05/12/2025 02:48:58: [Cron] Todas as tarefas agendadas com sucesso
+05/12/2025 02:53:03: [Master] callback_query de 7832943510
+05/12/2025 02:53:06: [Master] message de 7832943510
+05/12/2025 02:53:13: [Master] message de 7832943510
+05/12/2025 02:53:13: [Cadastro] Iniciando cadastro para Adalberto, WhatsApp: 15998627702
+05/12/2025 02:53:13: [Cadastro] Criando usuário...
+05/12/2025 02:58:56: [Master] callback_query de 7832943510
+05/12/2025 02:58:59: [Master] message de 7832943510
+05/12/2025 02:59:06: [Master] message de 7832943510
+05/12/2025 02:59:06: [Cadastro] Iniciando cadastro para Bot, WhatsApp: 15998627702
+05/12/2025 02:59:06: [Cadastro] Criando usuário...
+05/12/2025 02:59:39: [Master] callback_query de 7832943510
+05/12/2025 02:59:46: [Master] message de 7832943510
+05/12/2025 02:59:53: [Master] message de 7832943510
+05/12/2025 02:59:53: [Cadastro] Iniciando cadastro para Adalberto Oliveira, WhatsApp: 15998627702
+05/12/2025 02:59:53: [Cadastro] Criando usuário...
+05/12/2025 03:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 03:00:35: [Master] callback_query de 7832943510
+05/12/2025 03:00:47: [Master] message de 7832943510
+05/12/2025 03:00:54: [Master] message de 7832943510
+05/12/2025 03:00:54: [Cadastro] Iniciando cadastro para HPTV ATIVACOES, WhatsApp: 15998627702
+05/12/2025 03:00:54: [Cadastro] Criando usuário...
+05/12/2025 03:01:09: [Master] callback_query de 7832943510
+05/12/2025 03:01:19: [Master] message de 7832943510
+05/12/2025 03:01:26: [Master] message de 7832943510
+05/12/2025 03:01:26: [Cadastro] Iniciando cadastro para Adalberto Oliveira, WhatsApp: 15998627702
+05/12/2025 03:01:26: [Cadastro] Criando usuário...
+05/12/2025 03:03:35: 
+05/12/2025 03:03:35: SIGINT recebido. Encerrando...
+05/12/2025 03:03:35: [BotManager] Parando 1 bots...
+05/12/2025 03:03:35: [BotManager] Todos os bots parados
+05/12/2025 03:03:35: ✅ Sistema encerrado com sucesso.
+05/12/2025 03:03:36: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+05/12/2025 03:03:36: 🚀 Iniciando Sistema de Ativação SaaS...
+05/12/2025 03:03:36: 
+05/12/2025 03:03:37: [DB] Banco de dados carregado
+05/12/2025 03:03:37: [DB] Migração de afiliados verificada
+05/12/2025 03:03:37: [DB] Schema aplicado com sucesso
+05/12/2025 03:03:37: ✅ Banco de dados inicializado
+05/12/2025 03:03:37: [BotManager] Encontrados 1 bots para auto-iniciar...
+05/12/2025 03:03:37: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+05/12/2025 03:03:37: [BotManager] Removendo webhook de estacao2bot_bot...
+05/12/2025 03:03:38: [Customer] Configurando handlers para bot estacao2bot_bot
+05/12/2025 03:03:38: [BotManager] Lançando bot estacao2bot_bot...
+05/12/2025 03:03:39: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+05/12/2025 03:03:40: [BotManager] Auto-início concluído. Iniciados: 1, Pulados: 0
+05/12/2025 03:03:40: [Cron] Inicializando tarefas agendadas...
+05/12/2025 03:03:40: [Cron] ✅ Lembrete de vencimento agendado para 7h
+05/12/2025 03:03:40: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+05/12/2025 03:03:40: [Cron] Todas as tarefas agendadas com sucesso
+05/12/2025 03:05:02: [Master] callback_query de 7832943510
+05/12/2025 03:05:04: [Master] message de 7832943510
+05/12/2025 03:05:11: [Master] message de 7832943510
+05/12/2025 03:05:11: [Cadastro] Iniciando cadastro para @Suportehptv, WhatsApp: 15998627702
+05/12/2025 03:05:11: [Cadastro] Criando usuário...
+05/12/2025 03:05:11: [Cadastro] Usuário criado: ID=2
+05/12/2025 03:05:11: [Cadastro] Gerando código de afiliado...
+05/12/2025 03:05:11: [Cadastro] Código gerado: SUPORTEHPTV586
+05/12/2025 03:05:11: [Cadastro] Definindo código no banco...
+05/12/2025 03:05:11: [Cadastro] Código definido com sucesso
+05/12/2025 03:05:36: [Master] callback_query de 7832943510
+05/12/2025 03:05:57: [Master] callback_query de 7832943510
+05/12/2025 03:06:13: [Master] callback_query de 1875737830
+05/12/2025 03:06:16: [Master] callback_query de 1875737830
+05/12/2025 03:06:19: [Master] callback_query de 1875737830
+05/12/2025 03:06:22: [Master] callback_query de 1875737830
+05/12/2025 03:06:25: [Master] callback_query de 1875737830
+05/12/2025 03:06:29: [Master] callback_query de 1875737830
+05/12/2025 03:06:31: [Master] callback_query de 1875737830
+05/12/2025 03:06:36: [Master] message de 1875737830
+05/12/2025 03:06:45: [Master] callback_query de 1875737830
+05/12/2025 03:06:48: [Master] callback_query de 1875737830
+05/12/2025 03:06:50: [Master] callback_query de 1875737830
+05/12/2025 03:06:52: [Master] callback_query de 1875737830
+05/12/2025 03:06:55: [Master] message de 7832943510
+05/12/2025 03:06:57: [Master] callback_query de 7832943510
+05/12/2025 03:06:59: [Master] callback_query de 1875737830
+05/12/2025 03:07:01: [Master] callback_query de 1875737830
+05/12/2025 03:07:02: [BotManager] Bot 1 parado
+05/12/2025 03:07:03: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+05/12/2025 03:07:03: [BotManager] Removendo webhook de estacao2bot_bot...
+05/12/2025 03:07:03: [Customer] Configurando handlers para bot estacao2bot_bot
+05/12/2025 03:07:03: [BotManager] Lançando bot estacao2bot_bot...
+05/12/2025 03:07:04: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+05/12/2025 03:07:05: [Master] callback_query de 7832943510
+05/12/2025 03:07:12: [Master] callback_query de 7832943510
+05/12/2025 03:07:14: [Master] callback_query de 7832943510
+05/12/2025 03:07:16: [Master] callback_query de 7832943510
+05/12/2025 03:07:19: [Master] callback_query de 7832943510
+05/12/2025 03:07:22: [Master] callback_query de 7832943510
+05/12/2025 03:07:28: [Master] callback_query de 7832943510
+05/12/2025 03:07:45: [Master] callback_query de 7832943510
+05/12/2025 03:07:48: [Master] callback_query de 7832943510
+05/12/2025 03:08:01: [Master] callback_query de 7832943510
+05/12/2025 03:08:06: [Master] callback_query de 7832943510
+05/12/2025 03:08:14: [Master] callback_query de 7832943510
+05/12/2025 03:08:17: [Master] callback_query de 7832943510
+05/12/2025 03:09:03: [Master] message de 7832943510
+05/12/2025 03:11:16: [Master] callback_query de 7832943510
+05/12/2025 03:11:18: [Master] callback_query de 7832943510
+05/12/2025 03:11:26: [Master] callback_query de 7832943510
+05/12/2025 03:11:47: [Master] message de 7832943510
+05/12/2025 03:11:51: [Master] callback_query de 7832943510
+05/12/2025 03:11:54: [Master] callback_query de 7832943510
+05/12/2025 03:11:57: [Master] callback_query de 7832943510
+05/12/2025 03:12:04: [Master] message de 7832943510
+05/12/2025 03:12:07: [Master] callback_query de 7832943510
+05/12/2025 03:12:12: [Master] callback_query de 7832943510
+05/12/2025 03:12:17: [Master] callback_query de 7832943510
+05/12/2025 03:12:21: [Master] message de 7832943510
+05/12/2025 03:12:24: [Master] callback_query de 7832943510
+05/12/2025 03:12:26: [Master] callback_query de 7832943510
+05/12/2025 03:12:30: [Master] callback_query de 7832943510
+05/12/2025 03:12:33: [Master] callback_query de 7832943510
+05/12/2025 03:12:37: [Master] callback_query de 7832943510
+05/12/2025 03:12:41: [Master] message de 7832943510
+05/12/2025 03:12:43: [Master] callback_query de 7832943510
+05/12/2025 03:12:48: [Master] callback_query de 7832943510
+05/12/2025 03:12:52: [Master] callback_query de 7832943510
+05/12/2025 03:12:57: [Master] message de 7832943510
+05/12/2025 03:14:13: [Master] callback_query de 7832943510
+05/12/2025 03:14:16: [Master] callback_query de 7832943510
+05/12/2025 03:14:33: [Master] message de 7832943510
+05/12/2025 03:14:36: [BotManager] Iniciando bot Hptvbot (ID: 2)
+05/12/2025 03:14:36: [BotManager] Removendo webhook de Hptvbot...
+05/12/2025 03:14:36: [Customer] Configurando handlers para bot Hptvbot
+05/12/2025 03:14:36: [BotManager] Lançando bot Hptvbot...
+05/12/2025 03:14:38: [BotManager] ✅ Bot Hptvbot iniciado com sucesso
+05/12/2025 03:14:50: [Payment] Criando PIX: R$12 - BOB Player Anual
+05/12/2025 03:16:08: [Master] callback_query de 7832943510
+05/12/2025 03:16:13: [Master] callback_query de 7832943510
+05/12/2025 03:16:16: [Master] callback_query de 7832943510
+05/12/2025 03:16:20: [Master] callback_query de 7832943510
+05/12/2025 03:16:23: [Master] callback_query de 7832943510
+05/12/2025 03:16:29: [Master] callback_query de 7832943510
+05/12/2025 03:16:33: [Master] callback_query de 7832943510
+05/12/2025 03:16:35: [Master] callback_query de 7832943510
+05/12/2025 03:16:37: [Master] callback_query de 7832943510
+05/12/2025 03:16:42: [Master] callback_query de 7832943510
+05/12/2025 03:16:44: [Master] callback_query de 7832943510
+05/12/2025 03:16:53: [Master] callback_query de 7832943510
+05/12/2025 03:16:56: [Master] callback_query de 7832943510
+05/12/2025 03:16:59: [Master] callback_query de 7832943510
+05/12/2025 03:17:02: [Master] callback_query de 7832943510
+05/12/2025 03:17:05: [Master] callback_query de 7832943510
+05/12/2025 03:17:07: [Master] callback_query de 7832943510
+05/12/2025 03:17:13: [Master] callback_query de 7832943510
+05/12/2025 03:17:21: [Master] callback_query de 7832943510
+05/12/2025 03:17:24: [Master] callback_query de 7832943510
+05/12/2025 03:17:28: [Master] callback_query de 7832943510
+05/12/2025 03:17:33: [Master] callback_query de 7832943510
+05/12/2025 03:17:36: [Master] message de 7832943510
+05/12/2025 03:17:38: [Master] callback_query de 7832943510
+05/12/2025 03:17:41: [Master] callback_query de 7832943510
+05/12/2025 03:17:46: [Master] callback_query de 7832943510
+05/12/2025 03:17:49: [Master] message de 7832943510
+05/12/2025 03:17:53: [Master] callback_query de 7832943510
+05/12/2025 03:17:55: [Master] callback_query de 7832943510
+05/12/2025 03:18:05: [Master] callback_query de 7832943510
+05/12/2025 03:18:10: [Master] message de 7832943510
+05/12/2025 03:18:13: [Master] callback_query de 7832943510
+05/12/2025 03:18:17: [Master] callback_query de 7832943510
+05/12/2025 03:18:26: [Master] callback_query de 7832943510
+05/12/2025 03:18:33: [Master] message de 7832943510
+05/12/2025 03:18:36: [Master] callback_query de 7832943510
+05/12/2025 03:18:39: [Master] callback_query de 7832943510
+05/12/2025 03:18:43: [Master] callback_query de 7832943510
+05/12/2025 03:18:46: [Master] message de 7832943510
+05/12/2025 03:18:49: [Master] callback_query de 7832943510
+05/12/2025 03:18:52: [Master] callback_query de 7832943510
+05/12/2025 03:18:56: [Master] callback_query de 7832943510
+05/12/2025 03:19:00: [Master] message de 7832943510
+05/12/2025 03:19:03: [Master] callback_query de 7832943510
+05/12/2025 03:19:06: [Master] callback_query de 7832943510
+05/12/2025 03:19:12: [Master] callback_query de 7832943510
+05/12/2025 03:19:20: [Master] message de 7832943510
+05/12/2025 03:19:22: [Master] callback_query de 7832943510
+05/12/2025 03:19:26: [Master] callback_query de 7832943510
+05/12/2025 03:19:29: [Master] callback_query de 7832943510
+05/12/2025 03:19:33: [Master] message de 7832943510
+05/12/2025 03:19:37: [Master] callback_query de 7832943510
+05/12/2025 03:19:39: [Master] callback_query de 7832943510
+05/12/2025 03:19:43: [Master] callback_query de 7832943510
+05/12/2025 03:19:46: [Master] message de 7832943510
+05/12/2025 03:19:48: [Master] callback_query de 7832943510
+05/12/2025 03:19:51: [Master] callback_query de 7832943510
+05/12/2025 03:19:55: [Master] callback_query de 7832943510
+05/12/2025 03:19:59: [Master] callback_query de 7832943510
+05/12/2025 03:20:07: [Master] callback_query de 7832943510
+05/12/2025 03:20:11: [Master] callback_query de 7832943510
+05/12/2025 03:20:15: [Master] message de 7832943510
+05/12/2025 03:20:17: [Master] callback_query de 7832943510
+05/12/2025 03:20:20: [Master] callback_query de 7832943510
+05/12/2025 03:20:23: [Master] callback_query de 7832943510
+05/12/2025 03:20:26: [Master] message de 7832943510
+05/12/2025 03:20:28: [Master] callback_query de 7832943510
+05/12/2025 03:20:31: [Master] callback_query de 7832943510
+05/12/2025 03:20:34: [Master] callback_query de 7832943510
+05/12/2025 03:20:37: [Master] message de 7832943510
+05/12/2025 03:20:39: [Master] callback_query de 7832943510
+05/12/2025 03:20:43: [Master] callback_query de 7832943510
+05/12/2025 03:20:46: [Master] callback_query de 7832943510
+05/12/2025 03:20:47: [Master] callback_query de 7832943510
+05/12/2025 03:20:50: [Master] callback_query de 7832943510
+05/12/2025 03:20:54: [Master] message de 7832943510
+05/12/2025 03:20:57: [Master] callback_query de 7832943510
+05/12/2025 03:20:58: [Master] callback_query de 7832943510
+05/12/2025 03:20:59: [Master] callback_query de 7832943510
+05/12/2025 03:21:02: [Master] callback_query de 7832943510
+05/12/2025 03:21:08: [Master] message de 7832943510
+05/12/2025 03:21:11: [Master] callback_query de 7832943510
+05/12/2025 03:21:20: [Master] callback_query de 7832943510
+05/12/2025 03:21:22: [Master] callback_query de 7832943510
+05/12/2025 03:21:29: [Master] message de 7832943510
+05/12/2025 03:21:32: [Master] callback_query de 7832943510
+05/12/2025 03:21:35: [Master] callback_query de 7832943510
+05/12/2025 03:21:40: [Master] callback_query de 7832943510
+05/12/2025 03:21:44: [Master] message de 7832943510
+05/12/2025 03:21:46: [Master] callback_query de 7832943510
+05/12/2025 03:21:48: [Master] callback_query de 7832943510
+05/12/2025 03:21:51: [Master] callback_query de 7832943510
+05/12/2025 03:21:57: [Master] message de 7832943510
+05/12/2025 03:21:59: [Master] callback_query de 7832943510
+05/12/2025 03:22:01: [Master] callback_query de 7832943510
+05/12/2025 03:22:03: [Master] callback_query de 7832943510
+05/12/2025 03:22:06: [Master] message de 7832943510
+05/12/2025 03:22:13: [Master] callback_query de 7832943510
+05/12/2025 03:22:15: [Master] callback_query de 7832943510
+05/12/2025 03:22:17: [Master] callback_query de 7832943510
+05/12/2025 03:22:19: [Master] callback_query de 7832943510
+05/12/2025 03:22:27: [Master] message de 7832943510
+05/12/2025 03:22:35: [Master] message de 7832943510
+05/12/2025 03:22:35: [VU Player Pro] Fazendo login...
+05/12/2025 03:22:38: [VU Player Pro] Resposta login: 302
+05/12/2025 03:22:38: [VU Player Pro] Login OK
+05/12/2025 03:22:38: [VU Player Pro] Buscando saldo...
+05/12/2025 03:22:39: [VU Player Pro] Saldo: 33
+05/12/2025 03:22:45: [Master] callback_query de 7832943510
+05/12/2025 03:22:49: [Master] callback_query de 7832943510
+05/12/2025 03:23:14: [Master] message de 7832943510
+05/12/2025 03:23:23: [Master] message de 7832943510
+05/12/2025 03:23:23: [IBO Player] Fazendo login...
+05/12/2025 03:23:24: [IBO Player] Login OK - Créditos: 42
+05/12/2025 03:27:24: 
+05/12/2025 03:27:24: SIGINT recebido. Encerrando...
+05/12/2025 03:27:24: [BotManager] Parando 2 bots...
+05/12/2025 03:27:24: [BotManager] Todos os bots parados
+05/12/2025 03:27:24: ✅ Sistema encerrado com sucesso.
+05/12/2025 03:27:24: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+05/12/2025 03:27:25: 🚀 Iniciando Sistema de Ativação SaaS...
+05/12/2025 03:27:25: 
+05/12/2025 03:27:25: [DB] Banco de dados carregado
+05/12/2025 03:27:25: [DB] Migração de afiliados verificada
+05/12/2025 03:27:25: [DB] Schema aplicado com sucesso
+05/12/2025 03:27:25: ✅ Banco de dados inicializado
+05/12/2025 03:27:25: [BotManager] Encontrados 2 bots para auto-iniciar...
+05/12/2025 03:27:25: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+05/12/2025 03:27:25: [BotManager] Removendo webhook de estacao2bot_bot...
+05/12/2025 03:27:26: [Customer] Configurando handlers para bot estacao2bot_bot
+05/12/2025 03:27:26: [BotManager] Lançando bot estacao2bot_bot...
+05/12/2025 03:27:27: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+05/12/2025 03:27:28: [BotManager] Iniciando bot Hptvbot (ID: 2)
+05/12/2025 03:27:28: [BotManager] Removendo webhook de Hptvbot...
+05/12/2025 03:27:29: [Customer] Configurando handlers para bot Hptvbot
+05/12/2025 03:27:29: [BotManager] Lançando bot Hptvbot...
+05/12/2025 03:27:30: [BotManager] ✅ Bot Hptvbot iniciado com sucesso
+05/12/2025 03:27:31: [BotManager] Auto-início concluído. Iniciados: 2, Pulados: 0
+05/12/2025 03:27:31: [Cron] Inicializando tarefas agendadas...
+05/12/2025 03:27:31: [Cron] ✅ Lembrete de vencimento agendado para 7h
+05/12/2025 03:27:31: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+05/12/2025 03:27:31: [Cron] Todas as tarefas agendadas com sucesso
+05/12/2025 03:27:45: [Master] callback_query de 7832943510
+05/12/2025 03:27:47: [Master] callback_query de 7832943510
+05/12/2025 03:27:51: [Master] callback_query de 7832943510
+05/12/2025 03:27:55: [Master] callback_query de 7832943510
+05/12/2025 03:28:17: [Master] callback_query de 7832943510
+05/12/2025 03:28:21: [Master] message de 7832943510
+05/12/2025 03:28:44: [Master] message de 6897145702
+05/12/2025 03:28:52: [Master] callback_query de 6897145702
+05/12/2025 03:28:54: [Master] callback_query de 6897145702
+05/12/2025 03:28:56: [Master] callback_query de 6897145702
+05/12/2025 03:28:57: [IBO Pro] Fazendo login...
+05/12/2025 03:28:57: [IBO Pro] Login realizado com sucesso
+05/12/2025 03:28:57: [IBO Pro] Buscando saldo...
+05/12/2025 03:28:58: [IBO Pro] Resposta do saldo: {
+05/12/2025 03:28:58:   username: 'isaacdopanta@gmail.com',
+05/12/2025 03:28:58:   role: 'RESELLER',
+05/12/2025 03:28:58:   credits: 102,
+05/12/2025 03:28:58:   active: true,
+05/12/2025 03:28:58:   platforms: '',
+05/12/2025 03:28:58:   isSupport: false,
+05/12/2025 03:28:58:   enableAPD: false
+05/12/2025 03:28:58: }
+05/12/2025 03:28:58: [IBO Player] Fazendo login...
+05/12/2025 03:28:59: [IBO Player] Login OK - Créditos: 125
+05/12/2025 03:28:59: [VU Player Pro] Fazendo login...
+05/12/2025 03:29:02: [VU Player Pro] Resposta login: 302
+05/12/2025 03:29:02: [VU Player Pro] Login OK
+05/12/2025 03:29:02: [VU Player Pro] Buscando saldo...
+05/12/2025 03:29:02: [VU Player Pro] Saldo: 33
+05/12/2025 03:29:06: [Master] callback_query de 6897145702
+05/12/2025 03:29:08: [Master] callback_query de 6897145702
+05/12/2025 03:31:11: [Master] message de 7832943510
+05/12/2025 03:31:11: [IBO Pro] Fazendo login...
+05/12/2025 03:31:22: [Master] callback_query de 7832943510
+05/12/2025 03:31:28: [Master] message de 7832943510
+05/12/2025 03:31:36: [Master] message de 7832943510
+05/12/2025 03:31:36: [IBO Pro] Fazendo login...
+05/12/2025 03:32:07: [Master] callback_query de 7832943510
+05/12/2025 03:32:18: [Master] message de 7832943510
+05/12/2025 03:32:21: [Master] message de 7832943510
+05/12/2025 03:32:21: [IBO Pro] Fazendo login...
+05/12/2025 03:32:50: [Master] callback_query de 7832943510
+05/12/2025 03:32:54: [Master] message de 7832943510
+05/12/2025 03:32:57: [Master] message de 7832943510
+05/12/2025 03:32:57: [IBO Pro] Fazendo login...
+05/12/2025 03:32:58: [IBO Pro] Login realizado com sucesso
+05/12/2025 03:33:52: [Payment] Criando PIX: R$12 - BOB Player Anual
+05/12/2025 03:35:24: [Master] callback_query de 7832943510
+05/12/2025 03:35:39: [Master] callback_query de 7832943510
+05/12/2025 03:35:45: [Master] callback_query de 7832943510
+05/12/2025 03:35:50: [Master] message de 7832943510
+05/12/2025 03:35:54: [Master] callback_query de 7832943510
+05/12/2025 03:36:06: [Master] callback_query de 7832943510
+05/12/2025 03:36:08: [Master] callback_query de 7832943510
+05/12/2025 03:36:10: [Master] callback_query de 1875737830
+05/12/2025 03:36:12: [Master] message de 7832943510
+05/12/2025 03:36:13: [Master] callback_query de 7832943510
+05/12/2025 03:36:35: 
+05/12/2025 03:36:35: SIGINT recebido. Encerrando...
+05/12/2025 03:36:35: [BotManager] Parando 2 bots...
+05/12/2025 03:36:35: [BotManager] Todos os bots parados
+05/12/2025 03:36:35: ✅ Sistema encerrado com sucesso.
+05/12/2025 03:36:36: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+05/12/2025 03:36:36: 🚀 Iniciando Sistema de Ativação SaaS...
+05/12/2025 03:36:36: 
+05/12/2025 03:36:36: [DB] Banco de dados carregado
+05/12/2025 03:36:36: [DB] Migração de afiliados verificada
+05/12/2025 03:36:36: [DB] Schema aplicado com sucesso
+05/12/2025 03:36:36: ✅ Banco de dados inicializado
+05/12/2025 03:36:36: [BotManager] Encontrados 2 bots para auto-iniciar...
+05/12/2025 03:36:36: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+05/12/2025 03:36:36: [BotManager] Removendo webhook de estacao2bot_bot...
+05/12/2025 03:36:38: [Customer] Configurando handlers para bot estacao2bot_bot
+05/12/2025 03:36:38: [BotManager] Lançando bot estacao2bot_bot...
+05/12/2025 03:36:39: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+05/12/2025 03:36:40: [BotManager] Iniciando bot Hptvbot (ID: 2)
+05/12/2025 03:36:40: [BotManager] Removendo webhook de Hptvbot...
+05/12/2025 03:36:40: [Customer] Configurando handlers para bot Hptvbot
+05/12/2025 03:36:40: [BotManager] Lançando bot Hptvbot...
+05/12/2025 03:36:42: [BotManager] ✅ Bot Hptvbot iniciado com sucesso
+05/12/2025 03:36:42: [BotManager] Auto-início concluído. Iniciados: 2, Pulados: 0
+05/12/2025 03:36:42: [Cron] Inicializando tarefas agendadas...
+05/12/2025 03:36:42: [Cron] ✅ Lembrete de vencimento agendado para 7h
+05/12/2025 03:36:42: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+05/12/2025 03:36:42: [Cron] Todas as tarefas agendadas com sucesso
+05/12/2025 03:36:47: [Master] callback_query de 6897145702
+05/12/2025 03:36:50: [Master] callback_query de 6897145702
+05/12/2025 03:36:50: [IBO Pro] Fazendo login...
+05/12/2025 03:36:50: [IBO Pro] Login realizado com sucesso
+05/12/2025 03:36:50: [IBO Pro] Buscando saldo...
+05/12/2025 03:36:51: [IBO Pro] Resposta do saldo: {
+05/12/2025 03:36:51:   username: 'isaacdopanta@gmail.com',
+05/12/2025 03:36:51:   role: 'RESELLER',
+05/12/2025 03:36:51:   credits: 101,
+05/12/2025 03:36:51:   active: true,
+05/12/2025 03:36:51:   platforms: '',
+05/12/2025 03:36:51:   isSupport: false,
+05/12/2025 03:36:51:   enableAPD: false
+05/12/2025 03:36:51: }
+05/12/2025 03:36:51: [IBO Player] Fazendo login...
+05/12/2025 03:36:52: [IBO Player] Login OK - Créditos: 125
+05/12/2025 03:36:52: [VU Player Pro] Fazendo login...
+05/12/2025 03:36:55: [VU Player Pro] Resposta login: 302
+05/12/2025 03:36:55: [VU Player Pro] Login OK
+05/12/2025 03:36:55: [VU Player Pro] Buscando saldo...
+05/12/2025 03:36:56: [VU Player Pro] Saldo: 33
+05/12/2025 03:37:00: [Master] callback_query de 6897145702
+05/12/2025 03:37:04: [Master] callback_query de 6897145702
+05/12/2025 03:37:06: [Master] callback_query de 6897145702
+05/12/2025 03:37:12: [Master] message de 6897145702
+05/12/2025 03:37:14: [Master] message de 6897145702
+05/12/2025 03:37:15: [Multi-Player] Fazendo login...
+05/12/2025 03:37:15: [Multi-Player] Login bem-sucedido
+05/12/2025 03:37:40: [Master] callback_query de 6897145702
+05/12/2025 03:37:42: [Master] callback_query de 6897145702
+05/12/2025 03:39:04: [Master] callback_query de 7832943510
+05/12/2025 03:39:07: [Master] callback_query de 7832943510
+05/12/2025 03:39:10: [Master] callback_query de 7832943510
+05/12/2025 03:39:22: [Master] callback_query de 7832943510
+05/12/2025 03:39:25: [Master] callback_query de 7832943510
+05/12/2025 03:39:27: [Master] callback_query de 7832943510
+05/12/2025 03:41:13: [Master] callback_query de 7832943510
+05/12/2025 03:41:18: [Master] callback_query de 7832943510
+05/12/2025 03:41:21: [Master] callback_query de 7832943510
+05/12/2025 03:41:33: [Master] callback_query de 7832943510
+05/12/2025 03:41:38: [Master] message de 7832943510
+05/12/2025 03:42:23: [Master] callback_query de 7832943510
+05/12/2025 03:42:26: [Master] callback_query de 7832943510
+05/12/2025 03:42:32: [Master] message de 7832943510
+05/12/2025 03:42:35: [Master] message de 7832943510
+05/12/2025 03:42:35: [Multi-Player] Fazendo login...
+05/12/2025 03:42:36: [Multi-Player] Login bem-sucedido
+05/12/2025 03:42:49: [Master] callback_query de 7832943510
+05/12/2025 03:42:55: [Master] callback_query de 7832943510
+05/12/2025 03:42:57: [Master] callback_query de 7832943510
+05/12/2025 03:43:00: [Master] callback_query de 7832943510
+05/12/2025 03:43:25: [Master] callback_query de 7832943510
+05/12/2025 03:43:56: [Master] message de 7832943510
+05/12/2025 03:46:10: [Master] message de 7832943510
+05/12/2025 03:46:10: [Multi-Player] Fazendo login...
+05/12/2025 03:46:11: [Multi-Player] Login bem-sucedido
+05/12/2025 03:46:19: [Master] callback_query de 7832943510
+05/12/2025 03:46:21: [Master] callback_query de 7832943510
+05/12/2025 03:46:48: [Master] callback_query de 7832943510
+05/12/2025 03:46:54: [Master] message de 7832943510
+05/12/2025 03:46:57: [Master] callback_query de 7832943510
+05/12/2025 03:47:01: [Master] callback_query de 7832943510
+05/12/2025 03:47:12: [Master] callback_query de 7832943510
+05/12/2025 03:47:19: [Master] message de 7832943510
+05/12/2025 03:47:21: [Master] callback_query de 7832943510
+05/12/2025 03:47:23: [Master] callback_query de 7832943510
+05/12/2025 03:47:35: [Master] callback_query de 7832943510
+05/12/2025 03:47:39: [Master] message de 7832943510
+05/12/2025 03:47:42: [Master] callback_query de 7832943510
+05/12/2025 03:49:02: [Master] callback_query de 7832943510
+05/12/2025 03:49:09: [Master] callback_query de 7832943510
+05/12/2025 03:49:13: [Master] message de 7832943510
+05/12/2025 03:49:16: [Master] callback_query de 7832943510
+05/12/2025 03:49:19: [Master] callback_query de 7832943510
+05/12/2025 03:49:26: [Master] callback_query de 7832943510
+05/12/2025 03:49:32: [Master] message de 7832943510
+05/12/2025 03:49:35: [Master] callback_query de 7832943510
+05/12/2025 03:49:37: [Master] callback_query de 7832943510
+05/12/2025 03:49:43: [Master] callback_query de 7832943510
+05/12/2025 03:49:48: [Master] message de 7832943510
+05/12/2025 03:49:52: [Master] callback_query de 7832943510
+05/12/2025 03:49:54: [Master] callback_query de 7832943510
+05/12/2025 03:50:01: [Master] callback_query de 7832943510
+05/12/2025 03:50:09: [Master] callback_query de 7832943510
+05/12/2025 03:50:14: [Master] message de 7832943510
+05/12/2025 03:50:16: [Master] callback_query de 7832943510
+05/12/2025 03:50:18: [Master] callback_query de 7832943510
+05/12/2025 03:50:22: [Master] callback_query de 7832943510
+05/12/2025 03:50:27: [Master] message de 7832943510
+05/12/2025 03:50:29: [Master] callback_query de 7832943510
+05/12/2025 03:50:37: [Master] callback_query de 7832943510
+05/12/2025 03:50:41: [Master] callback_query de 7832943510
+05/12/2025 03:50:44: [Master] message de 7832943510
+05/12/2025 03:50:46: [Master] callback_query de 7832943510
+05/12/2025 03:50:49: [Master] callback_query de 7832943510
+05/12/2025 03:50:53: [Master] callback_query de 7832943510
+05/12/2025 03:50:56: [Master] message de 7832943510
+05/12/2025 03:51:00: [Master] callback_query de 7832943510
+05/12/2025 03:51:02: [Master] callback_query de 7832943510
+05/12/2025 03:51:10: [Master] callback_query de 7832943510
+05/12/2025 03:51:13: [Master] message de 7832943510
+05/12/2025 03:51:15: [Master] callback_query de 7832943510
+05/12/2025 03:51:18: [Master] callback_query de 7832943510
+05/12/2025 03:51:24: [Master] callback_query de 7832943510
+05/12/2025 03:51:27: [Master] message de 7832943510
+05/12/2025 03:51:29: [Master] callback_query de 7832943510
+05/12/2025 03:51:33: [Master] callback_query de 7832943510
+05/12/2025 03:51:41: [Master] callback_query de 7832943510
+05/12/2025 03:51:48: [Master] message de 7832943510
+05/12/2025 03:51:50: [Master] callback_query de 7832943510
+05/12/2025 03:51:53: [Master] callback_query de 7832943510
+05/12/2025 03:52:04: [Master] callback_query de 7832943510
+05/12/2025 03:52:06: [Master] message de 7832943510
+05/12/2025 03:52:09: [Master] callback_query de 7832943510
+05/12/2025 03:52:12: [Master] callback_query de 7832943510
+05/12/2025 03:52:16: [Master] callback_query de 7832943510
+05/12/2025 03:52:18: [Master] message de 7832943510
+05/12/2025 03:52:20: [Master] callback_query de 7832943510
+05/12/2025 03:52:23: [Master] callback_query de 7832943510
+05/12/2025 03:52:28: [Master] callback_query de 7832943510
+05/12/2025 03:52:30: [Master] message de 7832943510
+05/12/2025 03:52:32: [Master] callback_query de 7832943510
+05/12/2025 03:52:35: [Master] callback_query de 7832943510
+05/12/2025 03:53:04: [Master] callback_query de 7832943510
+05/12/2025 03:53:12: [Master] message de 7832943510
+05/12/2025 03:53:15: [Master] callback_query de 7832943510
+05/12/2025 03:53:17: [Master] callback_query de 7832943510
+05/12/2025 03:53:22: [Master] callback_query de 7832943510
+05/12/2025 03:53:27: [Master] message de 7832943510
+05/12/2025 03:53:29: [Master] callback_query de 7832943510
+05/12/2025 03:53:33: [Master] callback_query de 7832943510
+05/12/2025 03:53:40: [Master] callback_query de 7832943510
+05/12/2025 03:53:43: [Master] message de 7832943510
+05/12/2025 03:53:45: [Master] callback_query de 7832943510
+05/12/2025 03:53:48: [Master] callback_query de 7832943510
+05/12/2025 03:53:55: [Master] callback_query de 7832943510
+05/12/2025 03:53:58: [Master] message de 7832943510
+05/12/2025 03:54:00: [Master] callback_query de 7832943510
+05/12/2025 03:54:03: [Master] callback_query de 7832943510
+05/12/2025 03:54:07: [Master] callback_query de 7832943510
+05/12/2025 03:54:09: [Master] message de 7832943510
+05/12/2025 03:54:11: [Master] callback_query de 7832943510
+05/12/2025 03:54:14: [Master] callback_query de 7832943510
+05/12/2025 03:54:25: [Master] callback_query de 7832943510
+05/12/2025 03:54:30: [Master] message de 7832943510
+05/12/2025 03:54:32: [Master] callback_query de 7832943510
+05/12/2025 03:54:34: [Master] callback_query de 7832943510
+05/12/2025 03:54:37: [Master] callback_query de 7832943510
+05/12/2025 03:54:42: [Master] message de 7832943510
+05/12/2025 03:54:44: [Master] callback_query de 7832943510
+05/12/2025 03:54:47: [Master] callback_query de 7832943510
+05/12/2025 03:54:51: [Master] callback_query de 7832943510
+05/12/2025 03:54:54: [Master] message de 7832943510
+05/12/2025 03:54:56: [Master] callback_query de 7832943510
+05/12/2025 03:55:02: [Master] callback_query de 7832943510
+05/12/2025 03:55:04: [Master] callback_query de 7832943510
+05/12/2025 03:55:07: [Master] message de 7832943510
+05/12/2025 03:55:09: [Master] callback_query de 7832943510
+05/12/2025 03:55:11: [Master] callback_query de 7832943510
+05/12/2025 03:55:13: [Master] callback_query de 7832943510
+05/12/2025 03:55:18: [Master] message de 7832943510
+05/12/2025 03:55:20: [Master] callback_query de 7832943510
+05/12/2025 03:55:23: [Master] callback_query de 7832943510
+05/12/2025 03:55:27: [Master] callback_query de 7832943510
+05/12/2025 03:55:31: [Master] message de 7832943510
+05/12/2025 03:55:34: [Master] callback_query de 7832943510
+05/12/2025 03:55:36: [Master] callback_query de 7832943510
+05/12/2025 03:55:39: [Master] callback_query de 7832943510
+05/12/2025 03:55:45: [Master] message de 7832943510
+05/12/2025 03:55:48: [Master] callback_query de 7832943510
+05/12/2025 03:55:50: [Master] callback_query de 7832943510
+05/12/2025 03:55:53: [Master] callback_query de 7832943510
+05/12/2025 03:55:56: [Master] message de 7832943510
+05/12/2025 03:55:58: [Master] callback_query de 7832943510
+05/12/2025 03:56:01: [Master] callback_query de 7832943510
+05/12/2025 03:56:03: [Master] callback_query de 7832943510
+05/12/2025 03:56:05: [Master] callback_query de 7832943510
+05/12/2025 03:56:07: [Master] callback_query de 7832943510
+05/12/2025 03:56:10: [Master] message de 7832943510
+05/12/2025 03:56:12: [Master] callback_query de 7832943510
+05/12/2025 03:56:15: [Master] callback_query de 7832943510
+05/12/2025 03:56:17: [Master] callback_query de 7832943510
+05/12/2025 03:56:19: [Master] message de 7832943510
+05/12/2025 03:56:52: [Payment] Criando PIX: R$12 - IBO Player Anual
+05/12/2025 03:57:47: [Saldo] Cliente 7832943510 pagou R$12, saldo agora: R$12
+05/12/2025 03:57:58: [IBO Player] Buscando MAC em: "757554335"
+05/12/2025 03:57:58: [IBO Player] Nenhum MAC encontrado
+05/12/2025 03:58:41: [Master] callback_query de 7832943510
+05/12/2025 03:58:44: [Master] callback_query de 7832943510
+05/12/2025 03:58:48: [Master] callback_query de 7832943510
+05/12/2025 03:59:06: [Master] callback_query de 7832943510
+05/12/2025 03:59:20: [Master] callback_query de 7832943510
+05/12/2025 03:59:23: [Master] message de 7832943510
+05/12/2025 03:59:32: [Master] callback_query de 7832943510
+05/12/2025 03:59:42: [Master] message de 7832943510
+05/12/2025 03:59:42: [Saldo] Revendedor 2 ajustou saldo do cliente 7832943510: R$12 → R$50
+05/12/2025 04:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 04:00:05: [Master] callback_query de 7832943510
+05/12/2025 04:00:12: [Master] callback_query de 7832943510
+05/12/2025 04:00:14: [Master] message de 7832943510
+05/12/2025 04:00:18: [Master] callback_query de 7832943510
+05/12/2025 04:00:20: [Master] callback_query de 7832943510
+05/12/2025 04:00:20: [Saldo] Revendedor 2 zerou saldo do cliente 7832943510 (era R$50)
+05/12/2025 04:00:29: [Master] callback_query de 7832943510
+05/12/2025 04:00:31: [Master] callback_query de 7832943510
+05/12/2025 04:00:38: [Master] callback_query de 7832943510
+05/12/2025 04:00:43: [Master] callback_query de 7832943510
+05/12/2025 04:00:46: [Master] callback_query de 7832943510
+05/12/2025 04:00:46: [IBO Pro] Fazendo login...
+05/12/2025 04:00:47: [IBO Pro] Login realizado com sucesso
+05/12/2025 04:00:47: [IBO Pro] Buscando saldo...
+05/12/2025 04:00:47: [IBO Pro] Resposta do saldo: {
+05/12/2025 04:00:47:   username: 'julhok502gmail.com',
+05/12/2025 04:00:47:   role: 'RESELLER',
+05/12/2025 04:00:47:   credits: 19,
+05/12/2025 04:00:47:   active: true,
+05/12/2025 04:00:47:   platforms: '',
+05/12/2025 04:00:47:   isSupport: false,
+05/12/2025 04:00:47:   enableAPD: false
+05/12/2025 04:00:47: }
+05/12/2025 04:00:47: [IBO Player] Fazendo login...
+05/12/2025 04:00:48: [IBO Player] Login OK - Créditos: 42
+05/12/2025 04:00:48: [VU Player Pro] Fazendo login...
+05/12/2025 04:00:51: [VU Player Pro] Resposta login: 302
+05/12/2025 04:00:51: [VU Player Pro] Login OK
+05/12/2025 04:00:51: [VU Player Pro] Buscando saldo...
+05/12/2025 04:00:52: [VU Player Pro] Saldo: 33
+05/12/2025 04:00:53: [Master] callback_query de 7832943510
+05/12/2025 04:00:54: [IBO Pro] Fazendo login...
+05/12/2025 04:00:54: [IBO Pro] Login realizado com sucesso
+05/12/2025 04:00:54: [IBO Pro] Buscando saldo...
+05/12/2025 04:00:55: [IBO Pro] Resposta do saldo: {
+05/12/2025 04:00:55:   username: 'julhok502gmail.com',
+05/12/2025 04:00:55:   role: 'RESELLER',
+05/12/2025 04:00:55:   credits: 19,
+05/12/2025 04:00:55:   active: true,
+05/12/2025 04:00:55:   platforms: '',
+05/12/2025 04:00:55:   isSupport: false,
+05/12/2025 04:00:55:   enableAPD: false
+05/12/2025 04:00:55: }
+05/12/2025 04:00:55: [IBO Player] Fazendo login...
+05/12/2025 04:00:56: [IBO Player] Login OK - Créditos: 42
+05/12/2025 04:00:56: [VU Player Pro] Fazendo login...
+05/12/2025 04:00:59: [VU Player Pro] Resposta login: 302
+05/12/2025 04:00:59: [VU Player Pro] Login OK
+05/12/2025 04:00:59: [VU Player Pro] Buscando saldo...
+05/12/2025 04:00:59: [VU Player Pro] Saldo: 33
+05/12/2025 04:01:02: [Master] callback_query de 7832943510
+05/12/2025 04:01:05: [Master] callback_query de 7832943510
+05/12/2025 04:01:13: [Master] callback_query de 7832943510
+05/12/2025 04:01:17: [Master] callback_query de 7832943510
+05/12/2025 04:01:21: [Master] callback_query de 7832943510
+05/12/2025 04:01:26: [Master] callback_query de 7832943510
+05/12/2025 04:01:28: [Master] callback_query de 7832943510
+05/12/2025 04:01:31: [Master] callback_query de 7832943510
+05/12/2025 04:01:37: [Master] callback_query de 7832943510
+05/12/2025 04:01:40: [Master] callback_query de 7832943510
+05/12/2025 04:01:48: [Master] callback_query de 7832943510
+05/12/2025 04:01:51: [Master] callback_query de 7832943510
+05/12/2025 05:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 06:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 07:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 08:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 09:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 10:00:00: [Cron] Executando: Lembretes de vencimento
+05/12/2025 10:00:00: [Notification] Verificando usuários próximos de vencer...
+05/12/2025 10:00:00: [Notification] Encontrados 0 usuários
+05/12/2025 10:00:00: [Cron] Lembretes enviados: 0
+05/12/2025 10:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 10:50:48: [Payment] Criando PIX: R$1 - IBO Pro Anual
+05/12/2025 10:51:08: [Saldo] Cliente 6897145702 pagou R$1, saldo agora: R$1
+05/12/2025 10:51:21: [Activation] Processando pedido PEDMISQUPX9 - MAC: d1:77:f2:cd:16:1e
+05/12/2025 10:51:21: [Activation] Módulo: ibo_pro, Tier: YEAR
+05/12/2025 10:51:21: [IBO Pro] MAC extraído: d1:77:f2:cd:16:1e
+05/12/2025 10:51:21: [IBO Pro] Fazendo login...
+05/12/2025 10:51:21: [IBO Pro] Login realizado com sucesso
+05/12/2025 10:51:21: [IBO Pro] Ativando MAC d1:77:f2:cd:16:1e com tier YEAR...
+05/12/2025 10:51:21: [IBO Pro] Payload de ativação: {
+05/12/2025 10:51:21:   mac_address: 'd1:77:f2:cd:16:1e',
+05/12/2025 10:51:21:   tier: 'YEAR',
+05/12/2025 10:51:21:   name: '',
+05/12/2025 10:51:21:   note: 'Ativado via Telegram - 2025-12-05T10:51:21.908Z'
+05/12/2025 10:51:21: }
+05/12/2025 10:51:22: [IBO Pro] Resposta da ativação: 200 {
+05/12/2025 10:51:22:   status: true,
+05/12/2025 10:51:22:   message: 'Activated successfully!',
+05/12/2025 10:51:22:   mac_address: 'd1:77:f2:cd:16:1e',
+05/12/2025 10:51:22:   tier: 'YEAR',
+05/12/2025 10:51:22:   expire_date: '2026-12-05 12:42:44'
+05/12/2025 10:51:22: }
+05/12/2025 10:51:22: [Activation] ✅ Pedido PEDMISQUPX9 ativado com sucesso
+05/12/2025 10:51:22: [Saldo] Cliente 6897145702 ativação OK, descontou R$1, saldo restante: R$0
+05/12/2025 11:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 12:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 12:25:08: [Payment] Criando PIX: R$12 - IPTV 4K Anual
+05/12/2025 12:25:43: [Master] callback_query de 7832943510
+05/12/2025 12:25:49: [Master] callback_query de 7832943510
+05/12/2025 12:25:56: [Master] message de 7832943510
+05/12/2025 12:25:59: [Master] callback_query de 7832943510
+05/12/2025 12:26:02: [Master] callback_query de 7832943510
+05/12/2025 12:26:06: [Master] message de 7832943510
+05/12/2025 12:26:08: [Master] callback_query de 7832943510
+05/12/2025 12:26:19: [Master] message de 7832943510
+05/12/2025 12:26:19: [Saldo] Revendedor 2 ajustou saldo do cliente 7832943510: R$0 → R$40
+05/12/2025 12:30:27: [Activation] Processando pedido PEDMISUEV94 - MAC: 18:82:8c:17:8a:54
+05/12/2025 12:30:27: [Activation] Módulo: mp_iptv_4k, Tier: YEAR
+05/12/2025 12:30:27: [Multi-Player] Ativando: MAC=18:82:8c:17:8a:54, App=IPTV 4K, Tier=YEAR, PackageID=1
+05/12/2025 12:30:27: [Multi-Player] Fazendo login...
+05/12/2025 12:30:28: [Multi-Player] Login bem-sucedido
+05/12/2025 12:30:29: [Multi-Player] Resposta ativação: {"application_name":"IPTV 4K","timestamp":"2026-12-05T12:30:28.000Z"}
+05/12/2025 12:30:29: [Activation] ✅ Pedido PEDMISUEV94 ativado com sucesso
+05/12/2025 12:30:29: [Saldo] Cliente 7832943510 ativação OK, descontou R$12, saldo restante: R$28
+05/12/2025 12:41:02: [Master] callback_query de 7832943510
+05/12/2025 12:41:05: [Master] callback_query de 7832943510
+05/12/2025 12:41:07: [Master] callback_query de 7832943510
+05/12/2025 12:41:12: [Master] callback_query de 7832943510
+05/12/2025 12:41:16: [Master] callback_query de 7832943510
+05/12/2025 12:41:19: [Master] callback_query de 7832943510
+05/12/2025 12:41:22: [Master] callback_query de 7832943510
+05/12/2025 12:41:28: [Master] callback_query de 7832943510
+05/12/2025 12:41:28: [IBO Pro] Fazendo login...
+05/12/2025 12:41:29: [IBO Pro] Login realizado com sucesso
+05/12/2025 12:41:29: [IBO Pro] Buscando saldo...
+05/12/2025 12:41:29: [IBO Pro] Resposta do saldo: {
+05/12/2025 12:41:29:   username: 'julhok502gmail.com',
+05/12/2025 12:41:29:   role: 'RESELLER',
+05/12/2025 12:41:29:   credits: 19,
+05/12/2025 12:41:29:   active: true,
+05/12/2025 12:41:29:   platforms: '',
+05/12/2025 12:41:29:   isSupport: false,
+05/12/2025 12:41:29:   enableAPD: false
+05/12/2025 12:41:29: }
+05/12/2025 12:41:29: [IBO Player] Fazendo login...
+05/12/2025 12:41:30: [IBO Player] Login OK - Créditos: 42
+05/12/2025 12:41:30: [VU Player Pro] Fazendo login...
+05/12/2025 12:41:33: [VU Player Pro] Resposta login: 302
+05/12/2025 12:41:33: [VU Player Pro] Login OK
+05/12/2025 12:41:33: [VU Player Pro] Buscando saldo...
+05/12/2025 12:41:34: [VU Player Pro] Saldo: 33
+05/12/2025 12:47:19: [Master] callback_query de 7832943510
+05/12/2025 12:47:23: [Master] callback_query de 7832943510
+05/12/2025 12:47:28: [Master] callback_query de 7832943510
+05/12/2025 12:47:31: [Master] callback_query de 7832943510
+05/12/2025 12:47:39: [Master] message de 7832943510
+05/12/2025 12:47:42: [Master] callback_query de 7832943510
+05/12/2025 12:47:57: [Master] callback_query de 7832943510
+05/12/2025 12:48:01: [Master] callback_query de 7832943510
+05/12/2025 12:48:04: [Master] message de 7832943510
+05/12/2025 12:48:07: [Master] callback_query de 7832943510
+05/12/2025 12:48:22: [Master] callback_query de 7832943510
+05/12/2025 12:48:30: [Master] callback_query de 7832943510
+05/12/2025 12:48:34: [Master] message de 7832943510
+05/12/2025 13:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 13:05:35: [Master] callback_query de 7832943510
+05/12/2025 13:05:39: [Master] callback_query de 7832943510
+05/12/2025 13:05:42: [Master] callback_query de 7832943510
+05/12/2025 13:05:45: [Master] callback_query de 7832943510
+05/12/2025 13:05:47: [Master] callback_query de 7832943510
+05/12/2025 13:06:01: [Master] callback_query de 7832943510
+05/12/2025 13:06:03: [Master] callback_query de 7832943510
+05/12/2025 13:08:17: [Master] callback_query de 7832943510
+05/12/2025 13:08:19: [Master] callback_query de 7832943510
+05/12/2025 13:16:58: [Payment] Criando PIX: R$12 - SmartOne Pro Anual
+05/12/2025 13:18:37: [Saldo] Cliente 1969095539 pagou R$12, saldo agora: R$12
+05/12/2025 13:19:11: [SmartOne Pro] Buscando MAC em: "5C:C1:D7:C6:C7:71"
+05/12/2025 13:19:11: [SmartOne Pro] MAC encontrado: 5c:c1:d7:c6:c7:71
+05/12/2025 13:19:12: [Activation] Processando pedido PEDMISW2OK2 - MAC: 5c:c1:d7:c6:c7:71
+05/12/2025 13:19:12: [Activation] Módulo: smartone_pro, Tier: YEAR
+05/12/2025 13:19:12: [SmartOne Pro] Iniciando ativação...
+05/12/2025 13:19:12: [SmartOne Pro] MAC: 5c:c1:d7:c6:c7:71, Tier: YEAR
+05/12/2025 13:19:12: [SmartOne Pro] Buscando MAC em: "5c:c1:d7:c6:c7:71"
+05/12/2025 13:19:12: [SmartOne Pro] MAC encontrado: 5c:c1:d7:c6:c7:71
+05/12/2025 13:19:12: [SmartOne Pro] Fazendo login...
+05/12/2025 13:19:13: [SmartOne Pro] Login OK - Créditos: 42
+05/12/2025 13:19:13: [SmartOne Pro] Ativando com 1 crédito(s), is_trial: 3...
+05/12/2025 13:19:13: [SmartOne Pro] Payload: {"modules":["SMARTONEPRO"],"requestData":{"is_trial":3,"macAddress":"5c:c1:d7:c6:c7:71","appType":"multi-app","email":"","creditPoints":1,"isConfirmed":true,"comment":"Ativação via Telegram - 2025-12-05T13:19:13.280Z","app_ids":[19]}}
+05/12/2025 13:19:14: [SmartOne Pro] Resposta: 200 {
+05/12/2025 13:19:14:   status: true,
+05/12/2025 13:19:14:   msg: 'Successfully activated 0 out of 1 applications. Failed activations: 1',
+05/12/2025 13:19:14:   successful_count: 0,
+05/12/2025 13:19:14:   failed_activations: [ { module: 'SMARTONEPRO', reason: 'Device not found', app_id: 0 } ],
+05/12/2025 13:19:14:   activated_devices: []
+05/12/2025 13:19:14: }
+05/12/2025 13:19:14: [Activation] ❌ Pedido PEDMISW2OK2 falhou: Device not found
+05/12/2025 13:19:14: [Saldo] Cliente 1969095539 ativação FALHOU, saldo mantido: R$12
+05/12/2025 13:19:53: [SmartOne Pro] Buscando MAC em: "5C:C1:D7:C6:C7:71"
+05/12/2025 13:19:53: [SmartOne Pro] MAC encontrado: 5c:c1:d7:c6:c7:71
+05/12/2025 13:19:53: [Activation] Processando pedido PEDMISW6G9U - MAC: 5c:c1:d7:c6:c7:71
+05/12/2025 13:19:53: [Activation] Módulo: smartone_pro, Tier: YEAR
+05/12/2025 13:19:53: [SmartOne Pro] Iniciando ativação...
+05/12/2025 13:19:53: [SmartOne Pro] MAC: 5c:c1:d7:c6:c7:71, Tier: YEAR
+05/12/2025 13:19:53: [SmartOne Pro] Buscando MAC em: "5c:c1:d7:c6:c7:71"
+05/12/2025 13:19:53: [SmartOne Pro] MAC encontrado: 5c:c1:d7:c6:c7:71
+05/12/2025 13:19:53: [SmartOne Pro] Fazendo login...
+05/12/2025 13:19:54: [SmartOne Pro] Login OK - Créditos: 42
+05/12/2025 13:19:54: [SmartOne Pro] Ativando com 1 crédito(s), is_trial: 3...
+05/12/2025 13:19:54: [SmartOne Pro] Payload: {"modules":["SMARTONEPRO"],"requestData":{"is_trial":3,"macAddress":"5c:c1:d7:c6:c7:71","appType":"multi-app","email":"","creditPoints":1,"isConfirmed":true,"comment":"Ativação via Telegram - 2025-12-05T13:19:54.878Z","app_ids":[19]}}
+05/12/2025 13:19:56: [SmartOne Pro] Resposta: 200 {
+05/12/2025 13:19:56:   status: true,
+05/12/2025 13:19:56:   msg: 'Successfully activated 0 out of 1 applications. Failed activations: 1',
+05/12/2025 13:19:56:   successful_count: 0,
+05/12/2025 13:19:56:   failed_activations: [ { module: 'SMARTONEPRO', reason: 'Device not found', app_id: 0 } ],
+05/12/2025 13:19:56:   activated_devices: []
+05/12/2025 13:19:56: }
+05/12/2025 13:19:56: [Activation] ❌ Pedido PEDMISW6G9U falhou: Device not found
+05/12/2025 13:19:56: [Saldo] Cliente 1969095539 ativação FALHOU, saldo mantido: R$12
+05/12/2025 13:30:07: [Master] callback_query de 7832943510
+05/12/2025 13:30:12: [Master] callback_query de 7832943510
+05/12/2025 13:31:11: [Master] callback_query de 7832943510
+05/12/2025 13:31:16: [Master] message de 7832943510
+05/12/2025 13:31:18: [Master] callback_query de 7832943510
+05/12/2025 13:31:23: [Master] message de 7832943510
+05/12/2025 13:31:23: [Saldo] Revendedor 2 ajustou saldo do cliente 1969095539: R$12 → R$1000
+05/12/2025 13:35:59: [Master] callback_query de 7832943510
+05/12/2025 13:36:01: [Master] callback_query de 7832943510
+05/12/2025 13:36:10: [Master] message de 7832943510
+05/12/2025 13:36:15: [Master] callback_query de 7832943510
+05/12/2025 13:36:17: [Master] callback_query de 7832943510
+05/12/2025 13:36:17: [Saldo] Revendedor 2 zerou saldo do cliente 1969095539 (era R$1000)
+05/12/2025 13:37:15: [Master] callback_query de 7832943510
+05/12/2025 13:37:18: [Master] callback_query de 7832943510
+05/12/2025 13:37:22: [Master] callback_query de 7832943510
+05/12/2025 13:37:24: [Master] callback_query de 7832943510
+05/12/2025 13:37:28: [Master] callback_query de 7832943510
+05/12/2025 13:37:35: [Master] callback_query de 7832943510
+05/12/2025 13:37:37: [Master] callback_query de 7832943510
+05/12/2025 13:37:38: [IBO Pro] Fazendo login...
+05/12/2025 13:37:38: [IBO Pro] Login realizado com sucesso
+05/12/2025 13:37:38: [IBO Pro] Buscando saldo...
+05/12/2025 13:37:39: [IBO Pro] Resposta do saldo: {
+05/12/2025 13:37:39:   username: 'julhok502gmail.com',
+05/12/2025 13:37:39:   role: 'RESELLER',
+05/12/2025 13:37:39:   credits: 19,
+05/12/2025 13:37:39:   active: true,
+05/12/2025 13:37:39:   platforms: '',
+05/12/2025 13:37:39:   isSupport: false,
+05/12/2025 13:37:39:   enableAPD: false
+05/12/2025 13:37:39: }
+05/12/2025 13:37:39: [IBO Player] Fazendo login...
+05/12/2025 13:37:40: [IBO Player] Login OK - Créditos: 42
+05/12/2025 13:37:40: [VU Player Pro] Fazendo login...
+05/12/2025 13:37:43: [VU Player Pro] Resposta login: 302
+05/12/2025 13:37:43: [VU Player Pro] Login OK
+05/12/2025 13:37:43: [VU Player Pro] Buscando saldo...
+05/12/2025 13:37:44: [VU Player Pro] Saldo: 33
+05/12/2025 13:37:45: [Master] callback_query de 7832943510
+05/12/2025 13:37:45: [IBO Pro] Fazendo login...
+05/12/2025 13:37:46: [IBO Pro] Login realizado com sucesso
+05/12/2025 13:37:46: [IBO Pro] Buscando saldo...
+05/12/2025 13:37:46: [IBO Pro] Resposta do saldo: {
+05/12/2025 13:37:46:   username: 'julhok502gmail.com',
+05/12/2025 13:37:46:   role: 'RESELLER',
+05/12/2025 13:37:46:   credits: 19,
+05/12/2025 13:37:46:   active: true,
+05/12/2025 13:37:46:   platforms: '',
+05/12/2025 13:37:46:   isSupport: false,
+05/12/2025 13:37:46:   enableAPD: false
+05/12/2025 13:37:46: }
+05/12/2025 13:37:46: [IBO Player] Fazendo login...
+05/12/2025 13:37:47: [IBO Player] Login OK - Créditos: 42
+05/12/2025 13:37:47: [VU Player Pro] Fazendo login...
+05/12/2025 13:37:50: [VU Player Pro] Resposta login: 302
+05/12/2025 13:37:50: [VU Player Pro] Login OK
+05/12/2025 13:37:50: [VU Player Pro] Buscando saldo...
+05/12/2025 13:37:51: [VU Player Pro] Saldo: 33
+05/12/2025 13:49:36: [Payment] Criando PIX: R$12 - BOB Player Anual
+05/12/2025 13:52:59: [Master] callback_query de 7832943510
+05/12/2025 13:53:02: [Master] callback_query de 7832943510
+05/12/2025 13:53:02: [IBO Pro] Fazendo login...
+05/12/2025 13:53:03: [IBO Pro] Login realizado com sucesso
+05/12/2025 13:53:03: [IBO Pro] Buscando saldo...
+05/12/2025 13:53:03: [IBO Pro] Resposta do saldo: {
+05/12/2025 13:53:03:   username: 'julhok502gmail.com',
+05/12/2025 13:53:03:   role: 'RESELLER',
+05/12/2025 13:53:03:   credits: 19,
+05/12/2025 13:53:03:   active: true,
+05/12/2025 13:53:03:   platforms: '',
+05/12/2025 13:53:03:   isSupport: false,
+05/12/2025 13:53:03:   enableAPD: false
+05/12/2025 13:53:03: }
+05/12/2025 13:53:03: [IBO Player] Fazendo login...
+05/12/2025 13:53:05: [IBO Player] Login OK - Créditos: 42
+05/12/2025 13:53:05: [VU Player Pro] Fazendo login...
+05/12/2025 13:53:08: [VU Player Pro] Resposta login: 302
+05/12/2025 13:53:08: [VU Player Pro] Login OK
+05/12/2025 13:53:08: [VU Player Pro] Buscando saldo...
+05/12/2025 13:53:08: [VU Player Pro] Saldo: 33
+05/12/2025 13:53:10: [Master] callback_query de 7832943510
+05/12/2025 13:53:10: [Master] callback_query de 7832943510
+05/12/2025 13:53:14: [Master] callback_query de 7832943510
+05/12/2025 13:53:18: [Master] message de 7832943510
+05/12/2025 13:53:21: [Master] callback_query de 7832943510
+05/12/2025 13:53:26: [Master] message de 7832943510
+05/12/2025 13:53:26: [Saldo] Revendedor 2 ajustou saldo do cliente 1969095539: R$0 → R$1000
+05/12/2025 13:55:16: [Master] callback_query de 7832943510
+05/12/2025 13:55:21: [Master] callback_query de 7832943510
+05/12/2025 13:55:25: [Master] callback_query de 7832943510
+05/12/2025 13:55:26: [Master] callback_query de 7832943510
+05/12/2025 13:55:29: [Master] callback_query de 7832943510
+05/12/2025 13:57:09: [Master] callback_query de 7832943510
+05/12/2025 13:57:11: [Master] callback_query de 7832943510
+05/12/2025 13:57:14: [Master] callback_query de 7832943510
+05/12/2025 13:57:23: [Master] callback_query de 7832943510
+05/12/2025 13:57:28: [Master] callback_query de 7832943510
+05/12/2025 13:57:30: [Master] callback_query de 7832943510
+05/12/2025 13:58:14: [Master] callback_query de 7832943510
+05/12/2025 13:58:19: [Master] callback_query de 7832943510
+05/12/2025 14:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 14:00:45: [Master] callback_query de 7832943510
+05/12/2025 14:00:47: [Master] callback_query de 7832943510
+05/12/2025 14:00:51: [Master] callback_query de 7832943510
+05/12/2025 14:00:55: [Master] message de 7832943510
+05/12/2025 14:00:57: [Master] callback_query de 7832943510
+05/12/2025 14:00:59: [Master] callback_query de 7832943510
+05/12/2025 14:00:59: [Saldo] Revendedor 2 zerou saldo do cliente 1969095539 (era R$1000)
+05/12/2025 14:03:16: [Payment] Criando PIX: R$12 - Flixtra Player Anual
+05/12/2025 14:03:41: [Payment] Criando PIX: R$24 - TVIP Player Vitalício
+05/12/2025 14:04:00: [Master] callback_query de 7832943510
+05/12/2025 14:04:03: [Master] callback_query de 7832943510
+05/12/2025 14:04:07: [Master] message de 7832943510
+05/12/2025 14:04:09: [Master] callback_query de 7832943510
+05/12/2025 14:04:13: [Master] message de 7832943510
+05/12/2025 14:04:13: [Saldo] Revendedor 2 ajustou saldo do cliente 1969095539: R$0 → R$1000
+05/12/2025 14:06:58: [Master] callback_query de 7832943510
+05/12/2025 14:07:00: [Master] callback_query de 7832943510
+05/12/2025 14:07:03: [Master] callback_query de 7832943510
+05/12/2025 14:07:05: [Master] callback_query de 7832943510
+05/12/2025 14:07:20: [Master] message de 7832943510
+05/12/2025 14:07:28: [Master] callback_query de 7832943510
+05/12/2025 14:07:31: [Master] callback_query de 7832943510
+05/12/2025 14:07:33: [Master] callback_query de 7832943510
+05/12/2025 14:07:36: [Master] message de 7832943510
+05/12/2025 14:07:49: [Master] callback_query de 7832943510
+05/12/2025 14:07:53: [Master] message de 7832943510
+05/12/2025 14:07:53: [Saldo] Revendedor 2 ajustou saldo do cliente 1969095539: R$1000 → R$12
+05/12/2025 14:08:04: [Master] callback_query de 7832943510
+05/12/2025 14:08:06: [Master] callback_query de 7832943510
+05/12/2025 14:08:12: [Master] callback_query de 7832943510
+05/12/2025 14:08:13: [IBO Pro] Fazendo login...
+05/12/2025 14:08:13: [IBO Pro] Login realizado com sucesso
+05/12/2025 14:08:13: [IBO Pro] Buscando saldo...
+05/12/2025 14:08:13: [IBO Pro] Resposta do saldo: {
+05/12/2025 14:08:13:   username: 'julhok502gmail.com',
+05/12/2025 14:08:13:   role: 'RESELLER',
+05/12/2025 14:08:13:   credits: 19,
+05/12/2025 14:08:13:   active: true,
+05/12/2025 14:08:13:   platforms: '',
+05/12/2025 14:08:13:   isSupport: false,
+05/12/2025 14:08:13:   enableAPD: false
+05/12/2025 14:08:13: }
+05/12/2025 14:08:13: [IBO Player] Fazendo login...
+05/12/2025 14:08:15: [IBO Player] Login OK - Créditos: 42
+05/12/2025 14:08:15: [VU Player Pro] Fazendo login...
+05/12/2025 14:08:18: [VU Player Pro] Resposta login: 302
+05/12/2025 14:08:18: [VU Player Pro] Login OK
+05/12/2025 14:08:18: [VU Player Pro] Buscando saldo...
+05/12/2025 14:08:18: [VU Player Pro] Saldo: 33
+05/12/2025 14:08:20: [Master] callback_query de 7832943510
+05/12/2025 14:08:39: [Master] callback_query de 7832943510
+05/12/2025 14:08:48: [Master] message de 7832943510
+05/12/2025 14:08:50: [Master] callback_query de 7832943510
+05/12/2025 14:09:19: [Master] callback_query de 7832943510
+05/12/2025 14:09:26: [Master] callback_query de 7832943510
+05/12/2025 14:09:32: [Master] callback_query de 7832943510
+05/12/2025 15:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 15:08:15: [Master] callback_query de 7832943510
+05/12/2025 15:08:17: [Master] callback_query de 7832943510
+05/12/2025 15:08:20: [Master] callback_query de 7832943510
+05/12/2025 15:08:26: [Master] callback_query de 7832943510
+05/12/2025 15:08:31: [Master] callback_query de 7832943510
+05/12/2025 16:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 17:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 17:54:57: 
+05/12/2025 17:54:57: SIGINT recebido. Encerrando...
+05/12/2025 17:54:57: [BotManager] Parando 2 bots...
+05/12/2025 17:54:57: [BotManager] Todos os bots parados
+05/12/2025 17:54:57: ✅ Sistema encerrado com sucesso.
+05/12/2025 17:54:58: [dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+05/12/2025 17:54:58: 🚀 Iniciando Sistema de Ativação SaaS...
+05/12/2025 17:54:58: 
+05/12/2025 17:54:58: [DB] Banco de dados carregado
+05/12/2025 17:54:59: [DB] Migração de afiliados verificada
+05/12/2025 17:54:59: [DB] Schema aplicado com sucesso
+05/12/2025 17:54:59: ✅ Banco de dados inicializado
+05/12/2025 17:54:59: [BotManager] Encontrados 2 bots para auto-iniciar...
+05/12/2025 17:54:59: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+05/12/2025 17:54:59: [BotManager] Removendo webhook de estacao2bot_bot...
+05/12/2025 17:55:00: [Customer] Configurando handlers para bot estacao2bot_bot
+05/12/2025 17:55:00: [BotManager] Lançando bot estacao2bot_bot...
+05/12/2025 17:55:01: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+05/12/2025 17:55:02: [BotManager] Iniciando bot Hptvbot (ID: 2)
+05/12/2025 17:55:02: [BotManager] Removendo webhook de Hptvbot...
+05/12/2025 17:55:02: [Customer] Configurando handlers para bot Hptvbot
+05/12/2025 17:55:02: [BotManager] Lançando bot Hptvbot...
+05/12/2025 17:55:04: [BotManager] ✅ Bot Hptvbot iniciado com sucesso
+05/12/2025 17:55:04: [BotManager] Auto-início concluído. Iniciados: 2, Pulados: 0
+05/12/2025 17:55:04: [Cron] Inicializando tarefas agendadas...
+05/12/2025 17:55:05: [Cron] ✅ Lembrete de vencimento agendado para 7h
+05/12/2025 17:55:05: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+05/12/2025 17:55:05: [Cron] Todas as tarefas agendadas com sucesso
+05/12/2025 17:55:41: [Master] callback_query de 6897145702
+05/12/2025 17:55:43: [Master] callback_query de 6897145702
+05/12/2025 17:55:48: [Master] callback_query de 6897145702
+05/12/2025 17:55:55: [Master] message de 6897145702
+05/12/2025 17:56:01: [Payment] Criando PIX: R$1 - IPTV Pro Anual
+05/12/2025 17:56:21: [Saldo] Cliente 6897145702 pagou R$1, saldo agora: R$1
+05/12/2025 17:56:24: [Activation] Processando pedido PEDMIT61K2X - MAC: 09:31:35:24:97:15
+05/12/2025 17:56:24: [Activation] Módulo: mp_iptv_pro, Tier: YEAR
+05/12/2025 17:56:24: [Multi-Player] Ativando: MAC=09:31:35:24:97:15, App=IPTV Pro, Tier=YEAR, PackageID=1
+05/12/2025 17:56:24: [Multi-Player] Fazendo login...
+05/12/2025 17:56:25: [Multi-Player] Login bem-sucedido
+05/12/2025 17:56:26: [Multi-Player] Resposta ativação: {"application_name":"IPTV Pro","timestamp":"2026-12-05T17:56:26.000Z"}
+05/12/2025 17:56:26: [Activation] ✅ Pedido PEDMIT61K2X ativado com sucesso
+05/12/2025 17:56:26: [Saldo] Cliente 6897145702 ativação OK, descontou R$1, saldo restante: R$0
+05/12/2025 17:57:44: 
+05/12/2025 17:57:44: SIGINT recebido. Encerrando...
+05/12/2025 17:57:44: [BotManager] Parando 2 bots...
+05/12/2025 17:57:44: [BotManager] Todos os bots parados
+05/12/2025 17:57:44: ✅ Sistema encerrado com sucesso.
+05/12/2025 17:57:45: [dotenv@17.2.3] injecting env (2) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+05/12/2025 17:57:45: 🚀 Iniciando Sistema de Ativação SaaS...
+05/12/2025 17:57:45: 
+05/12/2025 17:57:46: [DB] Banco de dados carregado
+05/12/2025 17:57:46: [DB] Migração de afiliados verificada
+05/12/2025 17:57:46: [DB] Schema aplicado com sucesso
+05/12/2025 17:57:46: ✅ Banco de dados inicializado
+05/12/2025 17:57:46: [BotManager] Encontrados 2 bots para auto-iniciar...
+05/12/2025 17:57:46: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+05/12/2025 17:57:46: [BotManager] Removendo webhook de estacao2bot_bot...
+05/12/2025 17:57:47: [Customer] Configurando handlers para bot estacao2bot_bot
+05/12/2025 17:57:47: [BotManager] Lançando bot estacao2bot_bot...
+05/12/2025 17:57:48: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+05/12/2025 17:57:49: [BotManager] Iniciando bot Hptvbot (ID: 2)
+05/12/2025 17:57:49: [BotManager] Removendo webhook de Hptvbot...
+05/12/2025 17:57:50: [Customer] Configurando handlers para bot Hptvbot
+05/12/2025 17:57:50: [BotManager] Lançando bot Hptvbot...
+05/12/2025 17:57:51: [BotManager] ✅ Bot Hptvbot iniciado com sucesso
+05/12/2025 17:57:52: [BotManager] Auto-início concluído. Iniciados: 2, Pulados: 0
+05/12/2025 17:57:52: [Cron] Inicializando tarefas agendadas...
+05/12/2025 17:57:52: [Cron] ✅ Lembrete de vencimento agendado para 7h
+05/12/2025 17:57:52: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+05/12/2025 17:57:52: [Cron] Todas as tarefas agendadas com sucesso
+05/12/2025 18:00:00: [Cron] Executando: Verificação de usuários vencidos
+05/12/2025 18:12:06: 
+05/12/2025 18:12:06: SIGINT recebido. Encerrando...
+05/12/2025 18:12:06: [BotManager] Parando 2 bots...
+05/12/2025 18:12:06: [BotManager] Todos os bots parados
+05/12/2025 18:12:06: ✅ Sistema encerrado com sucesso.
+05/12/2025 18:12:07: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+05/12/2025 18:12:07: 🚀 Iniciando Sistema de Ativação SaaS...
+05/12/2025 18:12:07: 
+05/12/2025 18:12:07: [DB] Banco de dados carregado
+05/12/2025 18:12:08: [DB] Migração de afiliados verificada
+05/12/2025 18:12:08: [DB] Schema aplicado com sucesso
+05/12/2025 18:12:08: ✅ Banco de dados inicializado
+05/12/2025 18:12:08: [BotManager] Encontrados 2 bots para auto-iniciar...
+05/12/2025 18:12:08: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+05/12/2025 18:12:08: [BotManager] Removendo webhook de estacao2bot_bot...
+05/12/2025 18:12:09: [Customer] Configurando handlers para bot estacao2bot_bot
+05/12/2025 18:12:09: [BotManager] Lançando bot estacao2bot_bot...
+05/12/2025 18:12:10: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+05/12/2025 18:12:11: [BotManager] Iniciando bot Hptvbot (ID: 2)
+05/12/2025 18:12:11: [BotManager] Removendo webhook de Hptvbot...
+05/12/2025 18:12:11: [Customer] Configurando handlers para bot Hptvbot
+05/12/2025 18:12:11: [BotManager] Lançando bot Hptvbot...
+05/12/2025 18:12:13: [BotManager] ✅ Bot Hptvbot iniciado com sucesso
+05/12/2025 18:12:13: [BotManager] Auto-início concluído. Iniciados: 2, Pulados: 0
+05/12/2025 18:12:13: [Cron] Inicializando tarefas agendadas...
+05/12/2025 18:12:13: [Cron] ✅ Lembrete de vencimento agendado para 7h
+05/12/2025 18:12:13: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+05/12/2025 18:12:13: [Cron] Todas as tarefas agendadas com sucesso
+05/12/2025 18:12:21: [Master] callback_query de 6897145702
+05/12/2025 18:12:28: [Master] callback_query de 6897145702
+05/12/2025 18:12:29: [IBO Pro] Fazendo login...
+05/12/2025 18:12:29: [IBO Pro] Login realizado com sucesso
+05/12/2025 18:12:29: [IBO Pro] Buscando saldo...
+05/12/2025 18:12:30: [IBO Pro] Resposta do saldo: {
+05/12/2025 18:12:30:   username: 'isaacdopanta@gmail.com',
+05/12/2025 18:12:30:   role: 'RESELLER',
+05/12/2025 18:12:30:   credits: 95,
+05/12/2025 18:12:30:   active: true,
+05/12/2025 18:12:30:   platforms: '',
+05/12/2025 18:12:30:   isSupport: false,
+05/12/2025 18:12:30:   enableAPD: false
+05/12/2025 18:12:30: }
+05/12/2025 18:12:30: [IBO Player] Fazendo login...
+05/12/2025 18:12:31: [IBO Player] Login OK - Créditos: 120
+05/12/2025 18:12:31: [VU Player Pro] Fazendo login...
+05/12/2025 18:12:34: [VU Player Pro] Resposta login: 302
+05/12/2025 18:12:34: [VU Player Pro] Login OK
+05/12/2025 18:12:34: [VU Player Pro] Buscando saldo...
+05/12/2025 18:12:35: [VU Player Pro] Saldo: 32
+05/12/2025 18:12:35: [Multi-Player] Fazendo login...
+05/12/2025 18:12:35: [Multi-Player] Login bem-sucedido
+05/12/2025 18:12:41: [Master] callback_query de 6897145702
+05/12/2025 18:12:47: [Master] callback_query de 6897145702
+05/12/2025 18:12:50: [Master] callback_query de 6897145702
+05/12/2025 18:12:54: [Master] message de 6897145702
+05/12/2025 18:12:55: [Master] message de 6897145702
+05/12/2025 18:12:56: [EnzoPlayer] Fazendo login...
+05/12/2025 18:12:58: [EnzoPlayer] Resposta login: 302
+05/12/2025 18:12:58: [EnzoPlayer] Login OK
+05/12/2025 18:12:58: [EnzoPlayer] Buscando saldo...
+05/12/2025 18:13:06: [Master] callback_query de 6897145702
+05/12/2025 18:13:09: [Master] message de 6897145702
+05/12/2025 18:13:10: [Master] message de 6897145702
+05/12/2025 18:13:11: [EnzoPlayer] Fazendo login...
+05/12/2025 18:13:13: [EnzoPlayer] Resposta login: 302
+05/12/2025 18:13:13: [EnzoPlayer] Login OK
+05/12/2025 18:13:13: [EnzoPlayer] Buscando saldo...
+05/12/2025 18:13:13: [EnzoPlayer] Saldo: 11
+05/12/2025 18:13:16: [Master] callback_query de 6897145702
+05/12/2025 18:13:16: [IBO Pro] Fazendo login...
+05/12/2025 18:13:17: [IBO Pro] Login realizado com sucesso
+05/12/2025 18:13:17: [IBO Pro] Buscando saldo...
+05/12/2025 18:13:18: [IBO Pro] Resposta do saldo: {
+05/12/2025 18:13:18:   username: 'isaacdopanta@gmail.com',
+05/12/2025 18:13:18:   role: 'RESELLER',
+05/12/2025 18:13:18:   credits: 95,
+05/12/2025 18:13:18:   active: true,
+05/12/2025 18:13:18:   platforms: '',
+05/12/2025 18:13:18:   isSupport: false,
+05/12/2025 18:13:18:   enableAPD: false
+05/12/2025 18:13:18: }
+05/12/2025 18:13:18: [IBO Player] Fazendo login...
+05/12/2025 18:13:19: [IBO Player] Login OK - Créditos: 120
+05/12/2025 18:13:19: [VU Player Pro] Fazendo login...
+05/12/2025 18:13:22: [VU Player Pro] Resposta login: 302
+05/12/2025 18:13:22: [VU Player Pro] Login OK
+05/12/2025 18:13:22: [VU Player Pro] Buscando saldo...
+05/12/2025 18:13:22: [VU Player Pro] Saldo: 32
+05/12/2025 18:13:22: [EnzoPlayer] Fazendo login...
+05/12/2025 18:13:24: [EnzoPlayer] Resposta login: 302
+05/12/2025 18:13:24: [EnzoPlayer] Login OK
+05/12/2025 18:13:24: [EnzoPlayer] Buscando saldo...
+05/12/2025 18:13:25: [EnzoPlayer] Saldo: 11
+05/12/2025 18:13:31: [Master] callback_query de 6897145702
+05/12/2025 18:13:35: [Master] callback_query de 6897145702
+05/12/2025 18:13:37: [Master] callback_query de 6897145702
+05/12/2025 18:13:47: [Master] callback_query de 6897145702
+05/12/2025 18:13:51: [Master] message de 6897145702
+05/12/2025 18:13:57: [Payment] Criando PIX: R$1 - EnzoPlayer Anual
+05/12/2025 18:14:22: [Saldo] Cliente 6897145702 pagou R$1, saldo agora: R$1
+05/12/2025 18:14:26: [Activation] Processando pedido PEDMIT6OM9U - MAC: 28:55:11:56:00:11
+05/12/2025 18:14:26: [Activation] Módulo: enzo_player, Tier: YEAR
+05/12/2025 18:14:26: [EnzoPlayer] Iniciando ativação...
+05/12/2025 18:14:26: [EnzoPlayer] MAC: 28:55:11:56:00:11, Tier: YEAR
+05/12/2025 18:14:26: [EnzoPlayer] Fazendo login...
+05/12/2025 18:14:28: [EnzoPlayer] Resposta login: 302
+05/12/2025 18:14:28: [EnzoPlayer] Login OK
+05/12/2025 18:14:28: [EnzoPlayer] Ativando com 1 crédito(s)...
+05/12/2025 18:14:28: [EnzoPlayer] Payload: mac_address=28%3A55%3A11%3A56%3A00%3A11&note=Ativado+via+Telegram+-+2025-12-05T18%3A14%3A28.866Z&credit_count=1
+05/12/2025 18:14:29: [EnzoPlayer] Resposta: 200 { status: 'error', msg: 'Sorry, device does not exist' }
+05/12/2025 18:14:29: [Activation] ❌ Pedido PEDMIT6OM9U falhou: MAC inválido! Dispositivo não encontrado.
+05/12/2025 18:14:29: [Saldo] Cliente 6897145702 ativação FALHOU, saldo mantido: R$1
+05/12/2025 18:24:51: [Master] callback_query de 6897145702
+05/12/2025 18:24:51: [IBO Pro] Fazendo login...
+05/12/2025 18:24:52: [IBO Pro] Login realizado com sucesso
+05/12/2025 18:24:52: [IBO Pro] Buscando saldo...
+05/12/2025 18:24:52: [IBO Pro] Resposta do saldo: {
+05/12/2025 18:24:52:   username: 'isaacdopanta@gmail.com',
+05/12/2025 18:24:52:   role: 'RESELLER',
+05/12/2025 18:24:52:   credits: 95,
+05/12/2025 18:24:52:   active: true,
+05/12/2025 18:24:52:   platforms: '',
+05/12/2025 18:24:52:   isSupport: false,
+05/12/2025 18:24:52:   enableAPD: false
+05/12/2025 18:24:52: }
+05/12/2025 18:24:52: [IBO Player] Fazendo login...
+05/12/2025 18:24:53: [IBO Player] Login OK - Créditos: 119
+05/12/2025 18:24:53: [VU Player Pro] Fazendo login...
+05/12/2025 18:24:56: [VU Player Pro] Resposta login: 302
+05/12/2025 18:24:56: [VU Player Pro] Login OK
+05/12/2025 18:24:56: [VU Player Pro] Buscando saldo...
+05/12/2025 18:24:57: [VU Player Pro] Saldo: 32
+05/12/2025 18:24:57: [EnzoPlayer] Fazendo login...
+05/12/2025 18:24:59: [EnzoPlayer] Resposta login: 302
+05/12/2025 18:24:59: [EnzoPlayer] Login OK
+05/12/2025 18:24:59: [EnzoPlayer] Buscando saldo...
+05/12/2025 18:24:59: [EnzoPlayer] Saldo: 11
+05/12/2025 18:44:31: 
+05/12/2025 18:44:31: SIGINT recebido. Encerrando...
+05/12/2025 18:44:31: [BotManager] Parando 2 bots...
+05/12/2025 18:44:31: [BotManager] Todos os bots parados
+05/12/2025 18:44:31: ✅ Sistema encerrado com sucesso.
+05/12/2025 18:44:32: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+05/12/2025 18:44:32: 🚀 Iniciando Sistema de Ativação SaaS...
+05/12/2025 18:44:32: 
+05/12/2025 18:44:33: [DB] Banco de dados carregado
+05/12/2025 18:44:33: [DB] Migração de afiliados verificada
+05/12/2025 18:44:33: [DB] Schema aplicado com sucesso
+05/12/2025 18:44:33: ✅ Banco de dados inicializado
+05/12/2025 18:44:33: [BotManager] Encontrados 2 bots para auto-iniciar...
+05/12/2025 18:44:33: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+05/12/2025 18:44:33: [BotManager] Removendo webhook de estacao2bot_bot...
+05/12/2025 18:44:34: [Customer] Configurando handlers para bot estacao2bot_bot
+05/12/2025 18:44:34: [BotManager] Lançando bot estacao2bot_bot...
+05/12/2025 18:44:35: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+05/12/2025 18:44:36: [BotManager] Iniciando bot Hptvbot (ID: 2)
+05/12/2025 18:44:36: [BotManager] Removendo webhook de Hptvbot...
+05/12/2025 18:44:36: [Customer] Configurando handlers para bot Hptvbot
+05/12/2025 18:44:36: [BotManager] Lançando bot Hptvbot...
+05/12/2025 18:44:38: [BotManager] ✅ Bot Hptvbot iniciado com sucesso
+05/12/2025 18:44:38: [BotManager] Auto-início concluído. Iniciados: 2, Pulados: 0
+05/12/2025 18:44:38: [Cron] Inicializando tarefas agendadas...
+05/12/2025 18:44:38: [Cron] ✅ Lembrete de vencimento agendado para 7h
+05/12/2025 18:44:38: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+05/12/2025 18:44:38: [Cron] Todas as tarefas agendadas com sucesso
+05/12/2025 18:44:39: [Master] callback_query de 6897145702
+05/12/2025 18:44:42: [Master] callback_query de 6897145702
+05/12/2025 18:44:42: [IBO Pro] Fazendo login...
+05/12/2025 18:44:43: [IBO Pro] Login realizado com sucesso
+05/12/2025 18:44:43: [IBO Pro] Buscando saldo...
+05/12/2025 18:44:43: [IBO Pro] Resposta do saldo: {
+05/12/2025 18:44:43:   username: 'isaacdopanta@gmail.com',
+05/12/2025 18:44:43:   role: 'RESELLER',
+05/12/2025 18:44:43:   credits: 95,
+05/12/2025 18:44:43:   active: true,
+05/12/2025 18:44:43:   platforms: '',
+05/12/2025 18:44:43:   isSupport: false,
+05/12/2025 18:44:43:   enableAPD: false
+05/12/2025 18:44:43: }
+05/12/2025 18:44:43: [IBO Player] Fazendo login...
+05/12/2025 18:44:44: [IBO Player] Login OK - Créditos: 119
+05/12/2025 18:44:44: [VU Player Pro] Fazendo login...
+05/12/2025 18:44:47: [VU Player Pro] Resposta login: 302
+05/12/2025 18:44:47: [VU Player Pro] Login OK
+05/12/2025 18:44:47: [VU Player Pro] Buscando saldo...
+05/12/2025 18:44:48: [VU Player Pro] Saldo: 32
+05/12/2025 18:44:48: [EnzoPlayer] Fazendo login...
+05/12/2025 18:44:50: [EnzoPlayer] Resposta login: 302
+05/12/2025 18:44:50: [EnzoPlayer] Login OK
+05/12/2025 18:44:50: [EnzoPlayer] Buscando saldo...
+05/12/2025 18:44:50: [EnzoPlayer] Saldo: 11
+05/12/2025 18:44:50: [Multi-Player] Fazendo login...
+05/12/2025 18:44:51: [Multi-Player] Login bem-sucedido
+05/12/2025 18:45:11: [Master] callback_query de 6897145702
+05/12/2025 18:45:16: [Master] callback_query de 6897145702
+05/12/2025 18:45:19: [Master] callback_query de 6897145702
+05/12/2025 18:45:23: [Master] message de 6897145702
+05/12/2025 18:45:24: [Master] message de 6897145702
+05/12/2025 18:45:25: [DreamTV] Fazendo login...
+05/12/2025 18:45:25: [DreamTV] Login OK
+05/12/2025 18:45:25: [DreamTV] Buscando saldo...
+05/12/2025 18:45:25: [DreamTV] Saldo: 9 créditos
+05/12/2025 18:45:27: [Master] callback_query de 6897145702
+05/12/2025 18:45:28: [IBO Pro] Fazendo login...
+05/12/2025 18:45:28: [IBO Pro] Login realizado com sucesso
+05/12/2025 18:45:28: [IBO Pro] Buscando saldo...
+05/12/2025 18:45:29: [IBO Pro] Resposta do saldo: {
+05/12/2025 18:45:29:   username: 'isaacdopanta@gmail.com',
+05/12/2025 18:45:29:   role: 'RESELLER',
+05/12/2025 18:45:29:   credits: 95,
+05/12/2025 18:45:29:   active: true,
+05/12/2025 18:45:29:   platforms: '',
+05/12/2025 18:45:29:   isSupport: false,
+05/12/2025 18:45:29:   enableAPD: false
+05/12/2025 18:45:29: }
+05/12/2025 18:45:29: [IBO Player] Fazendo login...
+05/12/2025 18:45:30: [IBO Player] Login OK - Créditos: 119
+05/12/2025 18:45:30: [VU Player Pro] Fazendo login...
+05/12/2025 18:45:33: [VU Player Pro] Resposta login: 302
+05/12/2025 18:45:33: [VU Player Pro] Login OK
+05/12/2025 18:45:33: [VU Player Pro] Buscando saldo...
+05/12/2025 18:45:33: [VU Player Pro] Saldo: 32
+05/12/2025 18:45:33: [EnzoPlayer] Fazendo login...
+05/12/2025 18:45:35: [EnzoPlayer] Resposta login: 302
+05/12/2025 18:45:35: [EnzoPlayer] Login OK
+05/12/2025 18:45:35: [EnzoPlayer] Buscando saldo...
+05/12/2025 18:45:36: [EnzoPlayer] Saldo: 11
+05/12/2025 18:45:36: [DreamTV] Fazendo login...
+05/12/2025 18:45:36: [DreamTV] Login OK
+05/12/2025 18:45:36: [DreamTV] Buscando saldo...
+05/12/2025 18:45:36: [DreamTV] Saldo: 9 créditos
+05/12/2025 18:45:57: [Master] callback_query de 6897145702
+05/12/2025 18:46:00: [Master] callback_query de 6897145702
+05/12/2025 18:46:02: [Master] callback_query de 6897145702
+05/12/2025 18:46:07: [Master] callback_query de 6897145702
+05/12/2025 18:46:11: [Master] message de 6897145702
+05/12/2025 18:46:22: [Activation] Processando pedido PEDMIT7UB16 - MAC: 28:55:11:56:00:11
+05/12/2025 18:46:22: [Activation] Módulo: dreamtv, Tier: MONTH
+05/12/2025 18:46:22: [DreamTV] Iniciando ativação...
+05/12/2025 18:46:22: [DreamTV] MAC: 28:55:11:56:00:11, Tier: MONTH
+05/12/2025 18:46:22: [DreamTV] Fazendo login...
+05/12/2025 18:46:22: [DreamTV] Login OK
+05/12/2025 18:46:22: [DreamTV] Ativando com pacote Mensal (ID: 1)...
+05/12/2025 18:46:22: [DreamTV] Payload: {"mac":"28:55:11:56:00:11","package_id":1}
+05/12/2025 18:46:23: [DreamTV] Resposta: 400 {"error":true,"message":"package is not found","status":400}
+05/12/2025 18:46:23: [Activation] ❌ Pedido PEDMIT7UB16 falhou: MAC inválido! Dispositivo não encontrado.
+05/12/2025 18:46:23: [Saldo] Cliente 6897145702 ativação FALHOU, saldo mantido: R$1
+05/12/2025 18:50:07: [Activation] Processando pedido PEDMIT7Z4WM - MAC: 28:55:11:56:00:11
+05/12/2025 18:50:07: [Activation] Módulo: dreamtv, Tier: MONTH
+05/12/2025 18:50:07: [DreamTV] Iniciando ativação...
+05/12/2025 18:50:07: [DreamTV] MAC: 28:55:11:56:00:11, Tier: MONTH
+05/12/2025 18:50:07: [DreamTV] Fazendo login...
+05/12/2025 18:50:08: [DreamTV] Login OK
+05/12/2025 18:50:08: [DreamTV] Ativando com pacote Mensal (ID: 1)...
+05/12/2025 18:50:08: [DreamTV] Payload: {"mac":"28:55:11:56:00:11","package_id":1}
+05/12/2025 18:50:08: [DreamTV] Resposta: 400 {"error":true,"message":"package is not found","status":400}
+05/12/2025 18:50:08: [Activation] ❌ Pedido PEDMIT7Z4WM falhou: MAC inválido! Dispositivo não encontrado.
+05/12/2025 18:50:08: [Saldo] Cliente 6897145702 ativação FALHOU, saldo mantido: R$1
+05/12/2025 18:50:38: [Master] callback_query de 6897145702
+05/12/2025 18:50:41: [Master] callback_query de 6897145702
+05/12/2025 18:51:02: [Master] callback_query de 6897145702
+05/12/2025 18:51:04: [Master] callback_query de 6897145702
+05/12/2025 18:51:06: [Master] callback_query de 6897145702
+05/12/2025 18:51:07: [Master] callback_query de 6897145702
+05/12/2025 18:53:10: 
+05/12/2025 18:53:10: SIGINT recebido. Encerrando...
+05/12/2025 18:53:10: [BotManager] Parando 2 bots...
+05/12/2025 18:53:10: [BotManager] Todos os bots parados
+05/12/2025 18:53:10: ✅ Sistema encerrado com sucesso.
+05/12/2025 18:53:11: [dotenv@17.2.3] injecting env (2) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+05/12/2025 18:53:11: 🚀 Iniciando Sistema de Ativação SaaS...
+05/12/2025 18:53:11: 
+05/12/2025 18:53:11: [DB] Banco de dados carregado
+05/12/2025 18:53:11: [DB] Migração de afiliados verificada
+05/12/2025 18:53:11: [DB] Schema aplicado com sucesso
+05/12/2025 18:53:11: ✅ Banco de dados inicializado
+05/12/2025 18:53:11: [BotManager] Encontrados 2 bots para auto-iniciar...
+05/12/2025 18:53:11: [BotManager] Iniciando bot estacao2bot_bot (ID: 1)
+05/12/2025 18:53:11: [BotManager] Removendo webhook de estacao2bot_bot...
+05/12/2025 18:53:12: [Customer] Configurando handlers para bot estacao2bot_bot
+05/12/2025 18:53:12: [BotManager] Lançando bot estacao2bot_bot...
+05/12/2025 18:53:14: [BotManager] ✅ Bot estacao2bot_bot iniciado com sucesso
+05/12/2025 18:53:14: [BotManager] Iniciando bot Hptvbot (ID: 2)
+05/12/2025 18:53:14: [BotManager] Removendo webhook de Hptvbot...
+05/12/2025 18:53:15: [Customer] Configurando handlers para bot Hptvbot
+05/12/2025 18:53:15: [BotManager] Lançando bot Hptvbot...
+05/12/2025 18:53:17: [BotManager] ✅ Bot Hptvbot iniciado com sucesso
+05/12/2025 18:53:17: [BotManager] Auto-início concluído. Iniciados: 2, Pulados: 0
+05/12/2025 18:53:17: [Cron] Inicializando tarefas agendadas...
+05/12/2025 18:53:17: [Cron] ✅ Lembrete de vencimento agendado para 7h
+05/12/2025 18:53:17: [Cron] ✅ Verificação de vencidos agendada (a cada hora)
+05/12/2025 18:53:17: [Cron] Todas as tarefas agendadas com sucesso
+05/12/2025 18:53:18: [Master] callback_query de 6897145702
+05/12/2025 18:53:21: [Master] callback_query de 6897145702
+05/12/2025 18:53:23: [Master] callback_query de 6897145702
+05/12/2025 18:53:25: [Master] callback_query de 6897145702
+05/12/2025 18:53:29: [Master] callback_query de 6897145702
+05/12/2025 18:53:34: [Master] callback_query de 6897145702
+05/12/2025 18:53:36: [Master] callback_query de 6897145702
+05/12/2025 18:53:42: [Master] callback_query de 6897145702
+05/12/2025 18:53:44: [Master] message de 6897145702
+05/12/2025 18:53:58: [Activation] Processando pedido PEDMIT842M1 - MAC: 28:55:11:56:00:11
+05/12/2025 18:53:58: [Activation] Módulo: dreamtv, Tier: YEAR
+05/12/2025 18:53:58: [DreamTV] Iniciando ativação...
+05/12/2025 18:53:58: [DreamTV] MAC: 28:55:11:56:00:11, Tier: YEAR
+05/12/2025 18:53:58: [DreamTV] Fazendo login...
+05/12/2025 18:53:58: [DreamTV] Login OK
+05/12/2025 18:53:58: [DreamTV] Ativando com pacote Anual (ID: 3)...
+05/12/2025 18:53:58: [DreamTV] Payload: {"mac":"28:55:11:56:00:11","package_id":3}
+05/12/2025 18:53:58: [DreamTV] Resposta: 404 {"error":true,"message":"Device is not found","status":404}
+05/12/2025 18:53:58: [Activation] ❌ Pedido PEDMIT842M1 falhou: MAC inválido! Dispositivo não encontrado.
+05/12/2025 18:53:58: [Saldo] Cliente 6897145702 ativação FALHOU, saldo mantido: R$1
