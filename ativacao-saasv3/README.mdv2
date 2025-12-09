@@ -1,0 +1,176 @@
+# Módulos com FlareSolverr
+
+Guia rápido para criar módulos de ativação que precisam resolver Cloudflare.
+
+## Estrutura
+
+```
+src/
+├── services/
+│   └── flareSolverService.js   ← Serviço principal (não mexer)
+└── modules/
+    └── nome_do_app/
+        └── index.js            ← Seu módulo
+```
+
+## Template de Módulo
+
+Crie `src/modules/nome_do_app/index.js`:
+
+```javascript
+const axios = require('axios');
+const flareSolver = require('../../services/flareSolverService');
+
+const CONFIG = {
+  name: 'Nome do App',
+  baseUrl: 'https://painel-do-app.com'
+};
+
+function createActivator(credentials) {
+  return {
+    
+    extractMacAddress(input) {
+      if (!input) return null;
+      let mac = input.trim().toUpperCase().replace(/[^A-F0-9]/g, '');
+      if (mac.length !== 12) return null;
+      return mac.match(/.{2}/g).join(':');
+    },
+
+    async testConnection() {
+      try {
+        const flareTest = await flareSolver.testConnection();
+        if (!flareTest.success) {
+          return { success: false, error: `FlareSolverr: ${flareTest.error}` };
+        }
+        return { success: true, message: 'Conexão OK' };
+      } catch (error) {
+        return { success: false, error: error.message };
+      }
+    },
+
+    async activate(macAddress, tier) {
+      const mac = this.extractMacAddress(macAddress);
+      if (!mac) {
+        return { success: false, error: 'MAC inválido' };
+      }
+
+      // ===== TUDO DENTRO DO withSession =====
+      return await flareSolver.withSession(async (sessionId) => {
+        
+        // 1. Passar pelo Cloudflare
+        const page = await flareSolver.get(CONFIG.baseUrl, sessionId);
+
+        // 2. Login (adapte conforme a API)
+        const loginRes = await flareSolver.post(
+          `${CONFIG.baseUrl}/api/login`,
+          sessionId,
+          { email: credentials.email, password: credentials.password }
+        );
+        
+        const loginData = JSON.parse(loginRes.html);
+        if (!loginData.token) {
+          return { success: false, error: 'Falha no login' };
+        }
+
+        // 3. Ativar (com cookies do Cloudflare)
+        const activateRes = await axios.post(
+          `${CONFIG.baseUrl}/api/activate`,
+          { mac_address: mac, tier },
+          {
+            headers: {
+              'Cookie': page.cookieString,
+              'User-Agent': page.userAgent,
+              'Authorization': `Bearer ${loginData.token}`
+            }
+          }
+        );
+
+        // 4. Retornar resultado
+        if (activateRes.data.success) {
+          return {
+            success: true,
+            message: `✅ MAC ${mac} ativado!`,
+            macAddress: mac,
+            expireDate: activateRes.data.expire_date,
+            apiResponse: activateRes.data
+          };
+        }
+
+        return {
+          success: false,
+          error: activateRes.data.message || 'Falha na ativação',
+          apiResponse: activateRes.data
+        };
+      });
+      // ===== NAVEGADOR FECHA AUTOMATICAMENTE AQUI =====
+    }
+  };
+}
+
+module.exports = { createActivator, CONFIG };
+```
+
+## Registrar no ActivationService
+
+Edite `src/services/activationService.js`:
+
+```javascript
+// 1. Importar no topo
+const { createActivator: createNomeDoAppActivator } = require('../modules/nome_do_app');
+
+// 2. Adicionar na lista de módulos Cloudflare
+const CLOUDFLARE_MODULES = ['nome_do_app'];
+
+// 3. No método getActivator(), adicionar:
+if (CLOUDFLARE_MODULES.includes(modulo)) {
+  return createNomeDoAppActivator(credentials);
+}
+```
+
+## Registrar em config.js
+
+```javascript
+nome_do_app: {
+  id: 'nome_do_app',
+  nome: 'Nome do App',
+  credencial: 'nome_do_app',  // ou 'ibosol' se compartilhar credenciais
+  tiers: {
+    YEAR: { id: 'YEAR', nome: 'Anual' },
+    LIFETIME: { id: 'LIFETIME', nome: 'Vitalício' }
+  }
+}
+```
+
+## Métodos do FlareSolverr
+
+| Método | Uso |
+|--------|-----|
+| `flareSolver.withSession(async (sessionId) => { })` | Wrapper principal - SEMPRE use |
+| `flareSolver.get(url, sessionId)` | GET passando pelo Cloudflare |
+| `flareSolver.post(url, sessionId, dados)` | POST passando pelo Cloudflare |
+| `flareSolver.testConnection()` | Testar se FlareSolverr está online |
+
+## Resposta do FlareSolver
+
+```javascript
+{
+  success: true,
+  html: '...',              // Conteúdo da página
+  cookies: [...],           // Array de cookies
+  cookieString: 'a=1; b=2', // Cookies prontos para header
+  userAgent: '...',         // User-Agent usado
+  status: 200               // Status HTTP
+}
+```
+
+## Dicas
+
+1. **Sempre use `withSession`** - garante que o navegador fecha mesmo com erro
+
+2. **Primeira request resolve o Cloudflare** - as seguintes usam os cookies
+
+3. **Requests após o Cloudflare** - pode usar axios direto com `cookieString` e `userAgent`
+
+4. **Timeout padrão** - 60 segundos (configurável via `FLARESOLVERR_TIMEOUT`)
+
+5. **Debug** - veja logs com `[FlareSolverr]` no console

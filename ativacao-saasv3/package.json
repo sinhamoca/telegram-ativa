@@ -1,0 +1,24 @@
+{
+  "name": "ativacao-saas",
+  "version": "1.0.0",
+  "description": "Sistema SaaS de ativação de aplicativos via Telegram",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "pm2:start": "pm2 start ecosystem.config.js",
+    "pm2:stop": "pm2 stop ativacao-saas",
+    "pm2:restart": "pm2 restart ativacao-saas",
+    "pm2:logs": "pm2 logs ativacao-saas",
+    "pm2:status": "pm2 status"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^17.2.3",
+    "node-cron": "^3.0.3",
+    "sql.js": "^1.10.0",
+    "telegraf": "^4.15.0",
+    "tesseract.js": "^6.0.1",
+    "uuid": "^9.0.0"
+  }
+}
